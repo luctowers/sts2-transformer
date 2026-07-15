@@ -9,7 +9,8 @@ repo root.
 
 ## `decomp/`
 
-Decompiled C# source of the game's main assembly — a read-only reference
-artifact for understanding game internals. Do not read or search under
-`decomp/` unless the user explicitly asks or grants permission. See
+Read-only reference artifacts extracted from the installed game: decompiled
+C# source of the main assembly (`decomp/src/`) and localization tables from
+the Godot pack (`decomp/pck/`). Do not read or search under `decomp/` unless
+the user explicitly asks or grants permission. See
 [docs/DECOMP.md](docs/DECOMP.md) for details and regeneration instructions.

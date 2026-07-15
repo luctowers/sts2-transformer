@@ -1,0 +1,9372 @@
+{
+  "A Thousand Cuts": {
+    "table": "powers",
+    "entry_id": "A_THOUSAND_CUTS_POWER",
+    "upgraded": false
+  },
+  "Abrasive": {
+    "table": "cards",
+    "entry_id": "ABRASIVE",
+    "upgraded": false
+  },
+  "Abrasive+": {
+    "table": "cards",
+    "entry_id": "ABRASIVE",
+    "upgraded": true
+  },
+  "Accelerant": {
+    "table": "powers",
+    "entry_id": "ACCELERANT_POWER",
+    "upgraded": false
+  },
+  "Accelerant+": {
+    "table": "cards",
+    "entry_id": "ACCELERANT",
+    "upgraded": true
+  },
+  "Accuracy": {
+    "table": "powers",
+    "entry_id": "ACCURACY_POWER",
+    "upgraded": false
+  },
+  "Accuracy+": {
+    "table": "cards",
+    "entry_id": "ACCURACY",
+    "upgraded": true
+  },
+  "Acrobatics": {
+    "table": "cards",
+    "entry_id": "ACROBATICS",
+    "upgraded": false
+  },
+  "Acrobatics+": {
+    "table": "cards",
+    "entry_id": "ACROBATICS",
+    "upgraded": true
+  },
+  "Adaptable": {
+    "table": "powers",
+    "entry_id": "ADAPTABLE_POWER",
+    "upgraded": false
+  },
+  "Adaptation": {
+    "table": "powers",
+    "entry_id": "ADAPTATION_POWER",
+    "upgraded": false
+  },
+  "Adaptive Strike": {
+    "table": "cards",
+    "entry_id": "ADAPTIVE_STRIKE",
+    "upgraded": false
+  },
+  "Adaptive Strike+": {
+    "table": "cards",
+    "entry_id": "ADAPTIVE_STRIKE",
+    "upgraded": true
+  },
+  "Adrenaline": {
+    "table": "cards",
+    "entry_id": "ADRENALINE",
+    "upgraded": false
+  },
+  "Adrenaline+": {
+    "table": "cards",
+    "entry_id": "ADRENALINE",
+    "upgraded": true
+  },
+  "Aeonglass": {
+    "table": "monsters",
+    "entry_id": "AEONGLASS",
+    "upgraded": false
+  },
+  "Afterimage": {
+    "table": "powers",
+    "entry_id": "AFTERIMAGE_POWER",
+    "upgraded": false
+  },
+  "Afterimage+": {
+    "table": "cards",
+    "entry_id": "AFTERIMAGE",
+    "upgraded": true
+  },
+  "Afterlife": {
+    "table": "cards",
+    "entry_id": "AFTERLIFE",
+    "upgraded": false
+  },
+  "Afterlife+": {
+    "table": "cards",
+    "entry_id": "AFTERLIFE",
+    "upgraded": true
+  },
+  "Aggression": {
+    "table": "powers",
+    "entry_id": "AGGRESSION_POWER",
+    "upgraded": false
+  },
+  "Aggression+": {
+    "table": "cards",
+    "entry_id": "AGGRESSION",
+    "upgraded": true
+  },
+  "Akabeko": {
+    "table": "relics",
+    "entry_id": "AKABEKO",
+    "upgraded": false
+  },
+  "Alchemical Coffer": {
+    "table": "relics",
+    "entry_id": "ALCHEMICAL_COFFER",
+    "upgraded": false
+  },
+  "Alchemize": {
+    "table": "cards",
+    "entry_id": "ALCHEMIZE",
+    "upgraded": false
+  },
+  "Alchemize+": {
+    "table": "cards",
+    "entry_id": "ALCHEMIZE",
+    "upgraded": true
+  },
+  "Alignment": {
+    "table": "cards",
+    "entry_id": "ALIGNMENT",
+    "upgraded": false
+  },
+  "Alignment+": {
+    "table": "cards",
+    "entry_id": "ALIGNMENT",
+    "upgraded": true
+  },
+  "All for One": {
+    "table": "cards",
+    "entry_id": "ALL_FOR_ONE",
+    "upgraded": false
+  },
+  "All for One+": {
+    "table": "cards",
+    "entry_id": "ALL_FOR_ONE",
+    "upgraded": true
+  },
+  "Amethyst Aubergine": {
+    "table": "relics",
+    "entry_id": "AMETHYST_AUBERGINE",
+    "upgraded": false
+  },
+  "Anchor": {
+    "table": "relics",
+    "entry_id": "ANCHOR",
+    "upgraded": false
+  },
+  "Anchor???": {
+    "table": "relics",
+    "entry_id": "FAKE_ANCHOR",
+    "upgraded": false
+  },
+  "Anger": {
+    "table": "cards",
+    "entry_id": "ANGER",
+    "upgraded": false
+  },
+  "Anger+": {
+    "table": "cards",
+    "entry_id": "ANGER",
+    "upgraded": true
+  },
+  "Anointed": {
+    "table": "cards",
+    "entry_id": "ANOINTED",
+    "upgraded": false
+  },
+  "Anointed+": {
+    "table": "cards",
+    "entry_id": "ANOINTED",
+    "upgraded": true
+  },
+  "Anticipate": {
+    "table": "cards",
+    "entry_id": "ANTICIPATE",
+    "upgraded": false
+  },
+  "Anticipate+": {
+    "table": "cards",
+    "entry_id": "ANTICIPATE",
+    "upgraded": true
+  },
+  "Apotheosis": {
+    "table": "cards",
+    "entry_id": "APOTHEOSIS",
+    "upgraded": false
+  },
+  "Apotheosis+": {
+    "table": "cards",
+    "entry_id": "APOTHEOSIS",
+    "upgraded": true
+  },
+  "Apparition": {
+    "table": "cards",
+    "entry_id": "APPARITION",
+    "upgraded": false
+  },
+  "Apparition+": {
+    "table": "cards",
+    "entry_id": "APPARITION",
+    "upgraded": true
+  },
+  "Apparitions": {
+    "table": "cards",
+    "entry_id": "APPARITION",
+    "upgraded": false
+  },
+  "Arcane Scroll": {
+    "table": "relics",
+    "entry_id": "ARCANE_SCROLL",
+    "upgraded": false
+  },
+  "Archaic Tooth": {
+    "table": "relics",
+    "entry_id": "ARCHAIC_TOOTH",
+    "upgraded": false
+  },
+  "Armaments": {
+    "table": "cards",
+    "entry_id": "ARMAMENTS",
+    "upgraded": false
+  },
+  "Armaments+": {
+    "table": "cards",
+    "entry_id": "ARMAMENTS",
+    "upgraded": true
+  },
+  "Arsenal": {
+    "table": "powers",
+    "entry_id": "ARSENAL_POWER",
+    "upgraded": false
+  },
+  "Arsenal+": {
+    "table": "cards",
+    "entry_id": "ARSENAL",
+    "upgraded": true
+  },
+  "Art of War": {
+    "table": "relics",
+    "entry_id": "ART_OF_WAR",
+    "upgraded": false
+  },
+  "Artifact": {
+    "table": "powers",
+    "entry_id": "ARTIFACT_POWER",
+    "upgraded": false
+  },
+  "Ascender's Bane": {
+    "table": "cards",
+    "entry_id": "ASCENDERS_BANE",
+    "upgraded": false
+  },
+  "Ascender's Bane+": {
+    "table": "cards",
+    "entry_id": "ASCENDERS_BANE",
+    "upgraded": true
+  },
+  "Ashen Strike": {
+    "table": "cards",
+    "entry_id": "ASHEN_STRIKE",
+    "upgraded": false
+  },
+  "Ashen Strike+": {
+    "table": "cards",
+    "entry_id": "ASHEN_STRIKE",
+    "upgraded": true
+  },
+  "Ashwater": {
+    "table": "potions",
+    "entry_id": "ASHWATER",
+    "upgraded": false
+  },
+  "Asleep": {
+    "table": "powers",
+    "entry_id": "ASLEEP_POWER",
+    "upgraded": false
+  },
+  "Assassin Raider": {
+    "table": "monsters",
+    "entry_id": "ASSASSIN_RUBY_RAIDER",
+    "upgraded": false
+  },
+  "Assassinate": {
+    "table": "cards",
+    "entry_id": "ASSASSINATE",
+    "upgraded": false
+  },
+  "Assassinate+": {
+    "table": "cards",
+    "entry_id": "ASSASSINATE",
+    "upgraded": true
+  },
+  "Astral Pulse": {
+    "table": "cards",
+    "entry_id": "ASTRAL_PULSE",
+    "upgraded": false
+  },
+  "Astral Pulse+": {
+    "table": "cards",
+    "entry_id": "ASTRAL_PULSE",
+    "upgraded": true
+  },
+  "Astrolabe": {
+    "table": "relics",
+    "entry_id": "ASTROLABE",
+    "upgraded": false
+  },
+  "Attack Monster": {
+    "table": "monsters",
+    "entry_id": "MOCK_ATTACK_MONSTER",
+    "upgraded": false
+  },
+  "Attack Move Monster": {
+    "table": "monsters",
+    "entry_id": "ATTACK_MOVE_MONSTER",
+    "upgraded": false
+  },
+  "Attack Potion": {
+    "table": "potions",
+    "entry_id": "ATTACK_POTION",
+    "upgraded": false
+  },
+  "Attack and Summon Minion Monster": {
+    "table": "monsters",
+    "entry_id": "MOCK_ATTACK_AND_SUMMON_MINION_MONSTER",
+    "upgraded": false
+  },
+  "Automation": {
+    "table": "powers",
+    "entry_id": "AUTOMATION_POWER",
+    "upgraded": false
+  },
+  "Automation+": {
+    "table": "cards",
+    "entry_id": "AUTOMATION",
+    "upgraded": true
+  },
+  "Axe Raider": {
+    "table": "monsters",
+    "entry_id": "AXE_RUBY_RAIDER",
+    "upgraded": false
+  },
+  "Axebot": {
+    "table": "monsters",
+    "entry_id": "AXEBOT",
+    "upgraded": false
+  },
+  "BEGONE!": {
+    "table": "cards",
+    "entry_id": "BEGONE",
+    "upgraded": false
+  },
+  "BEGONE!+": {
+    "table": "cards",
+    "entry_id": "BEGONE",
+    "upgraded": true
+  },
+  "Back Attack": {
+    "table": "powers",
+    "entry_id": "BACK_ATTACK_RIGHT_POWER",
+    "upgraded": false
+  },
+  "Backflip": {
+    "table": "cards",
+    "entry_id": "BACKFLIP",
+    "upgraded": false
+  },
+  "Backflip+": {
+    "table": "cards",
+    "entry_id": "BACKFLIP",
+    "upgraded": true
+  },
+  "Backstab": {
+    "table": "cards",
+    "entry_id": "BACKSTAB",
+    "upgraded": false
+  },
+  "Backstab+": {
+    "table": "cards",
+    "entry_id": "BACKSTAB",
+    "upgraded": true
+  },
+  "Bad Luck": {
+    "table": "cards",
+    "entry_id": "BAD_LUCK",
+    "upgraded": false
+  },
+  "Bad Luck+": {
+    "table": "cards",
+    "entry_id": "BAD_LUCK",
+    "upgraded": true
+  },
+  "Bag of Marbles": {
+    "table": "relics",
+    "entry_id": "BAG_OF_MARBLES",
+    "upgraded": false
+  },
+  "Bag of Preparation": {
+    "table": "relics",
+    "entry_id": "BAG_OF_PREPARATION",
+    "upgraded": false
+  },
+  "Ball Lightning": {
+    "table": "cards",
+    "entry_id": "BALL_LIGHTNING",
+    "upgraded": false
+  },
+  "Ball Lightning+": {
+    "table": "cards",
+    "entry_id": "BALL_LIGHTNING",
+    "upgraded": true
+  },
+  "Banshee's Cry": {
+    "table": "cards",
+    "entry_id": "BANSHEES_CRY",
+    "upgraded": false
+  },
+  "Banshee's Cry+": {
+    "table": "cards",
+    "entry_id": "BANSHEES_CRY",
+    "upgraded": true
+  },
+  "Barrage": {
+    "table": "cards",
+    "entry_id": "BARRAGE",
+    "upgraded": false
+  },
+  "Barrage+": {
+    "table": "cards",
+    "entry_id": "BARRAGE",
+    "upgraded": true
+  },
+  "Barricade": {
+    "table": "powers",
+    "entry_id": "BARRICADE_POWER",
+    "upgraded": false
+  },
+  "Barricade+": {
+    "table": "cards",
+    "entry_id": "BARRICADE",
+    "upgraded": true
+  },
+  "Bash": {
+    "table": "cards",
+    "entry_id": "BASH",
+    "upgraded": false
+  },
+  "Bash+": {
+    "table": "cards",
+    "entry_id": "BASH",
+    "upgraded": true
+  },
+  "Battle Friend V1.0": {
+    "table": "monsters",
+    "entry_id": "BATTLE_FRIEND_V1",
+    "upgraded": false
+  },
+  "Battle Friend V2.0": {
+    "table": "monsters",
+    "entry_id": "BATTLE_FRIEND_V2",
+    "upgraded": false
+  },
+  "Battle Friend V3.0": {
+    "table": "monsters",
+    "entry_id": "BATTLE_FRIEND_V3",
+    "upgraded": false
+  },
+  "Battle Trance": {
+    "table": "cards",
+    "entry_id": "BATTLE_TRANCE",
+    "upgraded": false
+  },
+  "Battle Trance+": {
+    "table": "cards",
+    "entry_id": "BATTLE_TRANCE",
+    "upgraded": true
+  },
+  "Beacon of Hope": {
+    "table": "powers",
+    "entry_id": "BEACON_OF_HOPE_POWER",
+    "upgraded": false
+  },
+  "Beacon of Hope+": {
+    "table": "cards",
+    "entry_id": "BEACON_OF_HOPE",
+    "upgraded": true
+  },
+  "Beam Cell": {
+    "table": "cards",
+    "entry_id": "BEAM_CELL",
+    "upgraded": false
+  },
+  "Beam Cell+": {
+    "table": "cards",
+    "entry_id": "BEAM_CELL",
+    "upgraded": true
+  },
+  "Beat Down": {
+    "table": "cards",
+    "entry_id": "BEAT_DOWN",
+    "upgraded": false
+  },
+  "Beat Down+": {
+    "table": "cards",
+    "entry_id": "BEAT_DOWN",
+    "upgraded": true
+  },
+  "Beat into Shape": {
+    "table": "cards",
+    "entry_id": "BEAT_INTO_SHAPE",
+    "upgraded": false
+  },
+  "Beat into Shape+": {
+    "table": "cards",
+    "entry_id": "BEAT_INTO_SHAPE",
+    "upgraded": true
+  },
+  "Beating Remnant": {
+    "table": "relics",
+    "entry_id": "BEATING_REMNANT",
+    "upgraded": false
+  },
+  "Beautiful Bracelet": {
+    "table": "relics",
+    "entry_id": "BEAUTIFUL_BRACELET",
+    "upgraded": false
+  },
+  "Beckon": {
+    "table": "cards",
+    "entry_id": "BECKON",
+    "upgraded": false
+  },
+  "Beckon+": {
+    "table": "cards",
+    "entry_id": "BECKON",
+    "upgraded": true
+  },
+  "Beetle Juice": {
+    "table": "potions",
+    "entry_id": "BEETLE_JUICE",
+    "upgraded": false
+  },
+  "Believe in You": {
+    "table": "cards",
+    "entry_id": "BELIEVE_IN_YOU",
+    "upgraded": false
+  },
+  "Believe in You+": {
+    "table": "cards",
+    "entry_id": "BELIEVE_IN_YOU",
+    "upgraded": true
+  },
+  "Bellows": {
+    "table": "relics",
+    "entry_id": "BELLOWS",
+    "upgraded": false
+  },
+  "Belt Buckle": {
+    "table": "relics",
+    "entry_id": "BELT_BUCKLE",
+    "upgraded": false
+  },
+  "Biased Cognition": {
+    "table": "powers",
+    "entry_id": "BIASED_COGNITION_POWER",
+    "upgraded": false
+  },
+  "Biased Cognition+": {
+    "table": "cards",
+    "entry_id": "BIASED_COGNITION",
+    "upgraded": true
+  },
+  "Big Bang": {
+    "table": "cards",
+    "entry_id": "BIG_BANG",
+    "upgraded": false
+  },
+  "Big Bang+": {
+    "table": "cards",
+    "entry_id": "BIG_BANG",
+    "upgraded": true
+  },
+  "Big Dummy": {
+    "table": "monsters",
+    "entry_id": "BIG_DUMMY",
+    "upgraded": false
+  },
+  "Big Hat": {
+    "table": "relics",
+    "entry_id": "BIG_HAT",
+    "upgraded": false
+  },
+  "Big Mushroom": {
+    "table": "relics",
+    "entry_id": "BIG_MUSHROOM",
+    "upgraded": false
+  },
+  "Biiig Hug": {
+    "table": "relics",
+    "entry_id": "BIIIG_HUG",
+    "upgraded": false
+  },
+  "Bing Bong": {
+    "table": "relics",
+    "entry_id": "BING_BONG",
+    "upgraded": false
+  },
+  "Black Blood": {
+    "table": "relics",
+    "entry_id": "BLACK_BLOOD",
+    "upgraded": false
+  },
+  "Black Hole": {
+    "table": "powers",
+    "entry_id": "BLACK_HOLE_POWER",
+    "upgraded": false
+  },
+  "Black Hole+": {
+    "table": "cards",
+    "entry_id": "BLACK_HOLE",
+    "upgraded": true
+  },
+  "Black Star": {
+    "table": "relics",
+    "entry_id": "BLACK_STAR",
+    "upgraded": false
+  },
+  "Blade Dance": {
+    "table": "cards",
+    "entry_id": "BLADE_DANCE",
+    "upgraded": false
+  },
+  "Blade Dance+": {
+    "table": "cards",
+    "entry_id": "BLADE_DANCE",
+    "upgraded": true
+  },
+  "Blade Symphony": {
+    "table": "cards",
+    "entry_id": "BLADE_SYMPHONY",
+    "upgraded": false
+  },
+  "Blade Symphony+": {
+    "table": "cards",
+    "entry_id": "BLADE_SYMPHONY",
+    "upgraded": true
+  },
+  "Blade of Ink": {
+    "table": "cards",
+    "entry_id": "BLADE_OF_INK",
+    "upgraded": false
+  },
+  "Blade of Ink+": {
+    "table": "cards",
+    "entry_id": "BLADE_OF_INK",
+    "upgraded": true
+  },
+  "Blaze": {
+    "table": "cards",
+    "entry_id": "BLAZE",
+    "upgraded": false
+  },
+  "Blaze+": {
+    "table": "cards",
+    "entry_id": "BLAZE",
+    "upgraded": true
+  },
+  "Blessed Antler": {
+    "table": "relics",
+    "entry_id": "BLESSED_ANTLER",
+    "upgraded": false
+  },
+  "Blessing of the Forge": {
+    "table": "potions",
+    "entry_id": "BLESSING_OF_THE_FORGE",
+    "upgraded": false
+  },
+  "Blight Strike": {
+    "table": "cards",
+    "entry_id": "BLIGHT_STRIKE",
+    "upgraded": false
+  },
+  "Blight Strike+": {
+    "table": "cards",
+    "entry_id": "BLIGHT_STRIKE",
+    "upgraded": true
+  },
+  "Block Next Turn": {
+    "table": "powers",
+    "entry_id": "BLOCK_NEXT_TURN_POWER",
+    "upgraded": false
+  },
+  "Block Potion": {
+    "table": "potions",
+    "entry_id": "BLOCK_POTION",
+    "upgraded": false
+  },
+  "Blood Potion": {
+    "table": "potions",
+    "entry_id": "BLOOD_POTION",
+    "upgraded": false
+  },
+  "Blood Vial": {
+    "table": "relics",
+    "entry_id": "BLOOD_VIAL",
+    "upgraded": false
+  },
+  "Blood Vial???": {
+    "table": "relics",
+    "entry_id": "FAKE_BLOOD_VIAL",
+    "upgraded": false
+  },
+  "Blood Wall": {
+    "table": "cards",
+    "entry_id": "BLOOD_WALL",
+    "upgraded": false
+  },
+  "Blood Wall+": {
+    "table": "cards",
+    "entry_id": "BLOOD_WALL",
+    "upgraded": true
+  },
+  "Blood-Soaked Rose": {
+    "table": "relics",
+    "entry_id": "BLOOD_SOAKED_ROSE",
+    "upgraded": false
+  },
+  "Bloodletting": {
+    "table": "cards",
+    "entry_id": "BLOODLETTING",
+    "upgraded": false
+  },
+  "Bloodletting+": {
+    "table": "cards",
+    "entry_id": "BLOODLETTING",
+    "upgraded": true
+  },
+  "Bludgeon": {
+    "table": "cards",
+    "entry_id": "BLUDGEON",
+    "upgraded": false
+  },
+  "Bludgeon+": {
+    "table": "cards",
+    "entry_id": "BLUDGEON",
+    "upgraded": true
+  },
+  "Blur": {
+    "table": "powers",
+    "entry_id": "BLUR_POWER",
+    "upgraded": false
+  },
+  "Blur+": {
+    "table": "cards",
+    "entry_id": "BLUR",
+    "upgraded": true
+  },
+  "Body Slam": {
+    "table": "cards",
+    "entry_id": "BODY_SLAM",
+    "upgraded": false
+  },
+  "Body Slam+": {
+    "table": "cards",
+    "entry_id": "BODY_SLAM",
+    "upgraded": true
+  },
+  "Bodyguard": {
+    "table": "cards",
+    "entry_id": "BODYGUARD",
+    "upgraded": false
+  },
+  "Bodyguard+": {
+    "table": "cards",
+    "entry_id": "BODYGUARD",
+    "upgraded": true
+  },
+  "Bolas": {
+    "table": "cards",
+    "entry_id": "BOLAS",
+    "upgraded": false
+  },
+  "Bolas+": {
+    "table": "cards",
+    "entry_id": "BOLAS",
+    "upgraded": true
+  },
+  "Bombardment": {
+    "table": "cards",
+    "entry_id": "BOMBARDMENT",
+    "upgraded": false
+  },
+  "Bombardment+": {
+    "table": "cards",
+    "entry_id": "BOMBARDMENT",
+    "upgraded": true
+  },
+  "Bone Brew": {
+    "table": "potions",
+    "entry_id": "BONE_BREW",
+    "upgraded": false
+  },
+  "Bone Flute": {
+    "table": "relics",
+    "entry_id": "BONE_FLUTE",
+    "upgraded": false
+  },
+  "Bone Shards": {
+    "table": "cards",
+    "entry_id": "BONE_SHARDS",
+    "upgraded": false
+  },
+  "Bone Shards+": {
+    "table": "cards",
+    "entry_id": "BONE_SHARDS",
+    "upgraded": true
+  },
+  "Bone Tea": {
+    "table": "relics",
+    "entry_id": "BONE_TEA",
+    "upgraded": false
+  },
+  "Book Repair Knife": {
+    "table": "relics",
+    "entry_id": "BOOK_REPAIR_KNIFE",
+    "upgraded": false
+  },
+  "Book of Five Rings": {
+    "table": "relics",
+    "entry_id": "BOOK_OF_FIVE_RINGS",
+    "upgraded": false
+  },
+  "Bookmark": {
+    "table": "relics",
+    "entry_id": "BOOKMARK",
+    "upgraded": false
+  },
+  "Booming Conch": {
+    "table": "relics",
+    "entry_id": "BOOMING_CONCH",
+    "upgraded": false
+  },
+  "Boost Away": {
+    "table": "cards",
+    "entry_id": "BOOST_AWAY",
+    "upgraded": false
+  },
+  "Boost Away+": {
+    "table": "cards",
+    "entry_id": "BOOST_AWAY",
+    "upgraded": true
+  },
+  "Boot Sequence": {
+    "table": "cards",
+    "entry_id": "BOOT_SEQUENCE",
+    "upgraded": false
+  },
+  "Boot Sequence+": {
+    "table": "cards",
+    "entry_id": "BOOT_SEQUENCE",
+    "upgraded": true
+  },
+  "Borrowed Time": {
+    "table": "powers",
+    "entry_id": "BORROWED_TIME_POWER",
+    "upgraded": false
+  },
+  "Borrowed Time+": {
+    "table": "cards",
+    "entry_id": "BORROWED_TIME",
+    "upgraded": true
+  },
+  "Bottled Potential": {
+    "table": "potions",
+    "entry_id": "BOTTLED_POTENTIAL",
+    "upgraded": false
+  },
+  "Bouncing Flask": {
+    "table": "cards",
+    "entry_id": "BOUNCING_FLASK",
+    "upgraded": false
+  },
+  "Bouncing Flask+": {
+    "table": "cards",
+    "entry_id": "BOUNCING_FLASK",
+    "upgraded": true
+  },
+  "Bound Phylactery": {
+    "table": "relics",
+    "entry_id": "BOUND_PHYLACTERY",
+    "upgraded": false
+  },
+  "Bowlbug (Egg)": {
+    "table": "monsters",
+    "entry_id": "BOWLBUG_EGG",
+    "upgraded": false
+  },
+  "Bowlbug (Nectar)": {
+    "table": "monsters",
+    "entry_id": "BOWLBUG_NECTAR",
+    "upgraded": false
+  },
+  "Bowlbug (Rock)": {
+    "table": "monsters",
+    "entry_id": "BOWLBUG_ROCK",
+    "upgraded": false
+  },
+  "Bowlbug (Silk)": {
+    "table": "monsters",
+    "entry_id": "BOWLBUG_SILK",
+    "upgraded": false
+  },
+  "Bowler Hat": {
+    "table": "relics",
+    "entry_id": "BOWLER_HAT",
+    "upgraded": false
+  },
+  "Brand": {
+    "table": "cards",
+    "entry_id": "BRAND",
+    "upgraded": false
+  },
+  "Brand+": {
+    "table": "cards",
+    "entry_id": "BRAND",
+    "upgraded": true
+  },
+  "Bread": {
+    "table": "relics",
+    "entry_id": "BREAD",
+    "upgraded": false
+  },
+  "Break": {
+    "table": "cards",
+    "entry_id": "BREAK",
+    "upgraded": false
+  },
+  "Break+": {
+    "table": "cards",
+    "entry_id": "BREAK",
+    "upgraded": true
+  },
+  "Breakthrough": {
+    "table": "cards",
+    "entry_id": "BREAKTHROUGH",
+    "upgraded": false
+  },
+  "Breakthrough+": {
+    "table": "cards",
+    "entry_id": "BREAKTHROUGH",
+    "upgraded": true
+  },
+  "Brightest Flame": {
+    "table": "cards",
+    "entry_id": "BRIGHTEST_FLAME",
+    "upgraded": false
+  },
+  "Brightest Flame+": {
+    "table": "cards",
+    "entry_id": "BRIGHTEST_FLAME",
+    "upgraded": true
+  },
+  "Brilliant Scarf": {
+    "table": "relics",
+    "entry_id": "BRILLIANT_SCARF",
+    "upgraded": false
+  },
+  "Brimstone": {
+    "table": "relics",
+    "entry_id": "BRIMSTONE",
+    "upgraded": false
+  },
+  "Bronze Scales": {
+    "table": "relics",
+    "entry_id": "BRONZE_SCALES",
+    "upgraded": false
+  },
+  "Brute Raider": {
+    "table": "monsters",
+    "entry_id": "BRUTE_RUBY_RAIDER",
+    "upgraded": false
+  },
+  "Bubble Bubble": {
+    "table": "cards",
+    "entry_id": "BUBBLE_BUBBLE",
+    "upgraded": false
+  },
+  "Bubble Bubble+": {
+    "table": "cards",
+    "entry_id": "BUBBLE_BUBBLE",
+    "upgraded": true
+  },
+  "Buffer": {
+    "table": "powers",
+    "entry_id": "BUFFER_POWER",
+    "upgraded": false
+  },
+  "Buffer+": {
+    "table": "cards",
+    "entry_id": "BUFFER",
+    "upgraded": true
+  },
+  "Bulk Up": {
+    "table": "cards",
+    "entry_id": "BULK_UP",
+    "upgraded": false
+  },
+  "Bulk Up+": {
+    "table": "cards",
+    "entry_id": "BULK_UP",
+    "upgraded": true
+  },
+  "Bullet Time": {
+    "table": "cards",
+    "entry_id": "BULLET_TIME",
+    "upgraded": false
+  },
+  "Bullet Time+": {
+    "table": "cards",
+    "entry_id": "BULLET_TIME",
+    "upgraded": true
+  },
+  "Bully": {
+    "table": "cards",
+    "entry_id": "BULLY",
+    "upgraded": false
+  },
+  "Bully+": {
+    "table": "cards",
+    "entry_id": "BULLY",
+    "upgraded": true
+  },
+  "Bulwark": {
+    "table": "cards",
+    "entry_id": "BULWARK",
+    "upgraded": false
+  },
+  "Bulwark+": {
+    "table": "cards",
+    "entry_id": "BULWARK",
+    "upgraded": true
+  },
+  "Bundle of Joy": {
+    "table": "cards",
+    "entry_id": "BUNDLE_OF_JOY",
+    "upgraded": false
+  },
+  "Bundle of Joy+": {
+    "table": "cards",
+    "entry_id": "BUNDLE_OF_JOY",
+    "upgraded": true
+  },
+  "Burn": {
+    "table": "cards",
+    "entry_id": "BURN",
+    "upgraded": false
+  },
+  "Burn+": {
+    "table": "cards",
+    "entry_id": "BURN",
+    "upgraded": true
+  },
+  "Burning Blood": {
+    "table": "relics",
+    "entry_id": "BURNING_BLOOD",
+    "upgraded": false
+  },
+  "Burning Pact": {
+    "table": "cards",
+    "entry_id": "BURNING_PACT",
+    "upgraded": false
+  },
+  "Burning Pact+": {
+    "table": "cards",
+    "entry_id": "BURNING_PACT",
+    "upgraded": true
+  },
+  "Burning Sticks": {
+    "table": "relics",
+    "entry_id": "BURNING_STICKS",
+    "upgraded": false
+  },
+  "Burrowed": {
+    "table": "powers",
+    "entry_id": "BURROWED_POWER",
+    "upgraded": false
+  },
+  "Burst": {
+    "table": "powers",
+    "entry_id": "BURST_POWER",
+    "upgraded": false
+  },
+  "Burst+": {
+    "table": "cards",
+    "entry_id": "BURST",
+    "upgraded": true
+  },
+  "Bury": {
+    "table": "cards",
+    "entry_id": "BURY",
+    "upgraded": false
+  },
+  "Bury+": {
+    "table": "cards",
+    "entry_id": "BURY",
+    "upgraded": true
+  },
+  "Bygone Effigy": {
+    "table": "monsters",
+    "entry_id": "BYGONE_EFFIGY",
+    "upgraded": false
+  },
+  "Byrd Swoop": {
+    "table": "cards",
+    "entry_id": "BYRD_SWOOP",
+    "upgraded": false
+  },
+  "Byrd Swoop+": {
+    "table": "cards",
+    "entry_id": "BYRD_SWOOP",
+    "upgraded": true
+  },
+  "Byrdonis": {
+    "table": "monsters",
+    "entry_id": "BYRDONIS",
+    "upgraded": false
+  },
+  "Byrdonis Egg": {
+    "table": "cards",
+    "entry_id": "BYRDONIS_EGG",
+    "upgraded": false
+  },
+  "Byrdonis Egg+": {
+    "table": "cards",
+    "entry_id": "BYRDONIS_EGG",
+    "upgraded": true
+  },
+  "Byrdpip": {
+    "table": "monsters",
+    "entry_id": "BYRDPIP",
+    "upgraded": false
+  },
+  "CHARGE!!": {
+    "table": "cards",
+    "entry_id": "CHARGE",
+    "upgraded": false
+  },
+  "CHARGE!!+": {
+    "table": "cards",
+    "entry_id": "CHARGE",
+    "upgraded": true
+  },
+  "Cacophony": {
+    "table": "powers",
+    "entry_id": "CACOPHONY_POWER",
+    "upgraded": false
+  },
+  "Cacophony+": {
+    "table": "cards",
+    "entry_id": "CACOPHONY",
+    "upgraded": true
+  },
+  "Calamity": {
+    "table": "powers",
+    "entry_id": "CALAMITY_POWER",
+    "upgraded": false
+  },
+  "Calamity+": {
+    "table": "cards",
+    "entry_id": "CALAMITY",
+    "upgraded": true
+  },
+  "Calcified Cultist": {
+    "table": "monsters",
+    "entry_id": "CALCIFIED_CULTIST",
+    "upgraded": false
+  },
+  "Calcify": {
+    "table": "powers",
+    "entry_id": "CALCIFY_POWER",
+    "upgraded": false
+  },
+  "Calcify+": {
+    "table": "cards",
+    "entry_id": "CALCIFY",
+    "upgraded": true
+  },
+  "Calculated Gamble": {
+    "table": "cards",
+    "entry_id": "CALCULATED_GAMBLE",
+    "upgraded": false
+  },
+  "Calculated Gamble+": {
+    "table": "cards",
+    "entry_id": "CALCULATED_GAMBLE",
+    "upgraded": true
+  },
+  "Call of the Void": {
+    "table": "powers",
+    "entry_id": "CALL_OF_THE_VOID_POWER",
+    "upgraded": false
+  },
+  "Call of the Void+": {
+    "table": "cards",
+    "entry_id": "CALL_OF_THE_VOID",
+    "upgraded": true
+  },
+  "Calling Bell": {
+    "table": "relics",
+    "entry_id": "CALLING_BELL",
+    "upgraded": false
+  },
+  "Caltrops": {
+    "table": "cards",
+    "entry_id": "CALTROPS",
+    "upgraded": false
+  },
+  "Caltrops+": {
+    "table": "cards",
+    "entry_id": "CALTROPS",
+    "upgraded": true
+  },
+  "Candelabra": {
+    "table": "relics",
+    "entry_id": "CANDELABRA",
+    "upgraded": false
+  },
+  "Capacitor": {
+    "table": "cards",
+    "entry_id": "CAPACITOR",
+    "upgraded": false
+  },
+  "Capacitor+": {
+    "table": "cards",
+    "entry_id": "CAPACITOR",
+    "upgraded": true
+  },
+  "Captain's Wheel": {
+    "table": "relics",
+    "entry_id": "CAPTAINS_WHEEL",
+    "upgraded": false
+  },
+  "Capture Spirit": {
+    "table": "cards",
+    "entry_id": "CAPTURE_SPIRIT",
+    "upgraded": false
+  },
+  "Capture Spirit+": {
+    "table": "cards",
+    "entry_id": "CAPTURE_SPIRIT",
+    "upgraded": true
+  },
+  "Cascade": {
+    "table": "cards",
+    "entry_id": "CASCADE",
+    "upgraded": false
+  },
+  "Cascade+": {
+    "table": "cards",
+    "entry_id": "CASCADE",
+    "upgraded": true
+  },
+  "Catastrophe": {
+    "table": "cards",
+    "entry_id": "CATASTROPHE",
+    "upgraded": false
+  },
+  "Catastrophe+": {
+    "table": "cards",
+    "entry_id": "CATASTROPHE",
+    "upgraded": true
+  },
+  "Cauldron": {
+    "table": "relics",
+    "entry_id": "CAULDRON",
+    "upgraded": false
+  },
+  "Celestial Might": {
+    "table": "cards",
+    "entry_id": "CELESTIAL_MIGHT",
+    "upgraded": false
+  },
+  "Celestial Might+": {
+    "table": "cards",
+    "entry_id": "CELESTIAL_MIGHT",
+    "upgraded": true
+  },
+  "Centennial Puzzle": {
+    "table": "relics",
+    "entry_id": "CENTENNIAL_PUZZLE",
+    "upgraded": false
+  },
+  "Ceremonial Beast": {
+    "table": "monsters",
+    "entry_id": "CEREMONIAL_BEAST",
+    "upgraded": false
+  },
+  "Chains of Binding": {
+    "table": "powers",
+    "entry_id": "CHAINS_OF_BINDING_POWER",
+    "upgraded": false
+  },
+  "Chandelier": {
+    "table": "relics",
+    "entry_id": "CHANDELIER",
+    "upgraded": false
+  },
+  "Chaos": {
+    "table": "cards",
+    "entry_id": "CHAOS",
+    "upgraded": false
+  },
+  "Chaos+": {
+    "table": "cards",
+    "entry_id": "CHAOS",
+    "upgraded": true
+  },
+  "Charge Battery": {
+    "table": "cards",
+    "entry_id": "CHARGE_BATTERY",
+    "upgraded": false
+  },
+  "Charge Battery+": {
+    "table": "cards",
+    "entry_id": "CHARGE_BATTERY",
+    "upgraded": true
+  },
+  "Charon's Ashes": {
+    "table": "relics",
+    "entry_id": "CHARONS_ASHES",
+    "upgraded": false
+  },
+  "Chemical X": {
+    "table": "relics",
+    "entry_id": "CHEMICAL_X",
+    "upgraded": false
+  },
+  "Child of the Stars": {
+    "table": "powers",
+    "entry_id": "CHILD_OF_THE_STARS_POWER",
+    "upgraded": false
+  },
+  "Child of the Stars+": {
+    "table": "cards",
+    "entry_id": "CHILD_OF_THE_STARS",
+    "upgraded": true
+  },
+  "Chill": {
+    "table": "cards",
+    "entry_id": "CHILL",
+    "upgraded": false
+  },
+  "Chill+": {
+    "table": "cards",
+    "entry_id": "CHILL",
+    "upgraded": true
+  },
+  "Choices Paradox": {
+    "table": "relics",
+    "entry_id": "CHOICES_PARADOX",
+    "upgraded": false
+  },
+  "Chomper": {
+    "table": "monsters",
+    "entry_id": "CHOMPER",
+    "upgraded": false
+  },
+  "Chrysalis": {
+    "table": "cards",
+    "entry_id": "CHRYSALIS",
+    "upgraded": false
+  },
+  "Chrysalis+": {
+    "table": "cards",
+    "entry_id": "CHRYSALIS",
+    "upgraded": true
+  },
+  "Cinder": {
+    "table": "cards",
+    "entry_id": "CINDER",
+    "upgraded": false
+  },
+  "Cinder+": {
+    "table": "cards",
+    "entry_id": "CINDER",
+    "upgraded": true
+  },
+  "Circlet": {
+    "table": "relics",
+    "entry_id": "CIRCLET",
+    "upgraded": false
+  },
+  "Clarity": {
+    "table": "powers",
+    "entry_id": "CLARITY_POWER",
+    "upgraded": false
+  },
+  "Clarity Extract": {
+    "table": "potions",
+    "entry_id": "CLARITY",
+    "upgraded": false
+  },
+  "Clash": {
+    "table": "cards",
+    "entry_id": "CLASH",
+    "upgraded": false
+  },
+  "Clash+": {
+    "table": "cards",
+    "entry_id": "CLASH",
+    "upgraded": true
+  },
+  "Claw": {
+    "table": "cards",
+    "entry_id": "CLAW",
+    "upgraded": false
+  },
+  "Claw+": {
+    "table": "cards",
+    "entry_id": "CLAW",
+    "upgraded": true
+  },
+  "Claws": {
+    "table": "relics",
+    "entry_id": "CLAWS",
+    "upgraded": false
+  },
+  "Cleanse": {
+    "table": "cards",
+    "entry_id": "CLEANSE",
+    "upgraded": false
+  },
+  "Cleanse+": {
+    "table": "cards",
+    "entry_id": "CLEANSE",
+    "upgraded": true
+  },
+  "Cloak Clasp": {
+    "table": "relics",
+    "entry_id": "CLOAK_CLASP",
+    "upgraded": false
+  },
+  "Cloak and Dagger": {
+    "table": "cards",
+    "entry_id": "CLOAK_AND_DAGGER",
+    "upgraded": false
+  },
+  "Cloak and Dagger+": {
+    "table": "cards",
+    "entry_id": "CLOAK_AND_DAGGER",
+    "upgraded": true
+  },
+  "Cloak of Stars": {
+    "table": "cards",
+    "entry_id": "CLOAK_OF_STARS",
+    "upgraded": false
+  },
+  "Cloak of Stars+": {
+    "table": "cards",
+    "entry_id": "CLOAK_OF_STARS",
+    "upgraded": true
+  },
+  "Clumsy": {
+    "table": "cards",
+    "entry_id": "CLUMSY",
+    "upgraded": false
+  },
+  "Clumsy+": {
+    "table": "cards",
+    "entry_id": "CLUMSY",
+    "upgraded": true
+  },
+  "Cocoon": {
+    "table": "monsters",
+    "entry_id": "COCOON",
+    "upgraded": false
+  },
+  "Cold Snap": {
+    "table": "cards",
+    "entry_id": "COLD_SNAP",
+    "upgraded": false
+  },
+  "Cold Snap+": {
+    "table": "cards",
+    "entry_id": "COLD_SNAP",
+    "upgraded": true
+  },
+  "Collision Course": {
+    "table": "cards",
+    "entry_id": "COLLISION_COURSE",
+    "upgraded": false
+  },
+  "Collision Course+": {
+    "table": "cards",
+    "entry_id": "COLLISION_COURSE",
+    "upgraded": true
+  },
+  "Colorless Potion": {
+    "table": "potions",
+    "entry_id": "COLORLESS_POTION",
+    "upgraded": false
+  },
+  "Colossus": {
+    "table": "powers",
+    "entry_id": "COLOSSUS_POWER",
+    "upgraded": false
+  },
+  "Colossus+": {
+    "table": "cards",
+    "entry_id": "COLOSSUS",
+    "upgraded": true
+  },
+  "Comet": {
+    "table": "cards",
+    "entry_id": "COMET",
+    "upgraded": false
+  },
+  "Comet+": {
+    "table": "cards",
+    "entry_id": "COMET",
+    "upgraded": true
+  },
+  "Compact": {
+    "table": "cards",
+    "entry_id": "COMPACT",
+    "upgraded": false
+  },
+  "Compact+": {
+    "table": "cards",
+    "entry_id": "COMPACT",
+    "upgraded": true
+  },
+  "Compile Driver": {
+    "table": "cards",
+    "entry_id": "COMPILE_DRIVER",
+    "upgraded": false
+  },
+  "Compile Driver+": {
+    "table": "cards",
+    "entry_id": "COMPILE_DRIVER",
+    "upgraded": true
+  },
+  "Concoct": {
+    "table": "powers",
+    "entry_id": "CONCOCT_POWER",
+    "upgraded": false
+  },
+  "Concoct+": {
+    "table": "cards",
+    "entry_id": "CONCOCT",
+    "upgraded": true
+  },
+  "Conflagration": {
+    "table": "cards",
+    "entry_id": "CONFLAGRATION",
+    "upgraded": false
+  },
+  "Conflagration+": {
+    "table": "cards",
+    "entry_id": "CONFLAGRATION",
+    "upgraded": true
+  },
+  "Confused": {
+    "table": "powers",
+    "entry_id": "CONFUSED_POWER",
+    "upgraded": false
+  },
+  "Conqueror": {
+    "table": "powers",
+    "entry_id": "CONQUEROR_POWER",
+    "upgraded": false
+  },
+  "Conqueror+": {
+    "table": "cards",
+    "entry_id": "CONQUEROR",
+    "upgraded": true
+  },
+  "Constellation": {
+    "table": "cards",
+    "entry_id": "CONSTELLATION",
+    "upgraded": false
+  },
+  "Constellation+": {
+    "table": "cards",
+    "entry_id": "CONSTELLATION",
+    "upgraded": true
+  },
+  "Constrict": {
+    "table": "powers",
+    "entry_id": "CONSTRICT_POWER",
+    "upgraded": false
+  },
+  "Consuming Shadow": {
+    "table": "powers",
+    "entry_id": "CONSUMING_SHADOW_POWER",
+    "upgraded": false
+  },
+  "Consuming Shadow+": {
+    "table": "cards",
+    "entry_id": "CONSUMING_SHADOW",
+    "upgraded": true
+  },
+  "Contractility": {
+    "table": "powers",
+    "entry_id": "CONTRACTILITY_POWER",
+    "upgraded": false
+  },
+  "Convergence": {
+    "table": "cards",
+    "entry_id": "CONVERGENCE",
+    "upgraded": false
+  },
+  "Convergence+": {
+    "table": "cards",
+    "entry_id": "CONVERGENCE",
+    "upgraded": true
+  },
+  "Coolant": {
+    "table": "powers",
+    "entry_id": "COOLANT_POWER",
+    "upgraded": false
+  },
+  "Coolant+": {
+    "table": "cards",
+    "entry_id": "COOLANT",
+    "upgraded": true
+  },
+  "Coolheaded": {
+    "table": "cards",
+    "entry_id": "COOLHEADED",
+    "upgraded": false
+  },
+  "Coolheaded+": {
+    "table": "cards",
+    "entry_id": "COOLHEADED",
+    "upgraded": true
+  },
+  "Coordinate": {
+    "table": "cards",
+    "entry_id": "COORDINATE",
+    "upgraded": false
+  },
+  "Coordinate+": {
+    "table": "cards",
+    "entry_id": "COORDINATE",
+    "upgraded": true
+  },
+  "Corpse Slug": {
+    "table": "monsters",
+    "entry_id": "CORPSE_SLUG",
+    "upgraded": false
+  },
+  "Corrosive Wave": {
+    "table": "powers",
+    "entry_id": "CORROSIVE_WAVE_POWER",
+    "upgraded": false
+  },
+  "Corrosive Wave+": {
+    "table": "cards",
+    "entry_id": "CORROSIVE_WAVE",
+    "upgraded": true
+  },
+  "Corruption": {
+    "table": "powers",
+    "entry_id": "CORRUPTION_POWER",
+    "upgraded": false
+  },
+  "Corruption+": {
+    "table": "cards",
+    "entry_id": "CORRUPTION",
+    "upgraded": true
+  },
+  "Cosmic Concoction": {
+    "table": "potions",
+    "entry_id": "COSMIC_CONCOCTION",
+    "upgraded": false
+  },
+  "Cosmic Indifference": {
+    "table": "cards",
+    "entry_id": "COSMIC_INDIFFERENCE",
+    "upgraded": false
+  },
+  "Cosmic Indifference+": {
+    "table": "cards",
+    "entry_id": "COSMIC_INDIFFERENCE",
+    "upgraded": true
+  },
+  "Countdown": {
+    "table": "powers",
+    "entry_id": "COUNTDOWN_POWER",
+    "upgraded": false
+  },
+  "Countdown+": {
+    "table": "cards",
+    "entry_id": "COUNTDOWN",
+    "upgraded": true
+  },
+  "Covered": {
+    "table": "powers",
+    "entry_id": "COVERED_POWER",
+    "upgraded": false
+  },
+  "Crab Rage": {
+    "table": "powers",
+    "entry_id": "CRAB_RAGE_POWER",
+    "upgraded": false
+  },
+  "Cracked Core": {
+    "table": "relics",
+    "entry_id": "CRACKED_CORE",
+    "upgraded": false
+  },
+  "Crash Landing": {
+    "table": "cards",
+    "entry_id": "CRASH_LANDING",
+    "upgraded": false
+  },
+  "Crash Landing+": {
+    "table": "cards",
+    "entry_id": "CRASH_LANDING",
+    "upgraded": true
+  },
+  "Creative AI": {
+    "table": "powers",
+    "entry_id": "CREATIVE_AI_POWER",
+    "upgraded": false
+  },
+  "Creative AI+": {
+    "table": "cards",
+    "entry_id": "CREATIVE_AI",
+    "upgraded": true
+  },
+  "Crescent Spear": {
+    "table": "cards",
+    "entry_id": "CRESCENT_SPEAR",
+    "upgraded": false
+  },
+  "Crescent Spear+": {
+    "table": "cards",
+    "entry_id": "CRESCENT_SPEAR",
+    "upgraded": true
+  },
+  "Crimson Mantle": {
+    "table": "powers",
+    "entry_id": "CRIMSON_MANTLE_POWER",
+    "upgraded": false
+  },
+  "Crimson Mantle+": {
+    "table": "cards",
+    "entry_id": "CRIMSON_MANTLE",
+    "upgraded": true
+  },
+  "Crossbow": {
+    "table": "relics",
+    "entry_id": "CROSSBOW",
+    "upgraded": false
+  },
+  "Crossbow Raider": {
+    "table": "monsters",
+    "entry_id": "CROSSBOW_RUBY_RAIDER",
+    "upgraded": false
+  },
+  "Cruelty": {
+    "table": "powers",
+    "entry_id": "CRUELTY_POWER",
+    "upgraded": false
+  },
+  "Cruelty+": {
+    "table": "cards",
+    "entry_id": "CRUELTY",
+    "upgraded": true
+  },
+  "Crush Under": {
+    "table": "cards",
+    "entry_id": "CRUSH_UNDER",
+    "upgraded": false
+  },
+  "Crush Under+": {
+    "table": "cards",
+    "entry_id": "CRUSH_UNDER",
+    "upgraded": true
+  },
+  "Crusher": {
+    "table": "monsters",
+    "entry_id": "CRUSHER",
+    "upgraded": false
+  },
+  "Cubex Construct": {
+    "table": "monsters",
+    "entry_id": "CUBEX_CONSTRUCT",
+    "upgraded": false
+  },
+  "Cunning Potion": {
+    "table": "potions",
+    "entry_id": "CUNNING_POTION",
+    "upgraded": false
+  },
+  "Cure All": {
+    "table": "potions",
+    "entry_id": "CURE_ALL",
+    "upgraded": false
+  },
+  "Curious": {
+    "table": "powers",
+    "entry_id": "CURIOUS_POWER",
+    "upgraded": false
+  },
+  "Curl Up": {
+    "table": "powers",
+    "entry_id": "CURL_UP_POWER",
+    "upgraded": false
+  },
+  "Curse of the Bell": {
+    "table": "cards",
+    "entry_id": "CURSE_OF_THE_BELL",
+    "upgraded": false
+  },
+  "Curse of the Bell+": {
+    "table": "cards",
+    "entry_id": "CURSE_OF_THE_BELL",
+    "upgraded": true
+  },
+  "Cursed Kettle": {
+    "table": "relics",
+    "entry_id": "CURSED_KETTLE",
+    "upgraded": false
+  },
+  "Cursed Pearl": {
+    "table": "relics",
+    "entry_id": "CURSED_PEARL",
+    "upgraded": false
+  },
+  "Dagger Spray": {
+    "table": "cards",
+    "entry_id": "DAGGER_SPRAY",
+    "upgraded": false
+  },
+  "Dagger Spray+": {
+    "table": "cards",
+    "entry_id": "DAGGER_SPRAY",
+    "upgraded": true
+  },
+  "Dagger Throw": {
+    "table": "cards",
+    "entry_id": "DAGGER_THROW",
+    "upgraded": false
+  },
+  "Dagger Throw+": {
+    "table": "cards",
+    "entry_id": "DAGGER_THROW",
+    "upgraded": true
+  },
+  "Damp Cultist": {
+    "table": "monsters",
+    "entry_id": "DAMP_CULTIST",
+    "upgraded": false
+  },
+  "Dampen": {
+    "table": "powers",
+    "entry_id": "DAMPEN_POWER",
+    "upgraded": false
+  },
+  "Danse Macabre": {
+    "table": "powers",
+    "entry_id": "DANSE_MACABRE_POWER",
+    "upgraded": false
+  },
+  "Danse Macabre+": {
+    "table": "cards",
+    "entry_id": "DANSE_MACABRE",
+    "upgraded": true
+  },
+  "Dark": {
+    "table": "orbs",
+    "entry_id": "DARK_ORB",
+    "upgraded": false
+  },
+  "Dark Embrace": {
+    "table": "powers",
+    "entry_id": "DARK_EMBRACE_POWER",
+    "upgraded": false
+  },
+  "Dark Embrace+": {
+    "table": "cards",
+    "entry_id": "DARK_EMBRACE",
+    "upgraded": true
+  },
+  "Dark Shackles": {
+    "table": "cards",
+    "entry_id": "DARK_SHACKLES",
+    "upgraded": false
+  },
+  "Dark Shackles+": {
+    "table": "cards",
+    "entry_id": "DARK_SHACKLES",
+    "upgraded": true
+  },
+  "Darkness": {
+    "table": "cards",
+    "entry_id": "DARKNESS",
+    "upgraded": false
+  },
+  "Darkness+": {
+    "table": "cards",
+    "entry_id": "DARKNESS",
+    "upgraded": true
+  },
+  "Darkstone Periapt": {
+    "table": "relics",
+    "entry_id": "DARKSTONE_PERIAPT",
+    "upgraded": false
+  },
+  "Dash": {
+    "table": "cards",
+    "entry_id": "DASH",
+    "upgraded": false
+  },
+  "Dash+": {
+    "table": "cards",
+    "entry_id": "DASH",
+    "upgraded": true
+  },
+  "Data Disk": {
+    "table": "relics",
+    "entry_id": "DATA_DISK",
+    "upgraded": false
+  },
+  "Daughter of the Wind": {
+    "table": "relics",
+    "entry_id": "DAUGHTER_OF_THE_WIND",
+    "upgraded": false
+  },
+  "Dazed": {
+    "table": "cards",
+    "entry_id": "DAZED",
+    "upgraded": false
+  },
+  "Dazed+": {
+    "table": "cards",
+    "entry_id": "DAZED",
+    "upgraded": true
+  },
+  "Deadly Poison": {
+    "table": "cards",
+    "entry_id": "DEADLY_POISON",
+    "upgraded": false
+  },
+  "Deadly Poison+": {
+    "table": "cards",
+    "entry_id": "DEADLY_POISON",
+    "upgraded": true
+  },
+  "Death March": {
+    "table": "cards",
+    "entry_id": "DEATH_MARCH",
+    "upgraded": false
+  },
+  "Death March+": {
+    "table": "cards",
+    "entry_id": "DEATH_MARCH",
+    "upgraded": true
+  },
+  "Death's Door": {
+    "table": "cards",
+    "entry_id": "DEATHS_DOOR",
+    "upgraded": false
+  },
+  "Death's Door+": {
+    "table": "cards",
+    "entry_id": "DEATHS_DOOR",
+    "upgraded": true
+  },
+  "Deathbringer": {
+    "table": "cards",
+    "entry_id": "DEATHBRINGER",
+    "upgraded": false
+  },
+  "Deathbringer+": {
+    "table": "cards",
+    "entry_id": "DEATHBRINGER",
+    "upgraded": true
+  },
+  "Debilitate": {
+    "table": "powers",
+    "entry_id": "DEBILITATE_POWER",
+    "upgraded": false
+  },
+  "Debilitate+": {
+    "table": "cards",
+    "entry_id": "DEBILITATE",
+    "upgraded": true
+  },
+  "Debris": {
+    "table": "cards",
+    "entry_id": "DEBRIS",
+    "upgraded": false
+  },
+  "Debris+": {
+    "table": "cards",
+    "entry_id": "DEBRIS",
+    "upgraded": true
+  },
+  "Debt": {
+    "table": "cards",
+    "entry_id": "DEBT",
+    "upgraded": false
+  },
+  "Debt+": {
+    "table": "cards",
+    "entry_id": "DEBT",
+    "upgraded": true
+  },
+  "Decay": {
+    "table": "cards",
+    "entry_id": "DECAY",
+    "upgraded": false
+  },
+  "Decay+": {
+    "table": "cards",
+    "entry_id": "DECAY",
+    "upgraded": true
+  },
+  "Decimillipede": {
+    "table": "monsters",
+    "entry_id": "DECIMILLIPEDE_SEGMENT",
+    "upgraded": false
+  },
+  "Decisions, Decisions": {
+    "table": "cards",
+    "entry_id": "DECISIONS_DECISIONS",
+    "upgraded": false
+  },
+  "Decisions, Decisions+": {
+    "table": "cards",
+    "entry_id": "DECISIONS_DECISIONS",
+    "upgraded": true
+  },
+  "Decree of Entropy": {
+    "table": "powers",
+    "entry_id": "DECREE_OF_ENTROPY_POWER",
+    "upgraded": false
+  },
+  "Decree of Unmaking": {
+    "table": "powers",
+    "entry_id": "DECREE_OF_UNMAKING_POWER",
+    "upgraded": false
+  },
+  "Defend": {
+    "table": "cards",
+    "entry_id": "DEFEND_SILENT",
+    "upgraded": false
+  },
+  "Defend+": {
+    "table": "cards",
+    "entry_id": "DEFEND_SILENT",
+    "upgraded": true
+  },
+  "Defends": {
+    "table": "cards",
+    "entry_id": "DEFEND_SILENT",
+    "upgraded": false
+  },
+  "Defile": {
+    "table": "cards",
+    "entry_id": "DEFILE",
+    "upgraded": false
+  },
+  "Defile+": {
+    "table": "cards",
+    "entry_id": "DEFILE",
+    "upgraded": true
+  },
+  "Deflect": {
+    "table": "cards",
+    "entry_id": "DEFLECT",
+    "upgraded": false
+  },
+  "Deflect+": {
+    "table": "cards",
+    "entry_id": "DEFLECT",
+    "upgraded": true
+  },
+  "Defragment": {
+    "table": "cards",
+    "entry_id": "DEFRAGMENT",
+    "upgraded": false
+  },
+  "Defragment+": {
+    "table": "cards",
+    "entry_id": "DEFRAGMENT",
+    "upgraded": true
+  },
+  "Defy": {
+    "table": "cards",
+    "entry_id": "DEFY",
+    "upgraded": false
+  },
+  "Defy+": {
+    "table": "cards",
+    "entry_id": "DEFY",
+    "upgraded": true
+  },
+  "Delay": {
+    "table": "cards",
+    "entry_id": "DELAY",
+    "upgraded": false
+  },
+  "Delay+": {
+    "table": "cards",
+    "entry_id": "DELAY",
+    "upgraded": true
+  },
+  "Delicate Frond": {
+    "table": "relics",
+    "entry_id": "DELICATE_FROND",
+    "upgraded": false
+  },
+  "Demesne": {
+    "table": "powers",
+    "entry_id": "DEMESNE_POWER",
+    "upgraded": false
+  },
+  "Demesne+": {
+    "table": "cards",
+    "entry_id": "DEMESNE",
+    "upgraded": true
+  },
+  "Demise": {
+    "table": "powers",
+    "entry_id": "DEMISE_POWER",
+    "upgraded": false
+  },
+  "Demon Form": {
+    "table": "powers",
+    "entry_id": "DEMON_FORM_POWER",
+    "upgraded": false
+  },
+  "Demon Form+": {
+    "table": "cards",
+    "entry_id": "DEMON_FORM",
+    "upgraded": true
+  },
+  "Demon Tongue": {
+    "table": "relics",
+    "entry_id": "DEMON_TONGUE",
+    "upgraded": false
+  },
+  "Demonic Shield": {
+    "table": "cards",
+    "entry_id": "DEMONIC_SHIELD",
+    "upgraded": false
+  },
+  "Demonic Shield+": {
+    "table": "cards",
+    "entry_id": "DEMONIC_SHIELD",
+    "upgraded": true
+  },
+  "Deprecated Card": {
+    "table": "cards",
+    "entry_id": "DEPRECATED_CARD",
+    "upgraded": false
+  },
+  "Deprecated Card+": {
+    "table": "cards",
+    "entry_id": "DEPRECATED_CARD",
+    "upgraded": true
+  },
+  "Deprecated Monster": {
+    "table": "monsters",
+    "entry_id": "DEPRECATED_MONSTER",
+    "upgraded": false
+  },
+  "Deprecated Potion": {
+    "table": "potions",
+    "entry_id": "DEPRECATED_POTION",
+    "upgraded": false
+  },
+  "Deprecated Relic": {
+    "table": "relics",
+    "entry_id": "DEPRECATED_RELIC",
+    "upgraded": false
+  },
+  "Despair": {
+    "table": "powers",
+    "entry_id": "DESPAIR_POWER",
+    "upgraded": false
+  },
+  "Despair+": {
+    "table": "cards",
+    "entry_id": "DESPAIR",
+    "upgraded": true
+  },
+  "Devastate": {
+    "table": "cards",
+    "entry_id": "DEVASTATE",
+    "upgraded": false
+  },
+  "Devastate+": {
+    "table": "cards",
+    "entry_id": "DEVASTATE",
+    "upgraded": true
+  },
+  "Devoted Sculptor": {
+    "table": "monsters",
+    "entry_id": "DEVOTED_SCULPTOR",
+    "upgraded": false
+  },
+  "Devour Life": {
+    "table": "powers",
+    "entry_id": "DEVOUR_LIFE_POWER",
+    "upgraded": false
+  },
+  "Devour Life+": {
+    "table": "cards",
+    "entry_id": "DEVOUR_LIFE",
+    "upgraded": true
+  },
+  "Dexterity": {
+    "table": "powers",
+    "entry_id": "DEXTERITY_POWER",
+    "upgraded": false
+  },
+  "Dexterity Down": {
+    "table": "powers",
+    "entry_id": "DEXTERITY_DOWN_POWER",
+    "upgraded": false
+  },
+  "Dexterity Potion": {
+    "table": "potions",
+    "entry_id": "DEXTERITY_POTION",
+    "upgraded": false
+  },
+  "Diamond Diadem": {
+    "table": "powers",
+    "entry_id": "DIAMOND_DIADEM_POWER",
+    "upgraded": false
+  },
+  "Die for You": {
+    "table": "powers",
+    "entry_id": "DIE_FOR_YOU_POWER",
+    "upgraded": false
+  },
+  "Dingy Rug": {
+    "table": "relics",
+    "entry_id": "DINGY_RUG",
+    "upgraded": false
+  },
+  "Dirge": {
+    "table": "cards",
+    "entry_id": "DIRGE",
+    "upgraded": false
+  },
+  "Dirge+": {
+    "table": "cards",
+    "entry_id": "DIRGE",
+    "upgraded": true
+  },
+  "Discovery": {
+    "table": "cards",
+    "entry_id": "DISCOVERY",
+    "upgraded": false
+  },
+  "Discovery+": {
+    "table": "cards",
+    "entry_id": "DISCOVERY",
+    "upgraded": true
+  },
+  "Disintegration": {
+    "table": "powers",
+    "entry_id": "DISINTEGRATION_POWER",
+    "upgraded": false
+  },
+  "Disintegration+": {
+    "table": "cards",
+    "entry_id": "DISINTEGRATION",
+    "upgraded": true
+  },
+  "Dismantle": {
+    "table": "cards",
+    "entry_id": "DISMANTLE",
+    "upgraded": false
+  },
+  "Dismantle+": {
+    "table": "cards",
+    "entry_id": "DISMANTLE",
+    "upgraded": true
+  },
+  "Distilled Chaos": {
+    "table": "potions",
+    "entry_id": "DISTILLED_CHAOS",
+    "upgraded": false
+  },
+  "Distinguished Cape": {
+    "table": "relics",
+    "entry_id": "DISTINGUISHED_CAPE",
+    "upgraded": false
+  },
+  "Distraction": {
+    "table": "cards",
+    "entry_id": "DISTRACTION",
+    "upgraded": false
+  },
+  "Distraction+": {
+    "table": "cards",
+    "entry_id": "DISTRACTION",
+    "upgraded": true
+  },
+  "Divine Destiny": {
+    "table": "relics",
+    "entry_id": "DIVINE_DESTINY",
+    "upgraded": false
+  },
+  "Divine Right": {
+    "table": "relics",
+    "entry_id": "DIVINE_RIGHT",
+    "upgraded": false
+  },
+  "Dodge and Roll": {
+    "table": "cards",
+    "entry_id": "DODGE_AND_ROLL",
+    "upgraded": false
+  },
+  "Dodge and Roll+": {
+    "table": "cards",
+    "entry_id": "DODGE_AND_ROLL",
+    "upgraded": true
+  },
+  "Dolly's Mirror": {
+    "table": "relics",
+    "entry_id": "DOLLYS_MIRROR",
+    "upgraded": false
+  },
+  "Dominate": {
+    "table": "cards",
+    "entry_id": "DOMINATE",
+    "upgraded": false
+  },
+  "Dominate+": {
+    "table": "cards",
+    "entry_id": "DOMINATE",
+    "upgraded": true
+  },
+  "Doom": {
+    "table": "powers",
+    "entry_id": "DOOM_POWER",
+    "upgraded": false
+  },
+  "Double Damage": {
+    "table": "powers",
+    "entry_id": "DOUBLE_DAMAGE_POWER",
+    "upgraded": false
+  },
+  "Double Energy": {
+    "table": "cards",
+    "entry_id": "DOUBLE_ENERGY",
+    "upgraded": false
+  },
+  "Double Energy+": {
+    "table": "cards",
+    "entry_id": "DOUBLE_ENERGY",
+    "upgraded": true
+  },
+  "Doubt": {
+    "table": "cards",
+    "entry_id": "DOUBT",
+    "upgraded": false
+  },
+  "Doubt+": {
+    "table": "cards",
+    "entry_id": "DOUBT",
+    "upgraded": true
+  },
+  "Dragon Fruit": {
+    "table": "relics",
+    "entry_id": "DRAGON_FRUIT",
+    "upgraded": false
+  },
+  "Drain Power": {
+    "table": "cards",
+    "entry_id": "DRAIN_POWER",
+    "upgraded": false
+  },
+  "Drain Power+": {
+    "table": "cards",
+    "entry_id": "DRAIN_POWER",
+    "upgraded": true
+  },
+  "Dramatic Entrance": {
+    "table": "cards",
+    "entry_id": "DRAMATIC_ENTRANCE",
+    "upgraded": false
+  },
+  "Dramatic Entrance+": {
+    "table": "cards",
+    "entry_id": "DRAMATIC_ENTRANCE",
+    "upgraded": true
+  },
+  "Draw Cards Next Turn": {
+    "table": "powers",
+    "entry_id": "DRAW_CARDS_NEXT_TURN_POWER",
+    "upgraded": false
+  },
+  "Dream Catcher": {
+    "table": "relics",
+    "entry_id": "DREAM_CATCHER",
+    "upgraded": false
+  },
+  "Dredge": {
+    "table": "cards",
+    "entry_id": "DREDGE",
+    "upgraded": false
+  },
+  "Dredge+": {
+    "table": "cards",
+    "entry_id": "DREDGE",
+    "upgraded": true
+  },
+  "Driftwood": {
+    "table": "relics",
+    "entry_id": "DRIFTWOOD",
+    "upgraded": false
+  },
+  "Droplet of Precognition": {
+    "table": "potions",
+    "entry_id": "DROPLET_OF_PRECOGNITION",
+    "upgraded": false
+  },
+  "Drum of Battle": {
+    "table": "cards",
+    "entry_id": "DRUM_OF_BATTLE",
+    "upgraded": false
+  },
+  "Drum of Battle+": {
+    "table": "cards",
+    "entry_id": "DRUM_OF_BATTLE",
+    "upgraded": true
+  },
+  "Dual Wield": {
+    "table": "cards",
+    "entry_id": "DUAL_WIELD",
+    "upgraded": false
+  },
+  "Dual Wield+": {
+    "table": "cards",
+    "entry_id": "DUAL_WIELD",
+    "upgraded": true
+  },
+  "Dualcast": {
+    "table": "cards",
+    "entry_id": "DUALCAST",
+    "upgraded": false
+  },
+  "Dualcast+": {
+    "table": "cards",
+    "entry_id": "DUALCAST",
+    "upgraded": true
+  },
+  "Duplication": {
+    "table": "powers",
+    "entry_id": "DUPLICATION_POWER",
+    "upgraded": false
+  },
+  "Duplicator": {
+    "table": "potions",
+    "entry_id": "DUPLICATOR",
+    "upgraded": false
+  },
+  "Dusty Tome": {
+    "table": "relics",
+    "entry_id": "DUSTY_TOME",
+    "upgraded": false
+  },
+  "Dying Star": {
+    "table": "cards",
+    "entry_id": "DYING_STAR",
+    "upgraded": false
+  },
+  "Dying Star+": {
+    "table": "cards",
+    "entry_id": "DYING_STAR",
+    "upgraded": true
+  },
+  "Echo Form": {
+    "table": "powers",
+    "entry_id": "ECHO_FORM_POWER",
+    "upgraded": false
+  },
+  "Echo Form+": {
+    "table": "cards",
+    "entry_id": "ECHO_FORM",
+    "upgraded": true
+  },
+  "Echoing Slash": {
+    "table": "cards",
+    "entry_id": "ECHOING_SLASH",
+    "upgraded": false
+  },
+  "Echoing Slash+": {
+    "table": "cards",
+    "entry_id": "ECHOING_SLASH",
+    "upgraded": true
+  },
+  "Ectoplasm": {
+    "table": "relics",
+    "entry_id": "ECTOPLASM",
+    "upgraded": false
+  },
+  "Eidolon": {
+    "table": "cards",
+    "entry_id": "EIDOLON",
+    "upgraded": false
+  },
+  "Eidolon+": {
+    "table": "cards",
+    "entry_id": "EIDOLON",
+    "upgraded": true
+  },
+  "Electric Shrymp": {
+    "table": "relics",
+    "entry_id": "ELECTRIC_SHRYMP",
+    "upgraded": false
+  },
+  "Ember Tea": {
+    "table": "relics",
+    "entry_id": "EMBER_TEA",
+    "upgraded": false
+  },
+  "Emotion Chip": {
+    "table": "relics",
+    "entry_id": "EMOTION_CHIP",
+    "upgraded": false
+  },
+  "Empty Cage": {
+    "table": "relics",
+    "entry_id": "EMPTY_CAGE",
+    "upgraded": false
+  },
+  "End of Days": {
+    "table": "cards",
+    "entry_id": "END_OF_DAYS",
+    "upgraded": false
+  },
+  "End of Days+": {
+    "table": "cards",
+    "entry_id": "END_OF_DAYS",
+    "upgraded": true
+  },
+  "Endless Appetite": {
+    "table": "relics",
+    "entry_id": "ENDLESS_APPETITE",
+    "upgraded": false
+  },
+  "Energy Next Turn": {
+    "table": "powers",
+    "entry_id": "ENERGY_NEXT_TURN_POWER",
+    "upgraded": false
+  },
+  "Energy Potion": {
+    "table": "potions",
+    "entry_id": "ENERGY_POTION",
+    "upgraded": false
+  },
+  "Energy Surge": {
+    "table": "cards",
+    "entry_id": "ENERGY_SURGE",
+    "upgraded": false
+  },
+  "Energy Surge+": {
+    "table": "cards",
+    "entry_id": "ENERGY_SURGE",
+    "upgraded": true
+  },
+  "Enfeebling Touch": {
+    "table": "cards",
+    "entry_id": "ENFEEBLING_TOUCH",
+    "upgraded": false
+  },
+  "Enfeebling Touch+": {
+    "table": "cards",
+    "entry_id": "ENFEEBLING_TOUCH",
+    "upgraded": true
+  },
+  "Enlightenment": {
+    "table": "cards",
+    "entry_id": "ENLIGHTENMENT",
+    "upgraded": false
+  },
+  "Enlightenment+": {
+    "table": "cards",
+    "entry_id": "ENLIGHTENMENT",
+    "upgraded": true
+  },
+  "Enrage": {
+    "table": "powers",
+    "entry_id": "ENRAGE_POWER",
+    "upgraded": false
+  },
+  "Enthralled": {
+    "table": "cards",
+    "entry_id": "ENTHRALLED",
+    "upgraded": false
+  },
+  "Enthralled+": {
+    "table": "cards",
+    "entry_id": "ENTHRALLED",
+    "upgraded": true
+  },
+  "Entomancer": {
+    "table": "monsters",
+    "entry_id": "ENTOMANCER",
+    "upgraded": false
+  },
+  "Entrench": {
+    "table": "cards",
+    "entry_id": "ENTRENCH",
+    "upgraded": false
+  },
+  "Entrench+": {
+    "table": "cards",
+    "entry_id": "ENTRENCH",
+    "upgraded": true
+  },
+  "Entropic Brew": {
+    "table": "potions",
+    "entry_id": "ENTROPIC_BREW",
+    "upgraded": false
+  },
+  "Entropy": {
+    "table": "powers",
+    "entry_id": "ENTROPY_POWER",
+    "upgraded": false
+  },
+  "Entropy+": {
+    "table": "cards",
+    "entry_id": "ENTROPY",
+    "upgraded": true
+  },
+  "Envenom": {
+    "table": "powers",
+    "entry_id": "ENVENOM_POWER",
+    "upgraded": false
+  },
+  "Envenom+": {
+    "table": "cards",
+    "entry_id": "ENVENOM",
+    "upgraded": true
+  },
+  "Equilibrium": {
+    "table": "cards",
+    "entry_id": "EQUILIBRIUM",
+    "upgraded": false
+  },
+  "Equilibrium+": {
+    "table": "cards",
+    "entry_id": "EQUILIBRIUM",
+    "upgraded": true
+  },
+  "Eradicate": {
+    "table": "cards",
+    "entry_id": "ERADICATE",
+    "upgraded": false
+  },
+  "Eradicate+": {
+    "table": "cards",
+    "entry_id": "ERADICATE",
+    "upgraded": true
+  },
+  "Escape Artist": {
+    "table": "powers",
+    "entry_id": "ESCAPE_ARTIST_POWER",
+    "upgraded": false
+  },
+  "Escape Plan": {
+    "table": "cards",
+    "entry_id": "ESCAPE_PLAN",
+    "upgraded": false
+  },
+  "Escape Plan+": {
+    "table": "cards",
+    "entry_id": "ESCAPE_PLAN",
+    "upgraded": true
+  },
+  "Essence of Darkness": {
+    "table": "potions",
+    "entry_id": "ESSENCE_OF_DARKNESS",
+    "upgraded": false
+  },
+  "Eternal Armor": {
+    "table": "cards",
+    "entry_id": "ETERNAL_ARMOR",
+    "upgraded": false
+  },
+  "Eternal Armor+": {
+    "table": "cards",
+    "entry_id": "ETERNAL_ARMOR",
+    "upgraded": true
+  },
+  "Eternal Feather": {
+    "table": "relics",
+    "entry_id": "ETERNAL_FEATHER",
+    "upgraded": false
+  },
+  "Evil Eye": {
+    "table": "cards",
+    "entry_id": "EVIL_EYE",
+    "upgraded": false
+  },
+  "Evil Eye+": {
+    "table": "cards",
+    "entry_id": "EVIL_EYE",
+    "upgraded": true
+  },
+  "Exoskeleton": {
+    "table": "monsters",
+    "entry_id": "EXOSKELETON",
+    "upgraded": false
+  },
+  "Expect a Fight": {
+    "table": "cards",
+    "entry_id": "EXPECT_A_FIGHT",
+    "upgraded": false
+  },
+  "Expect a Fight+": {
+    "table": "cards",
+    "entry_id": "EXPECT_A_FIGHT",
+    "upgraded": true
+  },
+  "Expertise": {
+    "table": "cards",
+    "entry_id": "EXPERTISE",
+    "upgraded": false
+  },
+  "Expertise+": {
+    "table": "cards",
+    "entry_id": "EXPERTISE",
+    "upgraded": true
+  },
+  "Explosive Ampoule": {
+    "table": "potions",
+    "entry_id": "EXPLOSIVE_AMPOULE",
+    "upgraded": false
+  },
+  "Expose": {
+    "table": "cards",
+    "entry_id": "EXPOSE",
+    "upgraded": false
+  },
+  "Expose+": {
+    "table": "cards",
+    "entry_id": "EXPOSE",
+    "upgraded": true
+  },
+  "Exterminate": {
+    "table": "cards",
+    "entry_id": "EXTERMINATE",
+    "upgraded": false
+  },
+  "Exterminate+": {
+    "table": "cards",
+    "entry_id": "EXTERMINATE",
+    "upgraded": true
+  },
+  "Eye with Teeth": {
+    "table": "monsters",
+    "entry_id": "EYE_WITH_TEETH",
+    "upgraded": false
+  },
+  "FTL": {
+    "table": "cards",
+    "entry_id": "FTL",
+    "upgraded": false
+  },
+  "FTL+": {
+    "table": "cards",
+    "entry_id": "FTL",
+    "upgraded": true
+  },
+  "Fabricator": {
+    "table": "monsters",
+    "entry_id": "FABRICATOR",
+    "upgraded": false
+  },
+  "Fade": {
+    "table": "cards",
+    "entry_id": "FADE",
+    "upgraded": false
+  },
+  "Fade+": {
+    "table": "cards",
+    "entry_id": "FADE",
+    "upgraded": true
+  },
+  "Fairy in a Bottle": {
+    "table": "potions",
+    "entry_id": "FAIRY_IN_A_BOTTLE",
+    "upgraded": false
+  },
+  "Falling Star": {
+    "table": "cards",
+    "entry_id": "FALLING_STAR",
+    "upgraded": false
+  },
+  "Falling Star+": {
+    "table": "cards",
+    "entry_id": "FALLING_STAR",
+    "upgraded": true
+  },
+  "Fan of Knives": {
+    "table": "powers",
+    "entry_id": "FAN_OF_KNIVES_POWER",
+    "upgraded": false
+  },
+  "Fan of Knives+": {
+    "table": "cards",
+    "entry_id": "FAN_OF_KNIVES",
+    "upgraded": true
+  },
+  "Fasten": {
+    "table": "powers",
+    "entry_id": "FASTEN_POWER",
+    "upgraded": false
+  },
+  "Fasten+": {
+    "table": "cards",
+    "entry_id": "FASTEN",
+    "upgraded": true
+  },
+  "Fat Gremlin": {
+    "table": "monsters",
+    "entry_id": "FAT_GREMLIN",
+    "upgraded": false
+  },
+  "Fear": {
+    "table": "cards",
+    "entry_id": "FEAR",
+    "upgraded": false
+  },
+  "Fear+": {
+    "table": "cards",
+    "entry_id": "FEAR",
+    "upgraded": true
+  },
+  "Feed": {
+    "table": "cards",
+    "entry_id": "FEED",
+    "upgraded": false
+  },
+  "Feed+": {
+    "table": "cards",
+    "entry_id": "FEED",
+    "upgraded": true
+  },
+  "Feeding Frenzy": {
+    "table": "cards",
+    "entry_id": "FEEDING_FRENZY",
+    "upgraded": false
+  },
+  "Feeding Frenzy+": {
+    "table": "cards",
+    "entry_id": "FEEDING_FRENZY",
+    "upgraded": true
+  },
+  "Feel No Pain": {
+    "table": "powers",
+    "entry_id": "FEEL_NO_PAIN_POWER",
+    "upgraded": false
+  },
+  "Feel No Pain+": {
+    "table": "cards",
+    "entry_id": "FEEL_NO_PAIN",
+    "upgraded": true
+  },
+  "Fencing Manual": {
+    "table": "relics",
+    "entry_id": "FENCING_MANUAL",
+    "upgraded": false
+  },
+  "Feral": {
+    "table": "powers",
+    "entry_id": "FERAL_POWER",
+    "upgraded": false
+  },
+  "Feral+": {
+    "table": "cards",
+    "entry_id": "FERAL",
+    "upgraded": true
+  },
+  "Festive Popper": {
+    "table": "relics",
+    "entry_id": "FESTIVE_POPPER",
+    "upgraded": false
+  },
+  "Fetch": {
+    "table": "cards",
+    "entry_id": "FETCH",
+    "upgraded": false
+  },
+  "Fetch+": {
+    "table": "cards",
+    "entry_id": "FETCH",
+    "upgraded": true
+  },
+  "Fiddle": {
+    "table": "relics",
+    "entry_id": "FIDDLE",
+    "upgraded": false
+  },
+  "Fiend Fire": {
+    "table": "cards",
+    "entry_id": "FIEND_FIRE",
+    "upgraded": false
+  },
+  "Fiend Fire+": {
+    "table": "cards",
+    "entry_id": "FIEND_FIRE",
+    "upgraded": true
+  },
+  "Fight Me!": {
+    "table": "cards",
+    "entry_id": "FIGHT_ME",
+    "upgraded": false
+  },
+  "Fight Me!+": {
+    "table": "cards",
+    "entry_id": "FIGHT_ME",
+    "upgraded": true
+  },
+  "Fight Through": {
+    "table": "cards",
+    "entry_id": "FIGHT_THROUGH",
+    "upgraded": false
+  },
+  "Fight Through+": {
+    "table": "cards",
+    "entry_id": "FIGHT_THROUGH",
+    "upgraded": true
+  },
+  "Finesse": {
+    "table": "cards",
+    "entry_id": "FINESSE",
+    "upgraded": false
+  },
+  "Finesse+": {
+    "table": "cards",
+    "entry_id": "FINESSE",
+    "upgraded": true
+  },
+  "Finisher": {
+    "table": "cards",
+    "entry_id": "FINISHER",
+    "upgraded": false
+  },
+  "Finisher+": {
+    "table": "cards",
+    "entry_id": "FINISHER",
+    "upgraded": true
+  },
+  "Fire Potion": {
+    "table": "potions",
+    "entry_id": "FIRE_POTION",
+    "upgraded": false
+  },
+  "Fishing Rod": {
+    "table": "relics",
+    "entry_id": "FISHING_ROD",
+    "upgraded": false
+  },
+  "Fisticuffs": {
+    "table": "cards",
+    "entry_id": "FISTICUFFS",
+    "upgraded": false
+  },
+  "Fisticuffs+": {
+    "table": "cards",
+    "entry_id": "FISTICUFFS",
+    "upgraded": true
+  },
+  "Flail Knight": {
+    "table": "monsters",
+    "entry_id": "FLAIL_KNIGHT",
+    "upgraded": false
+  },
+  "Flak Cannon": {
+    "table": "cards",
+    "entry_id": "FLAK_CANNON",
+    "upgraded": false
+  },
+  "Flak Cannon+": {
+    "table": "cards",
+    "entry_id": "FLAK_CANNON",
+    "upgraded": true
+  },
+  "Flame Barrier": {
+    "table": "powers",
+    "entry_id": "FLAME_BARRIER_POWER",
+    "upgraded": false
+  },
+  "Flame Barrier+": {
+    "table": "cards",
+    "entry_id": "FLAME_BARRIER",
+    "upgraded": true
+  },
+  "Flame in the Dark": {
+    "table": "cards",
+    "entry_id": "FLAME_IN_THE_DARK",
+    "upgraded": false
+  },
+  "Flame in the Dark+": {
+    "table": "cards",
+    "entry_id": "FLAME_IN_THE_DARK",
+    "upgraded": true
+  },
+  "Flanking": {
+    "table": "powers",
+    "entry_id": "FLANKING_POWER",
+    "upgraded": false
+  },
+  "Flanking+": {
+    "table": "cards",
+    "entry_id": "FLANKING",
+    "upgraded": true
+  },
+  "Flash of Steel": {
+    "table": "cards",
+    "entry_id": "FLASH_OF_STEEL",
+    "upgraded": false
+  },
+  "Flash of Steel+": {
+    "table": "cards",
+    "entry_id": "FLASH_OF_STEEL",
+    "upgraded": true
+  },
+  "Flatten": {
+    "table": "cards",
+    "entry_id": "FLATTEN",
+    "upgraded": false
+  },
+  "Flatten+": {
+    "table": "cards",
+    "entry_id": "FLATTEN",
+    "upgraded": true
+  },
+  "Flechettes": {
+    "table": "cards",
+    "entry_id": "FLECHETTES",
+    "upgraded": false
+  },
+  "Flechettes+": {
+    "table": "cards",
+    "entry_id": "FLECHETTES",
+    "upgraded": true
+  },
+  "Flex Potion": {
+    "table": "potions",
+    "entry_id": "FLEX_POTION",
+    "upgraded": false
+  },
+  "Flick-Flack": {
+    "table": "cards",
+    "entry_id": "FLICK_FLACK",
+    "upgraded": false
+  },
+  "Flick-Flack+": {
+    "table": "cards",
+    "entry_id": "FLICK_FLACK",
+    "upgraded": true
+  },
+  "Flutter": {
+    "table": "powers",
+    "entry_id": "FLUTTER_POWER",
+    "upgraded": false
+  },
+  "Flyconid": {
+    "table": "monsters",
+    "entry_id": "FLYCONID",
+    "upgraded": false
+  },
+  "Focus": {
+    "table": "powers",
+    "entry_id": "FOCUS_POWER",
+    "upgraded": false
+  },
+  "Focus Down": {
+    "table": "powers",
+    "entry_id": "FOCUS_DOWN",
+    "upgraded": false
+  },
+  "Focus Potion": {
+    "table": "potions",
+    "entry_id": "FOCUS_POTION",
+    "upgraded": false
+  },
+  "Focused Strike": {
+    "table": "cards",
+    "entry_id": "FOCUSED_STRIKE",
+    "upgraded": false
+  },
+  "Focused Strike+": {
+    "table": "cards",
+    "entry_id": "FOCUSED_STRIKE",
+    "upgraded": true
+  },
+  "Fogmog": {
+    "table": "monsters",
+    "entry_id": "FOGMOG",
+    "upgraded": false
+  },
+  "Folly": {
+    "table": "cards",
+    "entry_id": "FOLLY",
+    "upgraded": false
+  },
+  "Folly+": {
+    "table": "cards",
+    "entry_id": "FOLLY",
+    "upgraded": true
+  },
+  "Footwork": {
+    "table": "cards",
+    "entry_id": "FOOTWORK",
+    "upgraded": false
+  },
+  "Footwork+": {
+    "table": "cards",
+    "entry_id": "FOOTWORK",
+    "upgraded": true
+  },
+  "Forbidden Grimoire": {
+    "table": "powers",
+    "entry_id": "FORBIDDEN_GRIMOIRE_POWER",
+    "upgraded": false
+  },
+  "Forbidden Grimoire+": {
+    "table": "cards",
+    "entry_id": "FORBIDDEN_GRIMOIRE",
+    "upgraded": true
+  },
+  "Foregone Conclusion": {
+    "table": "powers",
+    "entry_id": "FOREGONE_CONCLUSION_POWER",
+    "upgraded": false
+  },
+  "Foregone Conclusion+": {
+    "table": "cards",
+    "entry_id": "FOREGONE_CONCLUSION",
+    "upgraded": true
+  },
+  "Forgotten Ritual": {
+    "table": "cards",
+    "entry_id": "FORGOTTEN_RITUAL",
+    "upgraded": false
+  },
+  "Forgotten Ritual+": {
+    "table": "cards",
+    "entry_id": "FORGOTTEN_RITUAL",
+    "upgraded": true
+  },
+  "Forgotten Soul": {
+    "table": "relics",
+    "entry_id": "FORGOTTEN_SOUL",
+    "upgraded": false
+  },
+  "Fortifier": {
+    "table": "potions",
+    "entry_id": "FORTIFIER",
+    "upgraded": false
+  },
+  "Fossil Stalker": {
+    "table": "monsters",
+    "entry_id": "FOSSIL_STALKER",
+    "upgraded": false
+  },
+  "Foul Potion": {
+    "table": "potions",
+    "entry_id": "FOUL_POTION",
+    "upgraded": false
+  },
+  "Fragrant Mushroom": {
+    "table": "relics",
+    "entry_id": "FRAGRANT_MUSHROOM",
+    "upgraded": false
+  },
+  "Frail": {
+    "table": "powers",
+    "entry_id": "FRAIL_POWER",
+    "upgraded": false
+  },
+  "Frantic Escape": {
+    "table": "cards",
+    "entry_id": "FRANTIC_ESCAPE",
+    "upgraded": false
+  },
+  "Frantic Escape+": {
+    "table": "cards",
+    "entry_id": "FRANTIC_ESCAPE",
+    "upgraded": true
+  },
+  "Free Attack": {
+    "table": "powers",
+    "entry_id": "FREE_ATTACK_POWER",
+    "upgraded": false
+  },
+  "Free Power": {
+    "table": "powers",
+    "entry_id": "FREE_POWER_POWER",
+    "upgraded": false
+  },
+  "Free Skill": {
+    "table": "powers",
+    "entry_id": "FREE_SKILL_POWER",
+    "upgraded": false
+  },
+  "Fresnel Lens": {
+    "table": "relics",
+    "entry_id": "FRESNEL_LENS",
+    "upgraded": false
+  },
+  "Friendship": {
+    "table": "powers",
+    "entry_id": "FRIENDSHIP_POWER",
+    "upgraded": false
+  },
+  "Friendship+": {
+    "table": "cards",
+    "entry_id": "FRIENDSHIP",
+    "upgraded": true
+  },
+  "Frog Knight": {
+    "table": "monsters",
+    "entry_id": "FROG_KNIGHT",
+    "upgraded": false
+  },
+  "Frost": {
+    "table": "orbs",
+    "entry_id": "FROST_ORB",
+    "upgraded": false
+  },
+  "Frozen Egg": {
+    "table": "relics",
+    "entry_id": "FROZEN_EGG",
+    "upgraded": false
+  },
+  "Fruit Juice": {
+    "table": "potions",
+    "entry_id": "FRUIT_JUICE",
+    "upgraded": false
+  },
+  "Fuel": {
+    "table": "cards",
+    "entry_id": "FUEL",
+    "upgraded": false
+  },
+  "Fuel+": {
+    "table": "cards",
+    "entry_id": "FUEL",
+    "upgraded": true
+  },
+  "Funerary Mask": {
+    "table": "relics",
+    "entry_id": "FUNERARY_MASK",
+    "upgraded": false
+  },
+  "Fur Coat": {
+    "table": "relics",
+    "entry_id": "FUR_COAT",
+    "upgraded": false
+  },
+  "Furnace": {
+    "table": "powers",
+    "entry_id": "FURNACE_POWER",
+    "upgraded": false
+  },
+  "Furnace+": {
+    "table": "cards",
+    "entry_id": "FURNACE",
+    "upgraded": true
+  },
+  "Fusion": {
+    "table": "cards",
+    "entry_id": "FUSION",
+    "upgraded": false
+  },
+  "Fusion+": {
+    "table": "cards",
+    "entry_id": "FUSION",
+    "upgraded": true
+  },
+  "Fuzzy Wurm Crawler": {
+    "table": "monsters",
+    "entry_id": "FUZZY_WURM_CRAWLER",
+    "upgraded": false
+  },
+  "Fysh Oil": {
+    "table": "potions",
+    "entry_id": "FYSH_OIL",
+    "upgraded": false
+  },
+  "GUARDS!!!": {
+    "table": "cards",
+    "entry_id": "GUARDS",
+    "upgraded": false
+  },
+  "GUARDS!!!+": {
+    "table": "cards",
+    "entry_id": "GUARDS",
+    "upgraded": true
+  },
+  "Galactic Dust": {
+    "table": "relics",
+    "entry_id": "GALACTIC_DUST",
+    "upgraded": false
+  },
+  "Galvanic": {
+    "table": "powers",
+    "entry_id": "GALVANIC_POWER",
+    "upgraded": false
+  },
+  "Gambler's Brew": {
+    "table": "potions",
+    "entry_id": "GAMBLERS_BREW",
+    "upgraded": false
+  },
+  "Gambling Chip": {
+    "table": "relics",
+    "entry_id": "GAMBLING_CHIP",
+    "upgraded": false
+  },
+  "Game Piece": {
+    "table": "relics",
+    "entry_id": "GAME_PIECE",
+    "upgraded": false
+  },
+  "Gamma Blast": {
+    "table": "cards",
+    "entry_id": "GAMMA_BLAST",
+    "upgraded": false
+  },
+  "Gamma Blast+": {
+    "table": "cards",
+    "entry_id": "GAMMA_BLAST",
+    "upgraded": true
+  },
+  "Gang Up": {
+    "table": "cards",
+    "entry_id": "GANG_UP",
+    "upgraded": false
+  },
+  "Gang Up+": {
+    "table": "cards",
+    "entry_id": "GANG_UP",
+    "upgraded": true
+  },
+  "Gas Bomb": {
+    "table": "monsters",
+    "entry_id": "GAS_BOMB",
+    "upgraded": false
+  },
+  "Gather Light": {
+    "table": "cards",
+    "entry_id": "GATHER_LIGHT",
+    "upgraded": false
+  },
+  "Gather Light+": {
+    "table": "cards",
+    "entry_id": "GATHER_LIGHT",
+    "upgraded": true
+  },
+  "Gazing Moth": {
+    "table": "monsters",
+    "entry_id": "GAZING_MOTH",
+    "upgraded": false
+  },
+  "Gem Eater": {
+    "table": "monsters",
+    "entry_id": "GEM_EATER",
+    "upgraded": false
+  },
+  "Genesis": {
+    "table": "powers",
+    "entry_id": "GENESIS_POWER",
+    "upgraded": false
+  },
+  "Genesis+": {
+    "table": "cards",
+    "entry_id": "GENESIS",
+    "upgraded": true
+  },
+  "Genetic Algorithm": {
+    "table": "cards",
+    "entry_id": "GENETIC_ALGORITHM",
+    "upgraded": false
+  },
+  "Genetic Algorithm+": {
+    "table": "cards",
+    "entry_id": "GENETIC_ALGORITHM",
+    "upgraded": true
+  },
+  "Ghost Eater": {
+    "table": "cards",
+    "entry_id": "GHOST_EATER",
+    "upgraded": false
+  },
+  "Ghost Eater+": {
+    "table": "cards",
+    "entry_id": "GHOST_EATER",
+    "upgraded": true
+  },
+  "Ghost Seed": {
+    "table": "relics",
+    "entry_id": "GHOST_SEED",
+    "upgraded": false
+  },
+  "Ghost in a Jar": {
+    "table": "potions",
+    "entry_id": "GHOST_IN_A_JAR",
+    "upgraded": false
+  },
+  "Giant Rock": {
+    "table": "cards",
+    "entry_id": "GIANT_ROCK",
+    "upgraded": false
+  },
+  "Giant Rock+": {
+    "table": "cards",
+    "entry_id": "GIANT_ROCK",
+    "upgraded": true
+  },
+  "Gigantification": {
+    "table": "powers",
+    "entry_id": "GIGANTIFICATION_POWER",
+    "upgraded": false
+  },
+  "Gigantification Potion": {
+    "table": "potions",
+    "entry_id": "GIGANTIFICATION_POTION",
+    "upgraded": false
+  },
+  "Girya": {
+    "table": "relics",
+    "entry_id": "GIRYA",
+    "upgraded": false
+  },
+  "Glacier": {
+    "table": "cards",
+    "entry_id": "GLACIER",
+    "upgraded": false
+  },
+  "Glacier+": {
+    "table": "cards",
+    "entry_id": "GLACIER",
+    "upgraded": true
+  },
+  "Glass": {
+    "table": "orbs",
+    "entry_id": "GLASS_ORB",
+    "upgraded": false
+  },
+  "Glass Eye": {
+    "table": "relics",
+    "entry_id": "GLASS_EYE",
+    "upgraded": false
+  },
+  "Glasswork": {
+    "table": "cards",
+    "entry_id": "GLASSWORK",
+    "upgraded": false
+  },
+  "Glasswork+": {
+    "table": "cards",
+    "entry_id": "GLASSWORK",
+    "upgraded": true
+  },
+  "Glimmer": {
+    "table": "cards",
+    "entry_id": "GLIMMER",
+    "upgraded": false
+  },
+  "Glimmer+": {
+    "table": "cards",
+    "entry_id": "GLIMMER",
+    "upgraded": true
+  },
+  "Glimpse Beyond": {
+    "table": "cards",
+    "entry_id": "GLIMPSE_BEYOND",
+    "upgraded": false
+  },
+  "Glimpse Beyond+": {
+    "table": "cards",
+    "entry_id": "GLIMPSE_BEYOND",
+    "upgraded": true
+  },
+  "Glitter": {
+    "table": "relics",
+    "entry_id": "GLITTER",
+    "upgraded": false
+  },
+  "Glitterstream": {
+    "table": "cards",
+    "entry_id": "GLITTERSTREAM",
+    "upgraded": false
+  },
+  "Glitterstream+": {
+    "table": "cards",
+    "entry_id": "GLITTERSTREAM",
+    "upgraded": true
+  },
+  "Globe Head": {
+    "table": "monsters",
+    "entry_id": "GLOBE_HEAD",
+    "upgraded": false
+  },
+  "Glow": {
+    "table": "cards",
+    "entry_id": "GLOW",
+    "upgraded": false
+  },
+  "Glow+": {
+    "table": "cards",
+    "entry_id": "GLOW",
+    "upgraded": true
+  },
+  "Glowing Orb": {
+    "table": "relics",
+    "entry_id": "GLOWING_ORB",
+    "upgraded": false
+  },
+  "Glowwater Potion": {
+    "table": "potions",
+    "entry_id": "GLOWWATER_POTION",
+    "upgraded": false
+  },
+  "Gnarled Hammer": {
+    "table": "relics",
+    "entry_id": "GNARLED_HAMMER",
+    "upgraded": false
+  },
+  "Go for the Eyes": {
+    "table": "cards",
+    "entry_id": "GO_FOR_THE_EYES",
+    "upgraded": false
+  },
+  "Go for the Eyes+": {
+    "table": "cards",
+    "entry_id": "GO_FOR_THE_EYES",
+    "upgraded": true
+  },
+  "Gold Axe": {
+    "table": "cards",
+    "entry_id": "GOLD_AXE",
+    "upgraded": false
+  },
+  "Gold Axe+": {
+    "table": "cards",
+    "entry_id": "GOLD_AXE",
+    "upgraded": true
+  },
+  "Gold-Plated Cables": {
+    "table": "relics",
+    "entry_id": "GOLD_PLATED_CABLES",
+    "upgraded": false
+  },
+  "Golden Compass": {
+    "table": "relics",
+    "entry_id": "GOLDEN_COMPASS",
+    "upgraded": false
+  },
+  "Golden Pearl": {
+    "table": "relics",
+    "entry_id": "GOLDEN_PEARL",
+    "upgraded": false
+  },
+  "Good Instincts": {
+    "table": "cards",
+    "entry_id": "GOOD_INSTINCTS",
+    "upgraded": false
+  },
+  "Good Instincts+": {
+    "table": "cards",
+    "entry_id": "GOOD_INSTINCTS",
+    "upgraded": true
+  },
+  "Gorget": {
+    "table": "relics",
+    "entry_id": "GORGET",
+    "upgraded": false
+  },
+  "Grabbed": {
+    "table": "powers",
+    "entry_id": "GRABBED",
+    "upgraded": false
+  },
+  "Grand Finale": {
+    "table": "cards",
+    "entry_id": "GRAND_FINALE",
+    "upgraded": false
+  },
+  "Grand Finale+": {
+    "table": "cards",
+    "entry_id": "GRAND_FINALE",
+    "upgraded": true
+  },
+  "Grave Warden": {
+    "table": "cards",
+    "entry_id": "GRAVE_WARDEN",
+    "upgraded": false
+  },
+  "Grave Warden+": {
+    "table": "cards",
+    "entry_id": "GRAVE_WARDEN",
+    "upgraded": true
+  },
+  "Graveblast": {
+    "table": "cards",
+    "entry_id": "GRAVEBLAST",
+    "upgraded": false
+  },
+  "Graveblast+": {
+    "table": "cards",
+    "entry_id": "GRAVEBLAST",
+    "upgraded": true
+  },
+  "Gravity": {
+    "table": "powers",
+    "entry_id": "GRAVITY_POWER",
+    "upgraded": false
+  },
+  "Greed": {
+    "table": "cards",
+    "entry_id": "GREED",
+    "upgraded": false
+  },
+  "Greed+": {
+    "table": "cards",
+    "entry_id": "GREED",
+    "upgraded": true
+  },
+  "Gremlin Horn": {
+    "table": "relics",
+    "entry_id": "GREMLIN_HORN",
+    "upgraded": false
+  },
+  "Gremlin Merc": {
+    "table": "monsters",
+    "entry_id": "GREMLIN_MERC",
+    "upgraded": false
+  },
+  "Guardbot": {
+    "table": "monsters",
+    "entry_id": "GUARDBOT",
+    "upgraded": false
+  },
+  "Guarded": {
+    "table": "powers",
+    "entry_id": "GUARDED_POWER",
+    "upgraded": false
+  },
+  "Guiding Star": {
+    "table": "cards",
+    "entry_id": "GUIDING_STAR",
+    "upgraded": false
+  },
+  "Guiding Star+": {
+    "table": "cards",
+    "entry_id": "GUIDING_STAR",
+    "upgraded": true
+  },
+  "Guilty": {
+    "table": "cards",
+    "entry_id": "GUILTY",
+    "upgraded": false
+  },
+  "Guilty+": {
+    "table": "cards",
+    "entry_id": "GUILTY",
+    "upgraded": true
+  },
+  "Gunk Up": {
+    "table": "cards",
+    "entry_id": "GUNK_UP",
+    "upgraded": false
+  },
+  "Gunk Up+": {
+    "table": "cards",
+    "entry_id": "GUNK_UP",
+    "upgraded": true
+  },
+  "Hailstorm": {
+    "table": "powers",
+    "entry_id": "HAILSTORM_POWER",
+    "upgraded": false
+  },
+  "Hailstorm+": {
+    "table": "cards",
+    "entry_id": "HAILSTORM",
+    "upgraded": true
+  },
+  "Hammer Time": {
+    "table": "powers",
+    "entry_id": "HAMMER_TIME_POWER",
+    "upgraded": false
+  },
+  "Hammer Time+": {
+    "table": "cards",
+    "entry_id": "HAMMER_TIME",
+    "upgraded": true
+  },
+  "Hand Drill": {
+    "table": "relics",
+    "entry_id": "HAND_DRILL",
+    "upgraded": false
+  },
+  "Hand Trick": {
+    "table": "cards",
+    "entry_id": "HAND_TRICK",
+    "upgraded": false
+  },
+  "Hand Trick+": {
+    "table": "cards",
+    "entry_id": "HAND_TRICK",
+    "upgraded": true
+  },
+  "Hand of Greed": {
+    "table": "cards",
+    "entry_id": "HAND_OF_GREED",
+    "upgraded": false
+  },
+  "Hand of Greed+": {
+    "table": "cards",
+    "entry_id": "HAND_OF_GREED",
+    "upgraded": true
+  },
+  "Hang": {
+    "table": "powers",
+    "entry_id": "HANG_POWER",
+    "upgraded": false
+  },
+  "Hang+": {
+    "table": "cards",
+    "entry_id": "HANG",
+    "upgraded": true
+  },
+  "Hangs": {
+    "table": "powers",
+    "entry_id": "HANG_POWER",
+    "upgraded": false
+  },
+  "Happy Flower": {
+    "table": "relics",
+    "entry_id": "HAPPY_FLOWER",
+    "upgraded": false
+  },
+  "Happy Flower???": {
+    "table": "relics",
+    "entry_id": "FAKE_HAPPY_FLOWER",
+    "upgraded": false
+  },
+  "Hard to Kill": {
+    "table": "powers",
+    "entry_id": "HARD_TO_KILL_POWER",
+    "upgraded": false
+  },
+  "Hardened Shell": {
+    "table": "powers",
+    "entry_id": "HARDENED_SHELL_POWER",
+    "upgraded": false
+  },
+  "Hatch": {
+    "table": "powers",
+    "entry_id": "HATCH_POWER",
+    "upgraded": false
+  },
+  "Hatchling": {
+    "table": "monsters",
+    "entry_id": "HATCHLING",
+    "upgraded": false
+  },
+  "Haunt": {
+    "table": "powers",
+    "entry_id": "HAUNT_POWER",
+    "upgraded": false
+  },
+  "Haunt+": {
+    "table": "cards",
+    "entry_id": "HAUNT",
+    "upgraded": true
+  },
+  "Haunted Ship": {
+    "table": "monsters",
+    "entry_id": "HAUNTED_SHIP",
+    "upgraded": false
+  },
+  "Havoc": {
+    "table": "cards",
+    "entry_id": "HAVOC",
+    "upgraded": false
+  },
+  "Havoc+": {
+    "table": "cards",
+    "entry_id": "HAVOC",
+    "upgraded": true
+  },
+  "Haze": {
+    "table": "cards",
+    "entry_id": "HAZE",
+    "upgraded": false
+  },
+  "Haze+": {
+    "table": "cards",
+    "entry_id": "HAZE",
+    "upgraded": true
+  },
+  "Headbutt": {
+    "table": "cards",
+    "entry_id": "HEADBUTT",
+    "upgraded": false
+  },
+  "Headbutt+": {
+    "table": "cards",
+    "entry_id": "HEADBUTT",
+    "upgraded": true
+  },
+  "Heart of Iron": {
+    "table": "potions",
+    "entry_id": "HEART_OF_IRON",
+    "upgraded": false
+  },
+  "Heatsink": {
+    "table": "powers",
+    "entry_id": "HEATSINKS_POWER",
+    "upgraded": false
+  },
+  "Heavenly Drill": {
+    "table": "cards",
+    "entry_id": "HEAVENLY_DRILL",
+    "upgraded": false
+  },
+  "Heavenly Drill+": {
+    "table": "cards",
+    "entry_id": "HEAVENLY_DRILL",
+    "upgraded": true
+  },
+  "Hefty Tablet": {
+    "table": "relics",
+    "entry_id": "HEFTY_TABLET",
+    "upgraded": false
+  },
+  "Hegemony": {
+    "table": "cards",
+    "entry_id": "HEGEMONY",
+    "upgraded": false
+  },
+  "Hegemony+": {
+    "table": "cards",
+    "entry_id": "HEGEMONY",
+    "upgraded": true
+  },
+  "Heirloom Hammer": {
+    "table": "cards",
+    "entry_id": "HEIRLOOM_HAMMER",
+    "upgraded": false
+  },
+  "Heirloom Hammer+": {
+    "table": "cards",
+    "entry_id": "HEIRLOOM_HAMMER",
+    "upgraded": true
+  },
+  "Heist": {
+    "table": "powers",
+    "entry_id": "HEIST_POWER",
+    "upgraded": false
+  },
+  "Helical Dart": {
+    "table": "relics",
+    "entry_id": "HELICAL_DART",
+    "upgraded": false
+  },
+  "Helix Drill": {
+    "table": "cards",
+    "entry_id": "HELIX_DRILL",
+    "upgraded": false
+  },
+  "Helix Drill+": {
+    "table": "cards",
+    "entry_id": "HELIX_DRILL",
+    "upgraded": true
+  },
+  "Hello World": {
+    "table": "powers",
+    "entry_id": "HELLO_WORLD_POWER",
+    "upgraded": false
+  },
+  "Hello World+": {
+    "table": "cards",
+    "entry_id": "HELLO_WORLD",
+    "upgraded": true
+  },
+  "Hellraiser": {
+    "table": "powers",
+    "entry_id": "HELLRAISER_POWER",
+    "upgraded": false
+  },
+  "Hellraiser+": {
+    "table": "cards",
+    "entry_id": "HELLRAISER",
+    "upgraded": true
+  },
+  "Hemokinesis": {
+    "table": "cards",
+    "entry_id": "HEMOKINESIS",
+    "upgraded": false
+  },
+  "Hemokinesis+": {
+    "table": "cards",
+    "entry_id": "HEMOKINESIS",
+    "upgraded": true
+  },
+  "Hex": {
+    "table": "powers",
+    "entry_id": "HEX_POWER",
+    "upgraded": false
+  },
+  "Hibernate": {
+    "table": "powers",
+    "entry_id": "HIBERNATE_POWER",
+    "upgraded": false
+  },
+  "Hibernate+": {
+    "table": "cards",
+    "entry_id": "HIBERNATE",
+    "upgraded": true
+  },
+  "Hidden Cache": {
+    "table": "cards",
+    "entry_id": "HIDDEN_CACHE",
+    "upgraded": false
+  },
+  "Hidden Cache+": {
+    "table": "cards",
+    "entry_id": "HIDDEN_CACHE",
+    "upgraded": true
+  },
+  "Hidden Daggers": {
+    "table": "cards",
+    "entry_id": "HIDDEN_DAGGERS",
+    "upgraded": false
+  },
+  "Hidden Daggers+": {
+    "table": "cards",
+    "entry_id": "HIDDEN_DAGGERS",
+    "upgraded": true
+  },
+  "Hidden Gem": {
+    "table": "cards",
+    "entry_id": "HIDDEN_GEM",
+    "upgraded": false
+  },
+  "Hidden Gem+": {
+    "table": "cards",
+    "entry_id": "HIDDEN_GEM",
+    "upgraded": true
+  },
+  "High Five": {
+    "table": "cards",
+    "entry_id": "HIGH_FIVE",
+    "upgraded": false
+  },
+  "High Five+": {
+    "table": "cards",
+    "entry_id": "HIGH_FIVE",
+    "upgraded": true
+  },
+  "High Voltage": {
+    "table": "powers",
+    "entry_id": "HIGH_VOLTAGE_POWER",
+    "upgraded": false
+  },
+  "History Course": {
+    "table": "relics",
+    "entry_id": "HISTORY_COURSE",
+    "upgraded": false
+  },
+  "Hologram": {
+    "table": "cards",
+    "entry_id": "HOLOGRAM",
+    "upgraded": false
+  },
+  "Hologram+": {
+    "table": "cards",
+    "entry_id": "HOLOGRAM",
+    "upgraded": true
+  },
+  "Horn Cleat": {
+    "table": "relics",
+    "entry_id": "HORN_CLEAT",
+    "upgraded": false
+  },
+  "Hotfix": {
+    "table": "cards",
+    "entry_id": "HOTFIX",
+    "upgraded": false
+  },
+  "Hotfix+": {
+    "table": "cards",
+    "entry_id": "HOTFIX",
+    "upgraded": true
+  },
+  "Howl from Beyond": {
+    "table": "cards",
+    "entry_id": "HOWL_FROM_BEYOND",
+    "upgraded": false
+  },
+  "Howl from Beyond+": {
+    "table": "cards",
+    "entry_id": "HOWL_FROM_BEYOND",
+    "upgraded": true
+  },
+  "Huddle Up": {
+    "table": "cards",
+    "entry_id": "HUDDLE_UP",
+    "upgraded": false
+  },
+  "Huddle Up+": {
+    "table": "cards",
+    "entry_id": "HUDDLE_UP",
+    "upgraded": true
+  },
+  "Hunter Killer": {
+    "table": "monsters",
+    "entry_id": "HUNTER_KILLER",
+    "upgraded": false
+  },
+  "Hyperbeam": {
+    "table": "cards",
+    "entry_id": "HYPERBEAM",
+    "upgraded": false
+  },
+  "Hyperbeam+": {
+    "table": "cards",
+    "entry_id": "HYPERBEAM",
+    "upgraded": true
+  },
+  "I Am Invincible": {
+    "table": "cards",
+    "entry_id": "I_AM_INVINCIBLE",
+    "upgraded": false
+  },
+  "I Am Invincible+": {
+    "table": "cards",
+    "entry_id": "I_AM_INVINCIBLE",
+    "upgraded": true
+  },
+  "Ice Cream": {
+    "table": "relics",
+    "entry_id": "ICE_CREAM",
+    "upgraded": false
+  },
+  "Ice Lance": {
+    "table": "cards",
+    "entry_id": "ICE_LANCE",
+    "upgraded": false
+  },
+  "Ice Lance+": {
+    "table": "cards",
+    "entry_id": "ICE_LANCE",
+    "upgraded": true
+  },
+  "Ignition": {
+    "table": "cards",
+    "entry_id": "IGNITION",
+    "upgraded": false
+  },
+  "Ignition+": {
+    "table": "cards",
+    "entry_id": "IGNITION",
+    "upgraded": true
+  },
+  "Illusion": {
+    "table": "powers",
+    "entry_id": "ILLUSION_POWER",
+    "upgraded": false
+  },
+  "Imbalanced": {
+    "table": "powers",
+    "entry_id": "IMBALANCED_POWER",
+    "upgraded": false
+  },
+  "Imitation Learning": {
+    "table": "powers",
+    "entry_id": "IMITATION_LEARNING_POWER",
+    "upgraded": false
+  },
+  "Imitation Learning+": {
+    "table": "cards",
+    "entry_id": "IMITATION_LEARNING",
+    "upgraded": true
+  },
+  "Immortality": {
+    "table": "cards",
+    "entry_id": "IMMORTALITY",
+    "upgraded": false
+  },
+  "Immortality+": {
+    "table": "cards",
+    "entry_id": "IMMORTALITY",
+    "upgraded": true
+  },
+  "Impale": {
+    "table": "cards",
+    "entry_id": "IMPALE",
+    "upgraded": false
+  },
+  "Impale+": {
+    "table": "cards",
+    "entry_id": "IMPALE",
+    "upgraded": true
+  },
+  "Impatience": {
+    "table": "cards",
+    "entry_id": "IMPATIENCE",
+    "upgraded": false
+  },
+  "Impatience+": {
+    "table": "cards",
+    "entry_id": "IMPATIENCE",
+    "upgraded": true
+  },
+  "Impervious": {
+    "table": "cards",
+    "entry_id": "IMPERVIOUS",
+    "upgraded": false
+  },
+  "Impervious+": {
+    "table": "cards",
+    "entry_id": "IMPERVIOUS",
+    "upgraded": true
+  },
+  "Improvement": {
+    "table": "powers",
+    "entry_id": "IMPROVEMENT_POWER",
+    "upgraded": false
+  },
+  "Infection": {
+    "table": "cards",
+    "entry_id": "INFECTION",
+    "upgraded": false
+  },
+  "Infection+": {
+    "table": "cards",
+    "entry_id": "INFECTION",
+    "upgraded": true
+  },
+  "Infernal Blade": {
+    "table": "cards",
+    "entry_id": "INFERNAL_BLADE",
+    "upgraded": false
+  },
+  "Infernal Blade+": {
+    "table": "cards",
+    "entry_id": "INFERNAL_BLADE",
+    "upgraded": true
+  },
+  "Inferno": {
+    "table": "powers",
+    "entry_id": "INFERNO_POWER",
+    "upgraded": false
+  },
+  "Inferno+": {
+    "table": "cards",
+    "entry_id": "INFERNO",
+    "upgraded": true
+  },
+  "Infested": {
+    "table": "powers",
+    "entry_id": "INFESTED_POWER",
+    "upgraded": false
+  },
+  "Infested Prism": {
+    "table": "monsters",
+    "entry_id": "INFESTED_PRISM",
+    "upgraded": false
+  },
+  "Infinite Blades": {
+    "table": "powers",
+    "entry_id": "INFINITE_BLADES_POWER",
+    "upgraded": false
+  },
+  "Infinite Blades+": {
+    "table": "cards",
+    "entry_id": "INFINITE_BLADES",
+    "upgraded": true
+  },
+  "Inflame": {
+    "table": "cards",
+    "entry_id": "INFLAME",
+    "upgraded": false
+  },
+  "Inflame+": {
+    "table": "cards",
+    "entry_id": "INFLAME",
+    "upgraded": true
+  },
+  "Infused Core": {
+    "table": "relics",
+    "entry_id": "INFUSED_CORE",
+    "upgraded": false
+  },
+  "Injury": {
+    "table": "cards",
+    "entry_id": "INJURY",
+    "upgraded": false
+  },
+  "Injury+": {
+    "table": "cards",
+    "entry_id": "INJURY",
+    "upgraded": true
+  },
+  "Ink Bottle": {
+    "table": "relics",
+    "entry_id": "INK_BOTTLE",
+    "upgraded": false
+  },
+  "Inked": {
+    "table": "powers",
+    "entry_id": "INKED",
+    "upgraded": false
+  },
+  "Inklet": {
+    "table": "monsters",
+    "entry_id": "INKLET",
+    "upgraded": false
+  },
+  "Intangible": {
+    "table": "powers",
+    "entry_id": "INTANGIBLE_POWER",
+    "upgraded": false
+  },
+  "Intercept": {
+    "table": "powers",
+    "entry_id": "INTERCEPT_POWER",
+    "upgraded": false
+  },
+  "Intercept+": {
+    "table": "cards",
+    "entry_id": "INTERCEPT",
+    "upgraded": true
+  },
+  "Intimidating Helmet": {
+    "table": "relics",
+    "entry_id": "INTIMIDATING_HELMET",
+    "upgraded": false
+  },
+  "Invoke": {
+    "table": "cards",
+    "entry_id": "INVOKE",
+    "upgraded": false
+  },
+  "Invoke+": {
+    "table": "cards",
+    "entry_id": "INVOKE",
+    "upgraded": true
+  },
+  "Iron Club": {
+    "table": "relics",
+    "entry_id": "IRON_CLUB",
+    "upgraded": false
+  },
+  "Iron Wave": {
+    "table": "cards",
+    "entry_id": "IRON_WAVE",
+    "upgraded": false
+  },
+  "Iron Wave+": {
+    "table": "cards",
+    "entry_id": "IRON_WAVE",
+    "upgraded": true
+  },
+  "Iteration": {
+    "table": "powers",
+    "entry_id": "ITERATION_POWER",
+    "upgraded": false
+  },
+  "Iteration+": {
+    "table": "cards",
+    "entry_id": "ITERATION",
+    "upgraded": true
+  },
+  "Ivory Tile": {
+    "table": "relics",
+    "entry_id": "IVORY_TILE",
+    "upgraded": false
+  },
+  "Jack of All Trades": {
+    "table": "cards",
+    "entry_id": "JACK_OF_ALL_TRADES",
+    "upgraded": false
+  },
+  "Jack of All Trades+": {
+    "table": "cards",
+    "entry_id": "JACK_OF_ALL_TRADES",
+    "upgraded": true
+  },
+  "Jackpot": {
+    "table": "cards",
+    "entry_id": "JACKPOT",
+    "upgraded": false
+  },
+  "Jackpot+": {
+    "table": "cards",
+    "entry_id": "JACKPOT",
+    "upgraded": true
+  },
+  "Jeweled Mask": {
+    "table": "relics",
+    "entry_id": "JEWELED_MASK",
+    "upgraded": false
+  },
+  "Jewelry Box": {
+    "table": "relics",
+    "entry_id": "JEWELRY_BOX",
+    "upgraded": false
+  },
+  "Joss Paper": {
+    "table": "relics",
+    "entry_id": "JOSS_PAPER",
+    "upgraded": false
+  },
+  "Juggernaut": {
+    "table": "powers",
+    "entry_id": "JUGGERNAUT_POWER",
+    "upgraded": false
+  },
+  "Juggernaut+": {
+    "table": "cards",
+    "entry_id": "JUGGERNAUT",
+    "upgraded": true
+  },
+  "Juggling": {
+    "table": "powers",
+    "entry_id": "JUGGLING_POWER",
+    "upgraded": false
+  },
+  "Juggling+": {
+    "table": "cards",
+    "entry_id": "JUGGLING",
+    "upgraded": true
+  },
+  "Juzu Bracelet": {
+    "table": "relics",
+    "entry_id": "JUZU_BRACELET",
+    "upgraded": false
+  },
+  "Kaleidoscope": {
+    "table": "relics",
+    "entry_id": "KALEIDOSCOPE",
+    "upgraded": false
+  },
+  "Kifuda": {
+    "table": "relics",
+    "entry_id": "KIFUDA",
+    "upgraded": false
+  },
+  "Kin Follower": {
+    "table": "monsters",
+    "entry_id": "KIN_FOLLOWER",
+    "upgraded": false
+  },
+  "Kin Priest": {
+    "table": "monsters",
+    "entry_id": "KIN_PRIEST",
+    "upgraded": false
+  },
+  "King's Courage": {
+    "table": "potions",
+    "entry_id": "KINGS_COURAGE",
+    "upgraded": false
+  },
+  "Kingly Kick": {
+    "table": "cards",
+    "entry_id": "KINGLY_KICK",
+    "upgraded": false
+  },
+  "Kingly Kick+": {
+    "table": "cards",
+    "entry_id": "KINGLY_KICK",
+    "upgraded": true
+  },
+  "Kingly Punch": {
+    "table": "cards",
+    "entry_id": "KINGLY_PUNCH",
+    "upgraded": false
+  },
+  "Kingly Punch+": {
+    "table": "cards",
+    "entry_id": "KINGLY_PUNCH",
+    "upgraded": true
+  },
+  "Knife Trap": {
+    "table": "cards",
+    "entry_id": "KNIFE_TRAP",
+    "upgraded": false
+  },
+  "Knife Trap+": {
+    "table": "cards",
+    "entry_id": "KNIFE_TRAP",
+    "upgraded": true
+  },
+  "Knockdown": {
+    "table": "powers",
+    "entry_id": "KNOCKDOWN_POWER",
+    "upgraded": false
+  },
+  "Knockdown+": {
+    "table": "cards",
+    "entry_id": "KNOCKDOWN",
+    "upgraded": true
+  },
+  "Knockout Blow": {
+    "table": "cards",
+    "entry_id": "KNOCKOUT_BLOW",
+    "upgraded": false
+  },
+  "Knockout Blow+": {
+    "table": "cards",
+    "entry_id": "KNOCKOUT_BLOW",
+    "upgraded": true
+  },
+  "Know Thy Place": {
+    "table": "cards",
+    "entry_id": "KNOW_THY_PLACE",
+    "upgraded": false
+  },
+  "Know Thy Place+": {
+    "table": "cards",
+    "entry_id": "KNOW_THY_PLACE",
+    "upgraded": true
+  },
+  "Knowledge Demon": {
+    "table": "monsters",
+    "entry_id": "KNOWLEDGE_DEMON",
+    "upgraded": false
+  },
+  "Kunai": {
+    "table": "relics",
+    "entry_id": "KUNAI",
+    "upgraded": false
+  },
+  "Kusarigama": {
+    "table": "relics",
+    "entry_id": "KUSARIGAMA",
+    "upgraded": false
+  },
+  "Lagavulin Matriarch": {
+    "table": "monsters",
+    "entry_id": "LAGAVULIN_MATRIARCH",
+    "upgraded": false
+  },
+  "Lantern": {
+    "table": "relics",
+    "entry_id": "LANTERN",
+    "upgraded": false
+  },
+  "Lantern Key": {
+    "table": "cards",
+    "entry_id": "LANTERN_KEY",
+    "upgraded": false
+  },
+  "Lantern Key+": {
+    "table": "cards",
+    "entry_id": "LANTERN_KEY",
+    "upgraded": true
+  },
+  "Large Capsule": {
+    "table": "relics",
+    "entry_id": "LARGE_CAPSULE",
+    "upgraded": false
+  },
+  "Largesse": {
+    "table": "cards",
+    "entry_id": "LARGESSE",
+    "upgraded": false
+  },
+  "Largesse+": {
+    "table": "cards",
+    "entry_id": "LARGESSE",
+    "upgraded": true
+  },
+  "Lasting Candy": {
+    "table": "relics",
+    "entry_id": "LASTING_CANDY",
+    "upgraded": false
+  },
+  "Lava Lamp": {
+    "table": "relics",
+    "entry_id": "LAVA_LAMP",
+    "upgraded": false
+  },
+  "Lava Rock": {
+    "table": "relics",
+    "entry_id": "LAVA_ROCK",
+    "upgraded": false
+  },
+  "Lead Paperweight": {
+    "table": "relics",
+    "entry_id": "LEAD_PAPERWEIGHT",
+    "upgraded": false
+  },
+  "Leadership": {
+    "table": "powers",
+    "entry_id": "LEADERSHIP_POWER",
+    "upgraded": false
+  },
+  "Leading Strike": {
+    "table": "cards",
+    "entry_id": "LEADING_STRIKE",
+    "upgraded": false
+  },
+  "Leading Strike+": {
+    "table": "cards",
+    "entry_id": "LEADING_STRIKE",
+    "upgraded": true
+  },
+  "Leaf Slime (M)": {
+    "table": "monsters",
+    "entry_id": "LEAF_SLIME_M",
+    "upgraded": false
+  },
+  "Leaf Slime (S)": {
+    "table": "monsters",
+    "entry_id": "LEAF_SLIME_S",
+    "upgraded": false
+  },
+  "Leafy Poultice": {
+    "table": "relics",
+    "entry_id": "LEAFY_POULTICE",
+    "upgraded": false
+  },
+  "Leap": {
+    "table": "cards",
+    "entry_id": "LEAP",
+    "upgraded": false
+  },
+  "Leap+": {
+    "table": "cards",
+    "entry_id": "LEAP",
+    "upgraded": true
+  },
+  "Lee's Waffle": {
+    "table": "relics",
+    "entry_id": "LEES_WAFFLE",
+    "upgraded": false
+  },
+  "Lee's Waffle???": {
+    "table": "relics",
+    "entry_id": "FAKE_LEES_WAFFLE",
+    "upgraded": false
+  },
+  "Leg Sweep": {
+    "table": "cards",
+    "entry_id": "LEG_SWEEP",
+    "upgraded": false
+  },
+  "Leg Sweep+": {
+    "table": "cards",
+    "entry_id": "LEG_SWEEP",
+    "upgraded": true
+  },
+  "Legion of Bone": {
+    "table": "cards",
+    "entry_id": "LEGION_OF_BONE",
+    "upgraded": false
+  },
+  "Legion of Bone+": {
+    "table": "cards",
+    "entry_id": "LEGION_OF_BONE",
+    "upgraded": true
+  },
+  "Lethality": {
+    "table": "powers",
+    "entry_id": "LETHALITY_POWER",
+    "upgraded": false
+  },
+  "Lethality+": {
+    "table": "cards",
+    "entry_id": "LETHALITY",
+    "upgraded": true
+  },
+  "Letter Opener": {
+    "table": "relics",
+    "entry_id": "LETTER_OPENER",
+    "upgraded": false
+  },
+  "Lift": {
+    "table": "cards",
+    "entry_id": "LIFT",
+    "upgraded": false
+  },
+  "Lift+": {
+    "table": "cards",
+    "entry_id": "LIFT",
+    "upgraded": true
+  },
+  "Lightning": {
+    "table": "orbs",
+    "entry_id": "LIGHTNING_ORB",
+    "upgraded": false
+  },
+  "Lightning Rod": {
+    "table": "powers",
+    "entry_id": "LIGHTNING_ROD_POWER",
+    "upgraded": false
+  },
+  "Lightning Rod+": {
+    "table": "cards",
+    "entry_id": "LIGHTNING_ROD",
+    "upgraded": true
+  },
+  "Liquid Bronze": {
+    "table": "potions",
+    "entry_id": "LIQUID_BRONZE",
+    "upgraded": false
+  },
+  "Liquid Memories": {
+    "table": "potions",
+    "entry_id": "LIQUID_MEMORIES",
+    "upgraded": false
+  },
+  "Living Fog": {
+    "table": "monsters",
+    "entry_id": "LIVING_FOG",
+    "upgraded": false
+  },
+  "Living Shield": {
+    "table": "monsters",
+    "entry_id": "LIVING_SHIELD",
+    "upgraded": false
+  },
+  "Lizard Tail": {
+    "table": "relics",
+    "entry_id": "LIZARD_TAIL",
+    "upgraded": false
+  },
+  "Looming Fruit": {
+    "table": "relics",
+    "entry_id": "LOOMING_FRUIT",
+    "upgraded": false
+  },
+  "Loop": {
+    "table": "powers",
+    "entry_id": "LOOP_POWER",
+    "upgraded": false
+  },
+  "Loop+": {
+    "table": "cards",
+    "entry_id": "LOOP",
+    "upgraded": true
+  },
+  "Lord's Parasol": {
+    "table": "relics",
+    "entry_id": "LORDS_PARASOL",
+    "upgraded": false
+  },
+  "Lost Coffer": {
+    "table": "relics",
+    "entry_id": "LOST_COFFER",
+    "upgraded": false
+  },
+  "Lost Wisp": {
+    "table": "relics",
+    "entry_id": "LOST_WISP",
+    "upgraded": false
+  },
+  "Louse Progenitor": {
+    "table": "monsters",
+    "entry_id": "LOUSE_PROGENITOR",
+    "upgraded": false
+  },
+  "Lucky Fysh": {
+    "table": "relics",
+    "entry_id": "LUCKY_FYSH",
+    "upgraded": false
+  },
+  "Lucky Tonic": {
+    "table": "potions",
+    "entry_id": "LUCKY_TONIC",
+    "upgraded": false
+  },
+  "Luminesce": {
+    "table": "cards",
+    "entry_id": "LUMINESCE",
+    "upgraded": false
+  },
+  "Luminesce+": {
+    "table": "cards",
+    "entry_id": "LUMINESCE",
+    "upgraded": true
+  },
+  "Luminesces": {
+    "table": "cards",
+    "entry_id": "LUMINESCE",
+    "upgraded": false
+  },
+  "Lunar Blast": {
+    "table": "cards",
+    "entry_id": "LUNAR_BLAST",
+    "upgraded": false
+  },
+  "Lunar Blast+": {
+    "table": "cards",
+    "entry_id": "LUNAR_BLAST",
+    "upgraded": true
+  },
+  "Lunar Pastry": {
+    "table": "relics",
+    "entry_id": "LUNAR_PASTRY",
+    "upgraded": false
+  },
+  "Machine Learning": {
+    "table": "powers",
+    "entry_id": "MACHINE_LEARNING_POWER",
+    "upgraded": false
+  },
+  "Machine Learning+": {
+    "table": "cards",
+    "entry_id": "MACHINE_LEARNING",
+    "upgraded": true
+  },
+  "Mad Science": {
+    "table": "cards",
+    "entry_id": "MAD_SCIENCE",
+    "upgraded": false
+  },
+  "Mad Science+": {
+    "table": "cards",
+    "entry_id": "MAD_SCIENCE",
+    "upgraded": true
+  },
+  "Magi Knight": {
+    "table": "monsters",
+    "entry_id": "MAGI_KNIGHT",
+    "upgraded": false
+  },
+  "Magic Bomb": {
+    "table": "powers",
+    "entry_id": "MAGIC_BOMB_POWER",
+    "upgraded": false
+  },
+  "Make It So": {
+    "table": "cards",
+    "entry_id": "MAKE_IT_SO",
+    "upgraded": false
+  },
+  "Make It So+": {
+    "table": "cards",
+    "entry_id": "MAKE_IT_SO",
+    "upgraded": true
+  },
+  "Malaise": {
+    "table": "cards",
+    "entry_id": "MALAISE",
+    "upgraded": false
+  },
+  "Malaise+": {
+    "table": "cards",
+    "entry_id": "MALAISE",
+    "upgraded": true
+  },
+  "Mangle": {
+    "table": "cards",
+    "entry_id": "MANGLE",
+    "upgraded": false
+  },
+  "Mangle+": {
+    "table": "cards",
+    "entry_id": "MANGLE",
+    "upgraded": true
+  },
+  "Mango": {
+    "table": "relics",
+    "entry_id": "MANGO",
+    "upgraded": false
+  },
+  "Mango???": {
+    "table": "relics",
+    "entry_id": "FAKE_MANGO",
+    "upgraded": false
+  },
+  "Manifest Authority": {
+    "table": "cards",
+    "entry_id": "MANIFEST_AUTHORITY",
+    "upgraded": false
+  },
+  "Manifest Authority+": {
+    "table": "cards",
+    "entry_id": "MANIFEST_AUTHORITY",
+    "upgraded": true
+  },
+  "Massive Scroll": {
+    "table": "relics",
+    "entry_id": "MASSIVE_SCROLL",
+    "upgraded": false
+  },
+  "Master Planner": {
+    "table": "powers",
+    "entry_id": "MASTER_PLANNER_POWER",
+    "upgraded": false
+  },
+  "Master Planner+": {
+    "table": "cards",
+    "entry_id": "MASTER_PLANNER",
+    "upgraded": true
+  },
+  "Master of Strategy": {
+    "table": "cards",
+    "entry_id": "MASTER_OF_STRATEGY",
+    "upgraded": false
+  },
+  "Master of Strategy+": {
+    "table": "cards",
+    "entry_id": "MASTER_OF_STRATEGY",
+    "upgraded": true
+  },
+  "Maul": {
+    "table": "cards",
+    "entry_id": "MAUL",
+    "upgraded": false
+  },
+  "Maul+": {
+    "table": "cards",
+    "entry_id": "MAUL",
+    "upgraded": true
+  },
+  "Maw Bank": {
+    "table": "relics",
+    "entry_id": "MAW_BANK",
+    "upgraded": false
+  },
+  "Mawler": {
+    "table": "monsters",
+    "entry_id": "MAWLER",
+    "upgraded": false
+  },
+  "Mayhem": {
+    "table": "powers",
+    "entry_id": "MAYHEM_POWER",
+    "upgraded": false
+  },
+  "Mayhem+": {
+    "table": "cards",
+    "entry_id": "MAYHEM",
+    "upgraded": true
+  },
+  "Mazaleth's Gift": {
+    "table": "potions",
+    "entry_id": "MAZALETHS_GIFT",
+    "upgraded": false
+  },
+  "Meal Ticket": {
+    "table": "relics",
+    "entry_id": "MEAL_TICKET",
+    "upgraded": false
+  },
+  "Meat Cleaver": {
+    "table": "relics",
+    "entry_id": "MEAT_CLEAVER",
+    "upgraded": false
+  },
+  "Meat on the Bone": {
+    "table": "relics",
+    "entry_id": "MEAT_ON_THE_BONE",
+    "upgraded": false
+  },
+  "Mecha Knight": {
+    "table": "monsters",
+    "entry_id": "MECHA_KNIGHT",
+    "upgraded": false
+  },
+  "Melancholy": {
+    "table": "powers",
+    "entry_id": "MELANCHOLY_POWER",
+    "upgraded": false
+  },
+  "Melancholy+": {
+    "table": "cards",
+    "entry_id": "MELANCHOLY",
+    "upgraded": true
+  },
+  "Membership Card": {
+    "table": "relics",
+    "entry_id": "MEMBERSHIP_CARD",
+    "upgraded": false
+  },
+  "Memento Mori": {
+    "table": "cards",
+    "entry_id": "MEMENTO_MORI",
+    "upgraded": false
+  },
+  "Memento Mori+": {
+    "table": "cards",
+    "entry_id": "MEMENTO_MORI",
+    "upgraded": true
+  },
+  "Mercury Hourglass": {
+    "table": "relics",
+    "entry_id": "MERCURY_HOURGLASS",
+    "upgraded": false
+  },
+  "Metamorphosis": {
+    "table": "cards",
+    "entry_id": "METAMORPHOSIS",
+    "upgraded": false
+  },
+  "Metamorphosis+": {
+    "table": "cards",
+    "entry_id": "METAMORPHOSIS",
+    "upgraded": true
+  },
+  "Meteor Shower": {
+    "table": "cards",
+    "entry_id": "METEOR_SHOWER",
+    "upgraded": false
+  },
+  "Meteor Shower+": {
+    "table": "cards",
+    "entry_id": "METEOR_SHOWER",
+    "upgraded": true
+  },
+  "Meteor Strike": {
+    "table": "cards",
+    "entry_id": "METEOR_STRIKE",
+    "upgraded": false
+  },
+  "Meteor Strike+": {
+    "table": "cards",
+    "entry_id": "METEOR_STRIKE",
+    "upgraded": true
+  },
+  "Metronome": {
+    "table": "relics",
+    "entry_id": "METRONOME",
+    "upgraded": false
+  },
+  "Midnight": {
+    "table": "cards",
+    "entry_id": "MIDNIGHT",
+    "upgraded": false
+  },
+  "Midnight+": {
+    "table": "cards",
+    "entry_id": "MIDNIGHT",
+    "upgraded": true
+  },
+  "Mimic": {
+    "table": "cards",
+    "entry_id": "MIMIC",
+    "upgraded": false
+  },
+  "Mimic+": {
+    "table": "cards",
+    "entry_id": "MIMIC",
+    "upgraded": true
+  },
+  "Mind Blast": {
+    "table": "cards",
+    "entry_id": "MIND_BLAST",
+    "upgraded": false
+  },
+  "Mind Blast+": {
+    "table": "cards",
+    "entry_id": "MIND_BLAST",
+    "upgraded": true
+  },
+  "Mind Rot": {
+    "table": "powers",
+    "entry_id": "MIND_ROT_POWER",
+    "upgraded": false
+  },
+  "Mind Rot+": {
+    "table": "cards",
+    "entry_id": "MIND_ROT",
+    "upgraded": true
+  },
+  "Mini Regent": {
+    "table": "relics",
+    "entry_id": "MINI_REGENT",
+    "upgraded": false
+  },
+  "Miniature Cannon": {
+    "table": "relics",
+    "entry_id": "MINIATURE_CANNON",
+    "upgraded": false
+  },
+  "Miniature Tent": {
+    "table": "relics",
+    "entry_id": "MINIATURE_TENT",
+    "upgraded": false
+  },
+  "Minion": {
+    "table": "powers",
+    "entry_id": "MINION_POWER",
+    "upgraded": false
+  },
+  "Minion Dive Bomb": {
+    "table": "cards",
+    "entry_id": "MINION_DIVE_BOMB",
+    "upgraded": false
+  },
+  "Minion Dive Bomb+": {
+    "table": "cards",
+    "entry_id": "MINION_DIVE_BOMB",
+    "upgraded": true
+  },
+  "Minion Dive Bombs": {
+    "table": "cards",
+    "entry_id": "MINION_DIVE_BOMB",
+    "upgraded": false
+  },
+  "Minion Dive Bombs+": {
+    "table": "cards",
+    "entry_id": "MINION_DIVE_BOMB",
+    "upgraded": true
+  },
+  "Minion Sacrifice": {
+    "table": "cards",
+    "entry_id": "MINION_SACRIFICE",
+    "upgraded": false
+  },
+  "Minion Sacrifice+": {
+    "table": "cards",
+    "entry_id": "MINION_SACRIFICE",
+    "upgraded": true
+  },
+  "Minion Strike": {
+    "table": "cards",
+    "entry_id": "MINION_STRIKE",
+    "upgraded": false
+  },
+  "Minion Strike+": {
+    "table": "cards",
+    "entry_id": "MINION_STRIKE",
+    "upgraded": true
+  },
+  "Minions": {
+    "table": "powers",
+    "entry_id": "MINION_POWER",
+    "upgraded": false
+  },
+  "Mirage": {
+    "table": "cards",
+    "entry_id": "MIRAGE",
+    "upgraded": false
+  },
+  "Mirage+": {
+    "table": "cards",
+    "entry_id": "MIRAGE",
+    "upgraded": true
+  },
+  "Misery": {
+    "table": "cards",
+    "entry_id": "MISERY",
+    "upgraded": false
+  },
+  "Misery+": {
+    "table": "cards",
+    "entry_id": "MISERY",
+    "upgraded": true
+  },
+  "Mock Attack Card": {
+    "table": "cards",
+    "entry_id": "MOCK_ATTACK_CARD",
+    "upgraded": false
+  },
+  "Mock Attack Card+": {
+    "table": "cards",
+    "entry_id": "MOCK_ATTACK_CARD",
+    "upgraded": true
+  },
+  "Mock Clone Cards on Play": {
+    "table": "powers",
+    "entry_id": "MOCK_CLONE_CARDS_ON_PLAY_POWER",
+    "upgraded": false
+  },
+  "Mock Combat Cleanup": {
+    "table": "orbs",
+    "entry_id": "MOCK_COMBAT_CLEANUP_ORB",
+    "upgraded": false
+  },
+  "Mock Curse Card": {
+    "table": "cards",
+    "entry_id": "MOCK_CURSE_CARD",
+    "upgraded": false
+  },
+  "Mock Curse Card+": {
+    "table": "cards",
+    "entry_id": "MOCK_CURSE_CARD",
+    "upgraded": true
+  },
+  "Mock Discard and Add Shivs Potion": {
+    "table": "potions",
+    "entry_id": "MOCK_DISCARD_AND_ADD_SHIVS_POTION",
+    "upgraded": false
+  },
+  "Mock Do Not Scale in Multiplayer": {
+    "table": "powers",
+    "entry_id": "MOCK_DO_NOT_SCALE_IN_MULTIPLAYER_POWER",
+    "upgraded": false
+  },
+  "Mock Extra Turn": {
+    "table": "powers",
+    "entry_id": "MOCK_EXTRA_TURN_POWER",
+    "upgraded": false
+  },
+  "Mock Free Cards": {
+    "table": "powers",
+    "entry_id": "MOCK_FREE_CARDS_POWER",
+    "upgraded": false
+  },
+  "Mock Gain Block on Attack": {
+    "table": "powers",
+    "entry_id": "MOCK_GAIN_BLOCK_ON_ATTACK_POWER",
+    "upgraded": false
+  },
+  "Mock Invincible on Death": {
+    "table": "powers",
+    "entry_id": "MOCK_INVINCIBLE_ON_DEATH_POWER",
+    "upgraded": false
+  },
+  "Mock Modify Energy Cost": {
+    "table": "powers",
+    "entry_id": "MOCK_MODIFY_ENERGY_COST_POWER",
+    "upgraded": false
+  },
+  "Mock Modify Star Cost": {
+    "table": "powers",
+    "entry_id": "MOCK_MODIFY_STAR_COST_POWER",
+    "upgraded": false
+  },
+  "Mock Phase Observer": {
+    "table": "powers",
+    "entry_id": "MOCK_PHASE_OBSERVER_POWER",
+    "upgraded": false
+  },
+  "Mock Power Card": {
+    "table": "cards",
+    "entry_id": "MOCK_POWER_CARD",
+    "upgraded": false
+  },
+  "Mock Power Card+": {
+    "table": "cards",
+    "entry_id": "MOCK_POWER_CARD",
+    "upgraded": true
+  },
+  "Mock Prevent Death": {
+    "table": "powers",
+    "entry_id": "MOCK_PREVENT_DEATH_POWER",
+    "upgraded": false
+  },
+  "Mock Quest Card": {
+    "table": "cards",
+    "entry_id": "MOCK_QUEST_CARD",
+    "upgraded": false
+  },
+  "Mock Quest Card+": {
+    "table": "cards",
+    "entry_id": "MOCK_QUEST_CARD",
+    "upgraded": true
+  },
+  "Mock Remove Drawn Cards from Combat": {
+    "table": "powers",
+    "entry_id": "MOCK_REMOVE_DRAWN_CARDS_FROM_COMBAT_POWER",
+    "upgraded": false
+  },
+  "Mock Reset Combat on Shuffle": {
+    "table": "powers",
+    "entry_id": "MOCK_RESET_COMBAT_ON_SHUFFLE_POWER",
+    "upgraded": false
+  },
+  "Mock Revive": {
+    "table": "powers",
+    "entry_id": "MOCK_REVIVE_POWER",
+    "upgraded": false
+  },
+  "Mock Scale in Multiplayer": {
+    "table": "powers",
+    "entry_id": "MOCK_SCALE_IN_MULTIPLAYER_POWER",
+    "upgraded": false
+  },
+  "Mock Skill Card": {
+    "table": "cards",
+    "entry_id": "MOCK_SKILL_CARD",
+    "upgraded": false
+  },
+  "Mock Skill Card+": {
+    "table": "cards",
+    "entry_id": "MOCK_SKILL_CARD",
+    "upgraded": true
+  },
+  "Mock Status Card": {
+    "table": "cards",
+    "entry_id": "MOCK_STATUS_CARD",
+    "upgraded": false
+  },
+  "Mock Status Card+": {
+    "table": "cards",
+    "entry_id": "MOCK_STATUS_CARD",
+    "upgraded": true
+  },
+  "Mock Temporary Strength Loss": {
+    "table": "powers",
+    "entry_id": "MOCK_TEMPORARY_STRENGTH_LOSS",
+    "upgraded": false
+  },
+  "Mock Unhittable": {
+    "table": "powers",
+    "entry_id": "MOCK_UNHITTABLE_POWER",
+    "upgraded": false
+  },
+  "Modded": {
+    "table": "cards",
+    "entry_id": "MODDED",
+    "upgraded": false
+  },
+  "Modded+": {
+    "table": "cards",
+    "entry_id": "MODDED",
+    "upgraded": true
+  },
+  "Molten Egg": {
+    "table": "relics",
+    "entry_id": "MOLTEN_EGG",
+    "upgraded": false
+  },
+  "Molten Fist": {
+    "table": "cards",
+    "entry_id": "MOLTEN_FIST",
+    "upgraded": false
+  },
+  "Molten Fist+": {
+    "table": "cards",
+    "entry_id": "MOLTEN_FIST",
+    "upgraded": true
+  },
+  "Momentum Strike": {
+    "table": "cards",
+    "entry_id": "MOMENTUM_STRIKE",
+    "upgraded": false
+  },
+  "Momentum Strike+": {
+    "table": "cards",
+    "entry_id": "MOMENTUM_STRIKE",
+    "upgraded": true
+  },
+  "Monarch's Gaze": {
+    "table": "powers",
+    "entry_id": "MONARCHS_GAZE_POWER",
+    "upgraded": false
+  },
+  "Monarch's Gaze+": {
+    "table": "cards",
+    "entry_id": "MONARCHS_GAZE",
+    "upgraded": true
+  },
+  "Monologue": {
+    "table": "powers",
+    "entry_id": "MONOLOGUE_POWER",
+    "upgraded": false
+  },
+  "Monologue+": {
+    "table": "cards",
+    "entry_id": "MONOLOGUE",
+    "upgraded": true
+  },
+  "Mr. Struggles": {
+    "table": "relics",
+    "entry_id": "MR_STRUGGLES",
+    "upgraded": false
+  },
+  "Multi-Cast": {
+    "table": "cards",
+    "entry_id": "MULTI_CAST",
+    "upgraded": false
+  },
+  "Multi-Cast+": {
+    "table": "cards",
+    "entry_id": "MULTI_CAST",
+    "upgraded": true
+  },
+  "Mummified Hand": {
+    "table": "relics",
+    "entry_id": "MUMMIFIED_HAND",
+    "upgraded": false
+  },
+  "Murder": {
+    "table": "cards",
+    "entry_id": "MURDER",
+    "upgraded": false
+  },
+  "Murder+": {
+    "table": "cards",
+    "entry_id": "MURDER",
+    "upgraded": true
+  },
+  "Music Box": {
+    "table": "relics",
+    "entry_id": "MUSIC_BOX",
+    "upgraded": false
+  },
+  "Mysterious Cocoon": {
+    "table": "relics",
+    "entry_id": "MYSTERIOUS_COCOON",
+    "upgraded": false
+  },
+  "Mysterious Knight": {
+    "table": "monsters",
+    "entry_id": "MYSTERIOUS_KNIGHT",
+    "upgraded": false
+  },
+  "Mystic Lighter": {
+    "table": "relics",
+    "entry_id": "MYSTIC_LIGHTER",
+    "upgraded": false
+  },
+  "Myte": {
+    "table": "monsters",
+    "entry_id": "MYTE",
+    "upgraded": false
+  },
+  "Necro Mastery": {
+    "table": "powers",
+    "entry_id": "NECRO_MASTERY_POWER",
+    "upgraded": false
+  },
+  "Necro Mastery+": {
+    "table": "cards",
+    "entry_id": "NECRO_MASTERY",
+    "upgraded": true
+  },
+  "Negative Pulse": {
+    "table": "cards",
+    "entry_id": "NEGATIVE_PULSE",
+    "upgraded": false
+  },
+  "Negative Pulse+": {
+    "table": "cards",
+    "entry_id": "NEGATIVE_PULSE",
+    "upgraded": true
+  },
+  "Nemesis": {
+    "table": "powers",
+    "entry_id": "NEMESIS_POWER",
+    "upgraded": false
+  },
+  "Neow's Bones": {
+    "table": "relics",
+    "entry_id": "NEOWS_BONES",
+    "upgraded": false
+  },
+  "Neow's Fury": {
+    "table": "cards",
+    "entry_id": "NEOWS_FURY",
+    "upgraded": false
+  },
+  "Neow's Fury+": {
+    "table": "cards",
+    "entry_id": "NEOWS_FURY",
+    "upgraded": true
+  },
+  "Neow's Talisman": {
+    "table": "relics",
+    "entry_id": "NEOWS_TALISMAN",
+    "upgraded": false
+  },
+  "Neow's Torment": {
+    "table": "relics",
+    "entry_id": "NEOWS_TORMENT",
+    "upgraded": false
+  },
+  "Nest": {
+    "table": "monsters",
+    "entry_id": "BYRDONIS_NEST",
+    "upgraded": false
+  },
+  "Neurosurge": {
+    "table": "powers",
+    "entry_id": "NEUROSURGE_POWER",
+    "upgraded": false
+  },
+  "Neurosurge+": {
+    "table": "cards",
+    "entry_id": "NEUROSURGE",
+    "upgraded": true
+  },
+  "Neutralize": {
+    "table": "cards",
+    "entry_id": "NEUTRALIZE",
+    "upgraded": false
+  },
+  "Neutralize+": {
+    "table": "cards",
+    "entry_id": "NEUTRALIZE",
+    "upgraded": true
+  },
+  "Neutron Aegis": {
+    "table": "cards",
+    "entry_id": "NEUTRON_AEGIS",
+    "upgraded": false
+  },
+  "Neutron Aegis+": {
+    "table": "cards",
+    "entry_id": "NEUTRON_AEGIS",
+    "upgraded": true
+  },
+  "New Leaf": {
+    "table": "relics",
+    "entry_id": "NEW_LEAF",
+    "upgraded": false
+  },
+  "Nibbit": {
+    "table": "monsters",
+    "entry_id": "NIBBIT",
+    "upgraded": false
+  },
+  "Nightmare": {
+    "table": "powers",
+    "entry_id": "NIGHTMARE_POWER",
+    "upgraded": false
+  },
+  "Nightmare+": {
+    "table": "cards",
+    "entry_id": "NIGHTMARE",
+    "upgraded": true
+  },
+  "Ninja Scroll": {
+    "table": "relics",
+    "entry_id": "NINJA_SCROLL",
+    "upgraded": false
+  },
+  "No Block": {
+    "table": "powers",
+    "entry_id": "NO_BLOCK_POWER",
+    "upgraded": false
+  },
+  "No Draw": {
+    "table": "powers",
+    "entry_id": "NO_DRAW_POWER",
+    "upgraded": false
+  },
+  "No Energy Gain": {
+    "table": "powers",
+    "entry_id": "NO_ENERGY_GAIN_POWER",
+    "upgraded": false
+  },
+  "No Escape": {
+    "table": "powers",
+    "entry_id": "NO_ESCAPE_POWER",
+    "upgraded": false
+  },
+  "No Escape+": {
+    "table": "cards",
+    "entry_id": "NO_ESCAPE",
+    "upgraded": true
+  },
+  "Noisebot": {
+    "table": "monsters",
+    "entry_id": "NOISEBOT",
+    "upgraded": false
+  },
+  "Normality": {
+    "table": "cards",
+    "entry_id": "NORMALITY",
+    "upgraded": false
+  },
+  "Normality+": {
+    "table": "cards",
+    "entry_id": "NORMALITY",
+    "upgraded": true
+  },
+  "Nostalgia": {
+    "table": "powers",
+    "entry_id": "NOSTALGIA_POWER",
+    "upgraded": false
+  },
+  "Nostalgia+": {
+    "table": "cards",
+    "entry_id": "NOSTALGIA",
+    "upgraded": true
+  },
+  "Not Yet": {
+    "table": "cards",
+    "entry_id": "NOT_YET",
+    "upgraded": false
+  },
+  "Not Yet+": {
+    "table": "cards",
+    "entry_id": "NOT_YET",
+    "upgraded": true
+  },
+  "Noxious Fumes": {
+    "table": "powers",
+    "entry_id": "NOXIOUS_FUMES_POWER",
+    "upgraded": false
+  },
+  "Noxious Fumes+": {
+    "table": "cards",
+    "entry_id": "NOXIOUS_FUMES",
+    "upgraded": true
+  },
+  "Null": {
+    "table": "cards",
+    "entry_id": "NULL",
+    "upgraded": false
+  },
+  "Null+": {
+    "table": "cards",
+    "entry_id": "NULL",
+    "upgraded": true
+  },
+  "Nunchaku": {
+    "table": "relics",
+    "entry_id": "NUNCHAKU",
+    "upgraded": false
+  },
+  "Nutritious Oyster": {
+    "table": "relics",
+    "entry_id": "NUTRITIOUS_OYSTER",
+    "upgraded": false
+  },
+  "Nutritious Soup": {
+    "table": "relics",
+    "entry_id": "NUTRITIOUS_SOUP",
+    "upgraded": false
+  },
+  "Oblivion": {
+    "table": "powers",
+    "entry_id": "OBLIVION_POWER",
+    "upgraded": false
+  },
+  "Oblivion+": {
+    "table": "cards",
+    "entry_id": "OBLIVION",
+    "upgraded": true
+  },
+  "Oddly Smooth Stone": {
+    "table": "relics",
+    "entry_id": "ODDLY_SMOOTH_STONE",
+    "upgraded": false
+  },
+  "Off by One": {
+    "table": "cards",
+    "entry_id": "OFF_BY_ONE",
+    "upgraded": false
+  },
+  "Off by One+": {
+    "table": "cards",
+    "entry_id": "OFF_BY_ONE",
+    "upgraded": true
+  },
+  "Offering": {
+    "table": "cards",
+    "entry_id": "OFFERING",
+    "upgraded": false
+  },
+  "Offering+": {
+    "table": "cards",
+    "entry_id": "OFFERING",
+    "upgraded": true
+  },
+  "Old Coin": {
+    "table": "relics",
+    "entry_id": "OLD_COIN",
+    "upgraded": false
+  },
+  "Omnislice": {
+    "table": "cards",
+    "entry_id": "OMNISLICE",
+    "upgraded": false
+  },
+  "Omnislice+": {
+    "table": "cards",
+    "entry_id": "OMNISLICE",
+    "upgraded": true
+  },
+  "One for All": {
+    "table": "powers",
+    "entry_id": "ONE_FOR_ALL_POWER",
+    "upgraded": false
+  },
+  "One for All+": {
+    "table": "cards",
+    "entry_id": "ONE_FOR_ALL",
+    "upgraded": true
+  },
+  "One-Two Punch": {
+    "table": "powers",
+    "entry_id": "ONE_TWO_PUNCH_POWER",
+    "upgraded": false
+  },
+  "One-Two Punch+": {
+    "table": "cards",
+    "entry_id": "ONE_TWO_PUNCH",
+    "upgraded": true
+  },
+  "Orange Dough": {
+    "table": "relics",
+    "entry_id": "ORANGE_DOUGH",
+    "upgraded": false
+  },
+  "Orb Generator": {
+    "table": "powers",
+    "entry_id": "ORB_GENERATOR",
+    "upgraded": false
+  },
+  "Orb Slot": {
+    "table": "orbs",
+    "entry_id": "EMPTY_SLOT",
+    "upgraded": false
+  },
+  "Orbit": {
+    "table": "powers",
+    "entry_id": "ORBIT_POWER",
+    "upgraded": false
+  },
+  "Orbit+": {
+    "table": "cards",
+    "entry_id": "ORBIT",
+    "upgraded": true
+  },
+  "Orichalcum": {
+    "table": "relics",
+    "entry_id": "ORICHALCUM",
+    "upgraded": false
+  },
+  "Orichalcum???": {
+    "table": "relics",
+    "entry_id": "FAKE_ORICHALCUM",
+    "upgraded": false
+  },
+  "Ornamental Fan": {
+    "table": "relics",
+    "entry_id": "ORNAMENTAL_FAN",
+    "upgraded": false
+  },
+  "Orobic Acid": {
+    "table": "potions",
+    "entry_id": "OROBIC_ACID",
+    "upgraded": false
+  },
+  "Orrery": {
+    "table": "relics",
+    "entry_id": "ORRERY",
+    "upgraded": false
+  },
+  "Osty": {
+    "table": "monsters",
+    "entry_id": "OSTY",
+    "upgraded": false
+  },
+  "Outbreak": {
+    "table": "powers",
+    "entry_id": "OUTBREAK_POWER",
+    "upgraded": false
+  },
+  "Outbreak+": {
+    "table": "cards",
+    "entry_id": "OUTBREAK",
+    "upgraded": true
+  },
+  "Outmaneuver": {
+    "table": "cards",
+    "entry_id": "OUTMANEUVER",
+    "upgraded": false
+  },
+  "Outmaneuver+": {
+    "table": "cards",
+    "entry_id": "OUTMANEUVER",
+    "upgraded": true
+  },
+  "Outrage": {
+    "table": "cards",
+    "entry_id": "OUTRAGE",
+    "upgraded": false
+  },
+  "Outrage+": {
+    "table": "cards",
+    "entry_id": "OUTRAGE",
+    "upgraded": true
+  },
+  "Overclock": {
+    "table": "cards",
+    "entry_id": "OVERCLOCK",
+    "upgraded": false
+  },
+  "Overclock+": {
+    "table": "cards",
+    "entry_id": "OVERCLOCK",
+    "upgraded": true
+  },
+  "Ovicopter": {
+    "table": "monsters",
+    "entry_id": "OVICOPTER",
+    "upgraded": false
+  },
+  "Owl Magistrate": {
+    "table": "monsters",
+    "entry_id": "OWL_MAGISTRATE",
+    "upgraded": false
+  },
+  "Pact's End": {
+    "table": "cards",
+    "entry_id": "PACTS_END",
+    "upgraded": false
+  },
+  "Pact's End+": {
+    "table": "cards",
+    "entry_id": "PACTS_END",
+    "upgraded": true
+  },
+  "Pael's Blood": {
+    "table": "relics",
+    "entry_id": "PAELS_BLOOD",
+    "upgraded": false
+  },
+  "Pael's Claw": {
+    "table": "relics",
+    "entry_id": "PAELS_CLAW",
+    "upgraded": false
+  },
+  "Pael's Eye": {
+    "table": "relics",
+    "entry_id": "PAELS_EYE",
+    "upgraded": false
+  },
+  "Pael's Flesh": {
+    "table": "relics",
+    "entry_id": "PAELS_FLESH",
+    "upgraded": false
+  },
+  "Pael's Growth": {
+    "table": "relics",
+    "entry_id": "PAELS_GROWTH",
+    "upgraded": false
+  },
+  "Pael's Horn": {
+    "table": "relics",
+    "entry_id": "PAELS_HORN",
+    "upgraded": false
+  },
+  "Pael's Legion": {
+    "table": "monsters",
+    "entry_id": "PAELS_LEGION",
+    "upgraded": false
+  },
+  "Pael's Strike": {
+    "table": "cards",
+    "entry_id": "PAELS_STRIKE",
+    "upgraded": false
+  },
+  "Pael's Strike+": {
+    "table": "cards",
+    "entry_id": "PAELS_STRIKE",
+    "upgraded": true
+  },
+  "Pael's Tears": {
+    "table": "relics",
+    "entry_id": "PAELS_TEARS",
+    "upgraded": false
+  },
+  "Pael's Tooth": {
+    "table": "relics",
+    "entry_id": "PAELS_TOOTH",
+    "upgraded": false
+  },
+  "Pael's Wing": {
+    "table": "relics",
+    "entry_id": "PAELS_WING",
+    "upgraded": false
+  },
+  "Pagestorm": {
+    "table": "powers",
+    "entry_id": "PAGESTORM_POWER",
+    "upgraded": false
+  },
+  "Pagestorm+": {
+    "table": "cards",
+    "entry_id": "PAGESTORM",
+    "upgraded": true
+  },
+  "Painful Stabs": {
+    "table": "powers",
+    "entry_id": "PAINFUL_STABS_POWER",
+    "upgraded": false
+  },
+  "Pale Blue Dot": {
+    "table": "powers",
+    "entry_id": "PALE_BLUE_DOT_POWER",
+    "upgraded": false
+  },
+  "Pale Blue Dot+": {
+    "table": "cards",
+    "entry_id": "PALE_BLUE_DOT",
+    "upgraded": true
+  },
+  "Panache": {
+    "table": "powers",
+    "entry_id": "PANACHE_POWER",
+    "upgraded": false
+  },
+  "Panache+": {
+    "table": "cards",
+    "entry_id": "PANACHE",
+    "upgraded": true
+  },
+  "Pandora's Box": {
+    "table": "relics",
+    "entry_id": "PANDORAS_BOX",
+    "upgraded": false
+  },
+  "Panic Button": {
+    "table": "cards",
+    "entry_id": "PANIC_BUTTON",
+    "upgraded": false
+  },
+  "Panic Button+": {
+    "table": "cards",
+    "entry_id": "PANIC_BUTTON",
+    "upgraded": true
+  },
+  "Pantograph": {
+    "table": "relics",
+    "entry_id": "PANTOGRAPH",
+    "upgraded": false
+  },
+  "Paper Cuts": {
+    "table": "powers",
+    "entry_id": "PAPER_CUTS_POWER",
+    "upgraded": false
+  },
+  "Paper Krane": {
+    "table": "relics",
+    "entry_id": "PAPER_KRANE",
+    "upgraded": false
+  },
+  "Paper Phrog": {
+    "table": "relics",
+    "entry_id": "PAPER_PHROG",
+    "upgraded": false
+  },
+  "Parafright": {
+    "table": "monsters",
+    "entry_id": "PARAFRIGHT",
+    "upgraded": false
+  },
+  "Parry": {
+    "table": "powers",
+    "entry_id": "PARRY_POWER",
+    "upgraded": false
+  },
+  "Parry+": {
+    "table": "cards",
+    "entry_id": "PARRY",
+    "upgraded": true
+  },
+  "Parrying Shield": {
+    "table": "relics",
+    "entry_id": "PARRYING_SHIELD",
+    "upgraded": false
+  },
+  "Parse": {
+    "table": "cards",
+    "entry_id": "PARSE",
+    "upgraded": false
+  },
+  "Parse+": {
+    "table": "cards",
+    "entry_id": "PARSE",
+    "upgraded": true
+  },
+  "Particle Wall": {
+    "table": "cards",
+    "entry_id": "PARTICLE_WALL",
+    "upgraded": false
+  },
+  "Particle Wall+": {
+    "table": "cards",
+    "entry_id": "PARTICLE_WALL",
+    "upgraded": true
+  },
+  "Patter": {
+    "table": "cards",
+    "entry_id": "PATTER",
+    "upgraded": false
+  },
+  "Patter+": {
+    "table": "cards",
+    "entry_id": "PATTER",
+    "upgraded": true
+  },
+  "Pear": {
+    "table": "relics",
+    "entry_id": "PEAR",
+    "upgraded": false
+  },
+  "Peck": {
+    "table": "cards",
+    "entry_id": "PECK",
+    "upgraded": false
+  },
+  "Peck+": {
+    "table": "cards",
+    "entry_id": "PECK",
+    "upgraded": true
+  },
+  "Pen Nib": {
+    "table": "relics",
+    "entry_id": "PEN_NIB",
+    "upgraded": false
+  },
+  "Pendulum": {
+    "table": "relics",
+    "entry_id": "PENDULUM",
+    "upgraded": false
+  },
+  "Perfected Strike": {
+    "table": "cards",
+    "entry_id": "PERFECTED_STRIKE",
+    "upgraded": false
+  },
+  "Perfected Strike+": {
+    "table": "cards",
+    "entry_id": "PERFECTED_STRIKE",
+    "upgraded": true
+  },
+  "Permafrost": {
+    "table": "relics",
+    "entry_id": "PERMAFROST",
+    "upgraded": false
+  },
+  "Personal Hive": {
+    "table": "powers",
+    "entry_id": "PERSONAL_HIVE_POWER",
+    "upgraded": false
+  },
+  "Petrified Toad": {
+    "table": "relics",
+    "entry_id": "PETRIFIED_TOAD",
+    "upgraded": false
+  },
+  "Phantasmal Gardener": {
+    "table": "monsters",
+    "entry_id": "PHANTASMAL_GARDENER",
+    "upgraded": false
+  },
+  "Phantom Blades": {
+    "table": "powers",
+    "entry_id": "PHANTOM_BLADES_POWER",
+    "upgraded": false
+  },
+  "Phantom Blades+": {
+    "table": "cards",
+    "entry_id": "PHANTOM_BLADES",
+    "upgraded": true
+  },
+  "Phial Holster": {
+    "table": "relics",
+    "entry_id": "PHIAL_HOLSTER",
+    "upgraded": false
+  },
+  "Philosopher's Stone": {
+    "table": "relics",
+    "entry_id": "PHILOSOPHERS_STONE",
+    "upgraded": false
+  },
+  "Photon Cut": {
+    "table": "cards",
+    "entry_id": "PHOTON_CUT",
+    "upgraded": false
+  },
+  "Photon Cut+": {
+    "table": "cards",
+    "entry_id": "PHOTON_CUT",
+    "upgraded": true
+  },
+  "Phrog Parasite": {
+    "table": "monsters",
+    "entry_id": "PHROG_PARASITE",
+    "upgraded": false
+  },
+  "Phylactery Unbound": {
+    "table": "relics",
+    "entry_id": "PHYLACTERY_UNBOUND",
+    "upgraded": false
+  },
+  "Piercing Wail": {
+    "table": "cards",
+    "entry_id": "PIERCING_WAIL",
+    "upgraded": false
+  },
+  "Piercing Wail+": {
+    "table": "cards",
+    "entry_id": "PIERCING_WAIL",
+    "upgraded": true
+  },
+  "Pillage": {
+    "table": "cards",
+    "entry_id": "PILLAGE",
+    "upgraded": false
+  },
+  "Pillage+": {
+    "table": "cards",
+    "entry_id": "PILLAGE",
+    "upgraded": true
+  },
+  "Pillar of Creation": {
+    "table": "powers",
+    "entry_id": "PILLAR_OF_CREATION_POWER",
+    "upgraded": false
+  },
+  "Pillar of Creation+": {
+    "table": "cards",
+    "entry_id": "PILLAR_OF_CREATION",
+    "upgraded": true
+  },
+  "Pinpoint": {
+    "table": "cards",
+    "entry_id": "PINPOINT",
+    "upgraded": false
+  },
+  "Pinpoint+": {
+    "table": "cards",
+    "entry_id": "PINPOINT",
+    "upgraded": true
+  },
+  "Pity": {
+    "table": "cards",
+    "entry_id": "PITY",
+    "upgraded": false
+  },
+  "Pity+": {
+    "table": "cards",
+    "entry_id": "PITY",
+    "upgraded": true
+  },
+  "Planisphere": {
+    "table": "relics",
+    "entry_id": "PLANISPHERE",
+    "upgraded": false
+  },
+  "Plasma": {
+    "table": "orbs",
+    "entry_id": "PLASMA_ORB",
+    "upgraded": false
+  },
+  "Plating": {
+    "table": "powers",
+    "entry_id": "PLATING_POWER",
+    "upgraded": false
+  },
+  "Plot": {
+    "table": "cards",
+    "entry_id": "PLOT",
+    "upgraded": false
+  },
+  "Plot+": {
+    "table": "cards",
+    "entry_id": "PLOT",
+    "upgraded": true
+  },
+  "Plow": {
+    "table": "powers",
+    "entry_id": "PLOW_POWER",
+    "upgraded": false
+  },
+  "Pocketwatch": {
+    "table": "relics",
+    "entry_id": "POCKETWATCH",
+    "upgraded": false
+  },
+  "Poison": {
+    "table": "powers",
+    "entry_id": "POISON_POWER",
+    "upgraded": false
+  },
+  "Poison Potion": {
+    "table": "potions",
+    "entry_id": "POISON_POTION",
+    "upgraded": false
+  },
+  "Poisoned Stab": {
+    "table": "cards",
+    "entry_id": "POISONED_STAB",
+    "upgraded": false
+  },
+  "Poisoned Stab+": {
+    "table": "cards",
+    "entry_id": "POISONED_STAB",
+    "upgraded": true
+  },
+  "Poke": {
+    "table": "cards",
+    "entry_id": "POKE",
+    "upgraded": false
+  },
+  "Poke+": {
+    "table": "cards",
+    "entry_id": "POKE",
+    "upgraded": true
+  },
+  "Pollinous Core": {
+    "table": "relics",
+    "entry_id": "POLLINOUS_CORE",
+    "upgraded": false
+  },
+  "Pomander": {
+    "table": "relics",
+    "entry_id": "POMANDER",
+    "upgraded": false
+  },
+  "Pommel Strike": {
+    "table": "cards",
+    "entry_id": "POMMEL_STRIKE",
+    "upgraded": false
+  },
+  "Pommel Strike+": {
+    "table": "cards",
+    "entry_id": "POMMEL_STRIKE",
+    "upgraded": true
+  },
+  "Poor Sleep": {
+    "table": "cards",
+    "entry_id": "POOR_SLEEP",
+    "upgraded": false
+  },
+  "Poor Sleep+": {
+    "table": "cards",
+    "entry_id": "POOR_SLEEP",
+    "upgraded": true
+  },
+  "Possess Speed": {
+    "table": "powers",
+    "entry_id": "POSSESS_SPEED_POWER",
+    "upgraded": false
+  },
+  "Possess Strength": {
+    "table": "powers",
+    "entry_id": "POSSESS_STRENGTH_POWER",
+    "upgraded": false
+  },
+  "Pot of Ghouls": {
+    "table": "potions",
+    "entry_id": "POT_OF_GHOULS",
+    "upgraded": false
+  },
+  "Potion Belt": {
+    "table": "relics",
+    "entry_id": "POTION_BELT",
+    "upgraded": false
+  },
+  "Potion of Binding": {
+    "table": "potions",
+    "entry_id": "POTION_OF_BINDING",
+    "upgraded": false
+  },
+  "Potion of Capacity": {
+    "table": "potions",
+    "entry_id": "POTION_OF_CAPACITY",
+    "upgraded": false
+  },
+  "Potion of Doom": {
+    "table": "potions",
+    "entry_id": "POTION_OF_DOOM",
+    "upgraded": false
+  },
+  "Potion-Shaped Rock": {
+    "table": "potions",
+    "entry_id": "POTION_SHAPED_ROCK",
+    "upgraded": false
+  },
+  "Pounce": {
+    "table": "cards",
+    "entry_id": "POUNCE",
+    "upgraded": false
+  },
+  "Pounce+": {
+    "table": "cards",
+    "entry_id": "POUNCE",
+    "upgraded": true
+  },
+  "Powdered Demise": {
+    "table": "potions",
+    "entry_id": "POWDERED_DEMISE",
+    "upgraded": false
+  },
+  "Power Cell": {
+    "table": "relics",
+    "entry_id": "POWER_CELL",
+    "upgraded": false
+  },
+  "Power Potion": {
+    "table": "potions",
+    "entry_id": "POWER_POTION",
+    "upgraded": false
+  },
+  "Prayer Wheel": {
+    "table": "relics",
+    "entry_id": "PRAYER_WHEEL",
+    "upgraded": false
+  },
+  "Precarious Shears": {
+    "table": "relics",
+    "entry_id": "PRECARIOUS_SHEARS",
+    "upgraded": false
+  },
+  "Precise Cut": {
+    "table": "cards",
+    "entry_id": "PRECISE_CUT",
+    "upgraded": false
+  },
+  "Precise Cut+": {
+    "table": "cards",
+    "entry_id": "PRECISE_CUT",
+    "upgraded": true
+  },
+  "Precise Scissors": {
+    "table": "relics",
+    "entry_id": "PRECISE_SCISSORS",
+    "upgraded": false
+  },
+  "Predator": {
+    "table": "cards",
+    "entry_id": "PREDATOR",
+    "upgraded": false
+  },
+  "Predator+": {
+    "table": "cards",
+    "entry_id": "PREDATOR",
+    "upgraded": true
+  },
+  "Prep Time": {
+    "table": "powers",
+    "entry_id": "PREP_TIME_POWER",
+    "upgraded": false
+  },
+  "Prep Time+": {
+    "table": "cards",
+    "entry_id": "PREP_TIME",
+    "upgraded": true
+  },
+  "Prepared": {
+    "table": "cards",
+    "entry_id": "PREPARED",
+    "upgraded": false
+  },
+  "Prepared+": {
+    "table": "cards",
+    "entry_id": "PREPARED",
+    "upgraded": true
+  },
+  "Preserved Fog": {
+    "table": "relics",
+    "entry_id": "PRESERVED_FOG",
+    "upgraded": false
+  },
+  "Primal Force": {
+    "table": "cards",
+    "entry_id": "PRIMAL_FORCE",
+    "upgraded": false
+  },
+  "Primal Force+": {
+    "table": "cards",
+    "entry_id": "PRIMAL_FORCE",
+    "upgraded": true
+  },
+  "Prismatic Gem": {
+    "table": "relics",
+    "entry_id": "PRISMATIC_GEM",
+    "upgraded": false
+  },
+  "Production": {
+    "table": "cards",
+    "entry_id": "PRODUCTION",
+    "upgraded": false
+  },
+  "Production+": {
+    "table": "cards",
+    "entry_id": "PRODUCTION",
+    "upgraded": true
+  },
+  "Prolong": {
+    "table": "cards",
+    "entry_id": "PROLONG",
+    "upgraded": false
+  },
+  "Prolong+": {
+    "table": "cards",
+    "entry_id": "PROLONG",
+    "upgraded": true
+  },
+  "Prophesize": {
+    "table": "cards",
+    "entry_id": "PROPHESIZE",
+    "upgraded": false
+  },
+  "Prophesize+": {
+    "table": "cards",
+    "entry_id": "PROPHESIZE",
+    "upgraded": true
+  },
+  "Protector": {
+    "table": "cards",
+    "entry_id": "PROTECTOR",
+    "upgraded": false
+  },
+  "Protector+": {
+    "table": "cards",
+    "entry_id": "PROTECTOR",
+    "upgraded": true
+  },
+  "Prowess": {
+    "table": "cards",
+    "entry_id": "PROWESS",
+    "upgraded": false
+  },
+  "Prowess+": {
+    "table": "cards",
+    "entry_id": "PROWESS",
+    "upgraded": true
+  },
+  "Pull Aggro": {
+    "table": "cards",
+    "entry_id": "PULL_AGGRO",
+    "upgraded": false
+  },
+  "Pull Aggro+": {
+    "table": "cards",
+    "entry_id": "PULL_AGGRO",
+    "upgraded": true
+  },
+  "Pull from Below": {
+    "table": "cards",
+    "entry_id": "PULL_FROM_BELOW",
+    "upgraded": false
+  },
+  "Pull from Below+": {
+    "table": "cards",
+    "entry_id": "PULL_FROM_BELOW",
+    "upgraded": true
+  },
+  "Pumpkin Candle": {
+    "table": "relics",
+    "entry_id": "PUMPKIN_CANDLE",
+    "upgraded": false
+  },
+  "Punch Construct": {
+    "table": "monsters",
+    "entry_id": "PUNCH_CONSTRUCT",
+    "upgraded": false
+  },
+  "Punch Dagger": {
+    "table": "relics",
+    "entry_id": "PUNCH_DAGGER",
+    "upgraded": false
+  },
+  "Purity": {
+    "table": "cards",
+    "entry_id": "PURITY",
+    "upgraded": false
+  },
+  "Purity+": {
+    "table": "cards",
+    "entry_id": "PURITY",
+    "upgraded": true
+  },
+  "Putrefy": {
+    "table": "cards",
+    "entry_id": "PUTREFY",
+    "upgraded": false
+  },
+  "Putrefy+": {
+    "table": "cards",
+    "entry_id": "PUTREFY",
+    "upgraded": true
+  },
+  "Pyre": {
+    "table": "powers",
+    "entry_id": "PYRE_POWER",
+    "upgraded": false
+  },
+  "Pyre+": {
+    "table": "cards",
+    "entry_id": "PYRE",
+    "upgraded": true
+  },
+  "Quadcast": {
+    "table": "cards",
+    "entry_id": "QUADCAST",
+    "upgraded": false
+  },
+  "Quadcast+": {
+    "table": "cards",
+    "entry_id": "QUADCAST",
+    "upgraded": true
+  },
+  "Quasar": {
+    "table": "cards",
+    "entry_id": "QUASAR",
+    "upgraded": false
+  },
+  "Quasar+": {
+    "table": "cards",
+    "entry_id": "QUASAR",
+    "upgraded": true
+  },
+  "Queen": {
+    "table": "monsters",
+    "entry_id": "QUEEN",
+    "upgraded": false
+  },
+  "Quick Slash": {
+    "table": "cards",
+    "entry_id": "QUICK_SLASH",
+    "upgraded": false
+  },
+  "Quick Slash+": {
+    "table": "cards",
+    "entry_id": "QUICK_SLASH",
+    "upgraded": true
+  },
+  "Radiance": {
+    "table": "powers",
+    "entry_id": "RADIANCE_POWER",
+    "upgraded": false
+  },
+  "Radiant Pearl": {
+    "table": "relics",
+    "entry_id": "RADIANT_PEARL",
+    "upgraded": false
+  },
+  "Radiant Tincture": {
+    "table": "potions",
+    "entry_id": "RADIANT_TINCTURE",
+    "upgraded": false
+  },
+  "Radiate": {
+    "table": "cards",
+    "entry_id": "RADIATE",
+    "upgraded": false
+  },
+  "Radiate+": {
+    "table": "cards",
+    "entry_id": "RADIATE",
+    "upgraded": true
+  },
+  "Rage": {
+    "table": "powers",
+    "entry_id": "RAGE_POWER",
+    "upgraded": false
+  },
+  "Rage+": {
+    "table": "cards",
+    "entry_id": "RAGE",
+    "upgraded": true
+  },
+  "Rainbow": {
+    "table": "cards",
+    "entry_id": "RAINBOW",
+    "upgraded": false
+  },
+  "Rainbow Ring": {
+    "table": "relics",
+    "entry_id": "RAINBOW_RING",
+    "upgraded": false
+  },
+  "Rainbow+": {
+    "table": "cards",
+    "entry_id": "RAINBOW",
+    "upgraded": true
+  },
+  "Rally": {
+    "table": "cards",
+    "entry_id": "RALLY",
+    "upgraded": false
+  },
+  "Rally+": {
+    "table": "cards",
+    "entry_id": "RALLY",
+    "upgraded": true
+  },
+  "Rampage": {
+    "table": "cards",
+    "entry_id": "RAMPAGE",
+    "upgraded": false
+  },
+  "Rampage+": {
+    "table": "cards",
+    "entry_id": "RAMPAGE",
+    "upgraded": true
+  },
+  "Rampart": {
+    "table": "powers",
+    "entry_id": "RAMPART_POWER",
+    "upgraded": false
+  },
+  "Rattle": {
+    "table": "cards",
+    "entry_id": "RATTLE",
+    "upgraded": false
+  },
+  "Rattle+": {
+    "table": "cards",
+    "entry_id": "RATTLE",
+    "upgraded": true
+  },
+  "Ravenous": {
+    "table": "powers",
+    "entry_id": "RAVENOUS_POWER",
+    "upgraded": false
+  },
+  "Razor Tooth": {
+    "table": "relics",
+    "entry_id": "RAZOR_TOOTH",
+    "upgraded": false
+  },
+  "Read the Bones": {
+    "table": "powers",
+    "entry_id": "READ_THE_BONES_POWER",
+    "upgraded": false
+  },
+  "Reanimate": {
+    "table": "cards",
+    "entry_id": "REANIMATE",
+    "upgraded": false
+  },
+  "Reanimate+": {
+    "table": "cards",
+    "entry_id": "REANIMATE",
+    "upgraded": true
+  },
+  "Reap": {
+    "table": "cards",
+    "entry_id": "REAP",
+    "upgraded": false
+  },
+  "Reap+": {
+    "table": "cards",
+    "entry_id": "REAP",
+    "upgraded": true
+  },
+  "Reaper Form": {
+    "table": "powers",
+    "entry_id": "REAPER_FORM_POWER",
+    "upgraded": false
+  },
+  "Reaper Form+": {
+    "table": "cards",
+    "entry_id": "REAPER_FORM",
+    "upgraded": true
+  },
+  "Reattach": {
+    "table": "powers",
+    "entry_id": "REATTACH_POWER",
+    "upgraded": false
+  },
+  "Reave": {
+    "table": "cards",
+    "entry_id": "REAVE",
+    "upgraded": false
+  },
+  "Reave+": {
+    "table": "cards",
+    "entry_id": "REAVE",
+    "upgraded": true
+  },
+  "Reboot": {
+    "table": "cards",
+    "entry_id": "REBOOT",
+    "upgraded": false
+  },
+  "Reboot+": {
+    "table": "cards",
+    "entry_id": "REBOOT",
+    "upgraded": true
+  },
+  "Rebound": {
+    "table": "powers",
+    "entry_id": "REBOUND_POWER",
+    "upgraded": false
+  },
+  "Rebound+": {
+    "table": "cards",
+    "entry_id": "REBOUND",
+    "upgraded": true
+  },
+  "Red Mask": {
+    "table": "relics",
+    "entry_id": "RED_MASK",
+    "upgraded": false
+  },
+  "Red Skull": {
+    "table": "relics",
+    "entry_id": "RED_SKULL",
+    "upgraded": false
+  },
+  "Red Vine Tea": {
+    "table": "relics",
+    "entry_id": "RED_VINE_TEA",
+    "upgraded": false
+  },
+  "Refine Blade": {
+    "table": "cards",
+    "entry_id": "REFINE_BLADE",
+    "upgraded": false
+  },
+  "Refine Blade+": {
+    "table": "cards",
+    "entry_id": "REFINE_BLADE",
+    "upgraded": true
+  },
+  "Reflect": {
+    "table": "powers",
+    "entry_id": "REFLECT_POWER",
+    "upgraded": false
+  },
+  "Reflect+": {
+    "table": "cards",
+    "entry_id": "REFLECT",
+    "upgraded": true
+  },
+  "Reflective Fortress": {
+    "table": "powers",
+    "entry_id": "REFLECTIVE_FORTRESS_POWER",
+    "upgraded": false
+  },
+  "Reflex": {
+    "table": "cards",
+    "entry_id": "REFLEX",
+    "upgraded": false
+  },
+  "Reflex+": {
+    "table": "cards",
+    "entry_id": "REFLEX",
+    "upgraded": true
+  },
+  "Refract": {
+    "table": "cards",
+    "entry_id": "REFRACT",
+    "upgraded": false
+  },
+  "Refract+": {
+    "table": "cards",
+    "entry_id": "REFRACT",
+    "upgraded": true
+  },
+  "Regal Pillow": {
+    "table": "relics",
+    "entry_id": "REGAL_PILLOW",
+    "upgraded": false
+  },
+  "Regalite": {
+    "table": "relics",
+    "entry_id": "REGALITE",
+    "upgraded": false
+  },
+  "Regen": {
+    "table": "powers",
+    "entry_id": "REGEN_POWER",
+    "upgraded": false
+  },
+  "Regen Potion": {
+    "table": "potions",
+    "entry_id": "REGEN_POTION",
+    "upgraded": false
+  },
+  "Regret": {
+    "table": "cards",
+    "entry_id": "REGRET",
+    "upgraded": false
+  },
+  "Regret+": {
+    "table": "cards",
+    "entry_id": "REGRET",
+    "upgraded": true
+  },
+  "Relax": {
+    "table": "cards",
+    "entry_id": "RELAX",
+    "upgraded": false
+  },
+  "Relax+": {
+    "table": "cards",
+    "entry_id": "RELAX",
+    "upgraded": true
+  },
+  "Rend": {
+    "table": "cards",
+    "entry_id": "REND",
+    "upgraded": false
+  },
+  "Rend+": {
+    "table": "cards",
+    "entry_id": "REND",
+    "upgraded": true
+  },
+  "Reptile Trinket": {
+    "table": "relics",
+    "entry_id": "REPTILE_TRINKET",
+    "upgraded": false
+  },
+  "Reserves": {
+    "table": "powers",
+    "entry_id": "RESERVES_POWER",
+    "upgraded": false
+  },
+  "Reserves+": {
+    "table": "cards",
+    "entry_id": "RESERVES",
+    "upgraded": true
+  },
+  "Resonance": {
+    "table": "cards",
+    "entry_id": "RESONANCE",
+    "upgraded": false
+  },
+  "Resonance+": {
+    "table": "cards",
+    "entry_id": "RESONANCE",
+    "upgraded": true
+  },
+  "Restlessness": {
+    "table": "cards",
+    "entry_id": "RESTLESSNESS",
+    "upgraded": false
+  },
+  "Restlessness+": {
+    "table": "cards",
+    "entry_id": "RESTLESSNESS",
+    "upgraded": true
+  },
+  "Restore Dexterity": {
+    "table": "powers",
+    "entry_id": "RESTORE_DEXTERITY",
+    "upgraded": false
+  },
+  "Restore Focus": {
+    "table": "powers",
+    "entry_id": "RESTORE_FOCUS",
+    "upgraded": false
+  },
+  "Retain Hand": {
+    "table": "powers",
+    "entry_id": "RETAIN_HAND_POWER",
+    "upgraded": false
+  },
+  "Ricochet": {
+    "table": "cards",
+    "entry_id": "RICOCHET",
+    "upgraded": false
+  },
+  "Ricochet+": {
+    "table": "cards",
+    "entry_id": "RICOCHET",
+    "upgraded": true
+  },
+  "Right Hand Hand": {
+    "table": "cards",
+    "entry_id": "RIGHT_HAND_HAND",
+    "upgraded": false
+  },
+  "Right Hand Hand+": {
+    "table": "cards",
+    "entry_id": "RIGHT_HAND_HAND",
+    "upgraded": true
+  },
+  "Ring of the Drake": {
+    "table": "relics",
+    "entry_id": "RING_OF_THE_DRAKE",
+    "upgraded": false
+  },
+  "Ring of the Snake": {
+    "table": "relics",
+    "entry_id": "RING_OF_THE_SNAKE",
+    "upgraded": false
+  },
+  "Ringing": {
+    "table": "powers",
+    "entry_id": "RINGING_POWER",
+    "upgraded": false
+  },
+  "Ringing Triangle": {
+    "table": "relics",
+    "entry_id": "RINGING_TRIANGLE",
+    "upgraded": false
+  },
+  "Rip and Tear": {
+    "table": "cards",
+    "entry_id": "RIP_AND_TEAR",
+    "upgraded": false
+  },
+  "Rip and Tear+": {
+    "table": "cards",
+    "entry_id": "RIP_AND_TEAR",
+    "upgraded": true
+  },
+  "Ripple Basin": {
+    "table": "relics",
+    "entry_id": "RIPPLE_BASIN",
+    "upgraded": false
+  },
+  "Ritual": {
+    "table": "powers",
+    "entry_id": "RITUAL_POWER",
+    "upgraded": false
+  },
+  "Rocket": {
+    "table": "monsters",
+    "entry_id": "ROCKET",
+    "upgraded": false
+  },
+  "Rocket Punch": {
+    "table": "cards",
+    "entry_id": "ROCKET_PUNCH",
+    "upgraded": false
+  },
+  "Rocket Punch+": {
+    "table": "cards",
+    "entry_id": "ROCKET_PUNCH",
+    "upgraded": true
+  },
+  "Rolling Boulder": {
+    "table": "powers",
+    "entry_id": "ROLLING_BOULDER_POWER",
+    "upgraded": false
+  },
+  "Rolling Boulder+": {
+    "table": "cards",
+    "entry_id": "ROLLING_BOULDER",
+    "upgraded": true
+  },
+  "Royal Gamble": {
+    "table": "cards",
+    "entry_id": "ROYAL_GAMBLE",
+    "upgraded": false
+  },
+  "Royal Gamble+": {
+    "table": "cards",
+    "entry_id": "ROYAL_GAMBLE",
+    "upgraded": true
+  },
+  "Royal Poison": {
+    "table": "relics",
+    "entry_id": "ROYAL_POISON",
+    "upgraded": false
+  },
+  "Royal Stamp": {
+    "table": "relics",
+    "entry_id": "ROYAL_STAMP",
+    "upgraded": false
+  },
+  "Royalties": {
+    "table": "powers",
+    "entry_id": "ROYALTIES_POWER",
+    "upgraded": false
+  },
+  "Royalties+": {
+    "table": "cards",
+    "entry_id": "ROYALTIES",
+    "upgraded": true
+  },
+  "Ruined Helmet": {
+    "table": "relics",
+    "entry_id": "RUINED_HELMET",
+    "upgraded": false
+  },
+  "Runic Capacitor": {
+    "table": "relics",
+    "entry_id": "RUNIC_CAPACITOR",
+    "upgraded": false
+  },
+  "Runic Pyramid": {
+    "table": "relics",
+    "entry_id": "RUNIC_PYRAMID",
+    "upgraded": false
+  },
+  "Rupture": {
+    "table": "powers",
+    "entry_id": "RUPTURE_POWER",
+    "upgraded": false
+  },
+  "Rupture+": {
+    "table": "cards",
+    "entry_id": "RUPTURE",
+    "upgraded": true
+  },
+  "Sacrifice": {
+    "table": "cards",
+    "entry_id": "SACRIFICE",
+    "upgraded": false
+  },
+  "Sacrifice+": {
+    "table": "cards",
+    "entry_id": "SACRIFICE",
+    "upgraded": true
+  },
+  "Sai": {
+    "table": "relics",
+    "entry_id": "SAI",
+    "upgraded": false
+  },
+  "Salvo": {
+    "table": "cards",
+    "entry_id": "SALVO",
+    "upgraded": false
+  },
+  "Salvo+": {
+    "table": "cards",
+    "entry_id": "SALVO",
+    "upgraded": true
+  },
+  "Sand Castle": {
+    "table": "relics",
+    "entry_id": "SAND_CASTLE",
+    "upgraded": false
+  },
+  "Sandpit": {
+    "table": "powers",
+    "entry_id": "SANDPIT_POWER",
+    "upgraded": false
+  },
+  "Scare": {
+    "table": "cards",
+    "entry_id": "SCARE",
+    "upgraded": false
+  },
+  "Scare+": {
+    "table": "cards",
+    "entry_id": "SCARE",
+    "upgraded": true
+  },
+  "Scavenge": {
+    "table": "cards",
+    "entry_id": "SCAVENGE",
+    "upgraded": false
+  },
+  "Scavenge+": {
+    "table": "cards",
+    "entry_id": "SCAVENGE",
+    "upgraded": true
+  },
+  "Scourge": {
+    "table": "cards",
+    "entry_id": "SCOURGE",
+    "upgraded": false
+  },
+  "Scourge+": {
+    "table": "cards",
+    "entry_id": "SCOURGE",
+    "upgraded": true
+  },
+  "Scrape": {
+    "table": "cards",
+    "entry_id": "SCRAPE",
+    "upgraded": false
+  },
+  "Scrape+": {
+    "table": "cards",
+    "entry_id": "SCRAPE",
+    "upgraded": true
+  },
+  "Scrawl": {
+    "table": "cards",
+    "entry_id": "SCRAWL",
+    "upgraded": false
+  },
+  "Scrawl+": {
+    "table": "cards",
+    "entry_id": "SCRAWL",
+    "upgraded": true
+  },
+  "Screaming Flagon": {
+    "table": "relics",
+    "entry_id": "SCREAMING_FLAGON",
+    "upgraded": false
+  },
+  "Scroll Boxes": {
+    "table": "relics",
+    "entry_id": "SCROLL_BOXES",
+    "upgraded": false
+  },
+  "Scroll of Biting": {
+    "table": "monsters",
+    "entry_id": "SCROLL_OF_BITING",
+    "upgraded": false
+  },
+  "Sculpting Strike": {
+    "table": "cards",
+    "entry_id": "SCULPTING_STRIKE",
+    "upgraded": false
+  },
+  "Sculpting Strike+": {
+    "table": "cards",
+    "entry_id": "SCULPTING_STRIKE",
+    "upgraded": true
+  },
+  "Sea Glass": {
+    "table": "relics",
+    "entry_id": "SEA_GLASS",
+    "upgraded": false
+  },
+  "Seal of Gold": {
+    "table": "relics",
+    "entry_id": "SEAL_OF_GOLD",
+    "upgraded": false
+  },
+  "Seance": {
+    "table": "cards",
+    "entry_id": "SEANCE",
+    "upgraded": false
+  },
+  "Seance+": {
+    "table": "cards",
+    "entry_id": "SEANCE",
+    "upgraded": true
+  },
+  "Seapunk": {
+    "table": "monsters",
+    "entry_id": "SEAPUNK",
+    "upgraded": false
+  },
+  "Second Wind": {
+    "table": "cards",
+    "entry_id": "SECOND_WIND",
+    "upgraded": false
+  },
+  "Second Wind+": {
+    "table": "cards",
+    "entry_id": "SECOND_WIND",
+    "upgraded": true
+  },
+  "Secret Technique": {
+    "table": "cards",
+    "entry_id": "SECRET_TECHNIQUE",
+    "upgraded": false
+  },
+  "Secret Technique+": {
+    "table": "cards",
+    "entry_id": "SECRET_TECHNIQUE",
+    "upgraded": true
+  },
+  "Secret Weapon": {
+    "table": "cards",
+    "entry_id": "SECRET_WEAPON",
+    "upgraded": false
+  },
+  "Secret Weapon+": {
+    "table": "cards",
+    "entry_id": "SECRET_WEAPON",
+    "upgraded": true
+  },
+  "Seeker Strike": {
+    "table": "cards",
+    "entry_id": "SEEKER_STRIKE",
+    "upgraded": false
+  },
+  "Seeker Strike+": {
+    "table": "cards",
+    "entry_id": "SEEKER_STRIKE",
+    "upgraded": true
+  },
+  "Seeking Edge": {
+    "table": "powers",
+    "entry_id": "SEEKING_EDGE_POWER",
+    "upgraded": false
+  },
+  "Seeking Edge+": {
+    "table": "cards",
+    "entry_id": "SEEKING_EDGE",
+    "upgraded": true
+  },
+  "Self-Forming Clay": {
+    "table": "powers",
+    "entry_id": "SELF_FORMING_CLAY_POWER",
+    "upgraded": false
+  },
+  "Sentry Mode": {
+    "table": "powers",
+    "entry_id": "SENTRY_MODE_POWER",
+    "upgraded": false
+  },
+  "Sentry Mode+": {
+    "table": "cards",
+    "entry_id": "SENTRY_MODE",
+    "upgraded": true
+  },
+  "Sere Talon": {
+    "table": "relics",
+    "entry_id": "SERE_TALON",
+    "upgraded": false
+  },
+  "Serpent Form": {
+    "table": "powers",
+    "entry_id": "SERPENT_FORM_POWER",
+    "upgraded": false
+  },
+  "Serpent Form+": {
+    "table": "cards",
+    "entry_id": "SERPENT_FORM",
+    "upgraded": true
+  },
+  "Setup Strike": {
+    "table": "cards",
+    "entry_id": "SETUP_STRIKE",
+    "upgraded": false
+  },
+  "Setup Strike+": {
+    "table": "cards",
+    "entry_id": "SETUP_STRIKE",
+    "upgraded": true
+  },
+  "Seven Stars": {
+    "table": "cards",
+    "entry_id": "SEVEN_STARS",
+    "upgraded": false
+  },
+  "Seven Stars+": {
+    "table": "cards",
+    "entry_id": "SEVEN_STARS",
+    "upgraded": true
+  },
+  "Severance": {
+    "table": "cards",
+    "entry_id": "SEVERANCE",
+    "upgraded": false
+  },
+  "Severance+": {
+    "table": "cards",
+    "entry_id": "SEVERANCE",
+    "upgraded": true
+  },
+  "Sewer Clam": {
+    "table": "monsters",
+    "entry_id": "SEWER_CLAM",
+    "upgraded": false
+  },
+  "Shackling Potion": {
+    "table": "potions",
+    "entry_id": "SHACKLING_POTION",
+    "upgraded": false
+  },
+  "Shadow Shield": {
+    "table": "cards",
+    "entry_id": "SHADOW_SHIELD",
+    "upgraded": false
+  },
+  "Shadow Shield+": {
+    "table": "cards",
+    "entry_id": "SHADOW_SHIELD",
+    "upgraded": true
+  },
+  "Shadow Step": {
+    "table": "powers",
+    "entry_id": "SHADOW_STEP_POWER",
+    "upgraded": false
+  },
+  "Shadow Step+": {
+    "table": "cards",
+    "entry_id": "SHADOW_STEP",
+    "upgraded": true
+  },
+  "Shadowmeld": {
+    "table": "powers",
+    "entry_id": "SHADOWMELD_POWER",
+    "upgraded": false
+  },
+  "Shadowmeld+": {
+    "table": "cards",
+    "entry_id": "SHADOWMELD",
+    "upgraded": true
+  },
+  "Shame": {
+    "table": "cards",
+    "entry_id": "SHAME",
+    "upgraded": false
+  },
+  "Shame+": {
+    "table": "cards",
+    "entry_id": "SHAME",
+    "upgraded": true
+  },
+  "Shared Fate": {
+    "table": "cards",
+    "entry_id": "SHARED_FATE",
+    "upgraded": false
+  },
+  "Shared Fate+": {
+    "table": "cards",
+    "entry_id": "SHARED_FATE",
+    "upgraded": true
+  },
+  "Sharp Edge": {
+    "table": "powers",
+    "entry_id": "SHARP_EDGE_POWER",
+    "upgraded": false
+  },
+  "Sharp Edge+": {
+    "table": "cards",
+    "entry_id": "SHARP_EDGE",
+    "upgraded": true
+  },
+  "Shatter": {
+    "table": "cards",
+    "entry_id": "SHATTER",
+    "upgraded": false
+  },
+  "Shatter+": {
+    "table": "cards",
+    "entry_id": "SHATTER",
+    "upgraded": true
+  },
+  "Shining Strike": {
+    "table": "cards",
+    "entry_id": "SHINING_STRIKE",
+    "upgraded": false
+  },
+  "Shining Strike+": {
+    "table": "cards",
+    "entry_id": "SHINING_STRIKE",
+    "upgraded": true
+  },
+  "Ship in a Bottle": {
+    "table": "potions",
+    "entry_id": "SHIP_IN_A_BOTTLE",
+    "upgraded": false
+  },
+  "Shiv": {
+    "table": "cards",
+    "entry_id": "SHIV",
+    "upgraded": false
+  },
+  "Shiv+": {
+    "table": "cards",
+    "entry_id": "SHIV",
+    "upgraded": true
+  },
+  "Shivs": {
+    "table": "cards",
+    "entry_id": "SHIV",
+    "upgraded": false
+  },
+  "Shivs+": {
+    "table": "cards",
+    "entry_id": "SHIV",
+    "upgraded": true
+  },
+  "Shockwave": {
+    "table": "cards",
+    "entry_id": "SHOCKWAVE",
+    "upgraded": false
+  },
+  "Shockwave+": {
+    "table": "cards",
+    "entry_id": "SHOCKWAVE",
+    "upgraded": true
+  },
+  "Shovel": {
+    "table": "relics",
+    "entry_id": "SHOVEL",
+    "upgraded": false
+  },
+  "Shriek": {
+    "table": "powers",
+    "entry_id": "SHRIEK_POWER",
+    "upgraded": false
+  },
+  "Shrink": {
+    "table": "powers",
+    "entry_id": "SHRINK_POWER",
+    "upgraded": false
+  },
+  "Shrinker Beetle": {
+    "table": "monsters",
+    "entry_id": "SHRINKER_BEETLE",
+    "upgraded": false
+  },
+  "Shroud": {
+    "table": "powers",
+    "entry_id": "SHROUD_POWER",
+    "upgraded": false
+  },
+  "Shroud+": {
+    "table": "cards",
+    "entry_id": "SHROUD",
+    "upgraded": true
+  },
+  "Shrug It Off": {
+    "table": "cards",
+    "entry_id": "SHRUG_IT_OFF",
+    "upgraded": false
+  },
+  "Shrug It Off+": {
+    "table": "cards",
+    "entry_id": "SHRUG_IT_OFF",
+    "upgraded": true
+  },
+  "Shuriken": {
+    "table": "relics",
+    "entry_id": "SHURIKEN",
+    "upgraded": false
+  },
+  "Sic 'Em": {
+    "table": "powers",
+    "entry_id": "SIC_EM_POWER",
+    "upgraded": false
+  },
+  "Sic 'Em+": {
+    "table": "cards",
+    "entry_id": "SIC_EM",
+    "upgraded": true
+  },
+  "Signal Boost": {
+    "table": "powers",
+    "entry_id": "SIGNAL_BOOST_POWER",
+    "upgraded": false
+  },
+  "Signal Boost+": {
+    "table": "cards",
+    "entry_id": "SIGNAL_BOOST",
+    "upgraded": true
+  },
+  "Signet Ring": {
+    "table": "relics",
+    "entry_id": "SIGNET_RING",
+    "upgraded": false
+  },
+  "Silken Tress": {
+    "table": "relics",
+    "entry_id": "SILKEN_TRESS",
+    "upgraded": false
+  },
+  "Silver Crucible": {
+    "table": "relics",
+    "entry_id": "SILVER_CRUCIBLE",
+    "upgraded": false
+  },
+  "Skewer": {
+    "table": "cards",
+    "entry_id": "SKEWER",
+    "upgraded": false
+  },
+  "Skewer+": {
+    "table": "cards",
+    "entry_id": "SKEWER",
+    "upgraded": true
+  },
+  "Skill Potion": {
+    "table": "potions",
+    "entry_id": "SKILL_POTION",
+    "upgraded": false
+  },
+  "Skim": {
+    "table": "cards",
+    "entry_id": "SKIM",
+    "upgraded": false
+  },
+  "Skim+": {
+    "table": "cards",
+    "entry_id": "SKIM",
+    "upgraded": true
+  },
+  "Skittish": {
+    "table": "powers",
+    "entry_id": "SKITTISH_POWER",
+    "upgraded": false
+  },
+  "Skulking Colony": {
+    "table": "monsters",
+    "entry_id": "SKULKING_COLONY",
+    "upgraded": false
+  },
+  "Sleight of Flesh": {
+    "table": "powers",
+    "entry_id": "SLEIGHT_OF_FLESH_POWER",
+    "upgraded": false
+  },
+  "Sleight of Flesh+": {
+    "table": "cards",
+    "entry_id": "SLEIGHT_OF_FLESH",
+    "upgraded": true
+  },
+  "Slice": {
+    "table": "cards",
+    "entry_id": "SLICE",
+    "upgraded": false
+  },
+  "Slice+": {
+    "table": "cards",
+    "entry_id": "SLICE",
+    "upgraded": true
+  },
+  "Slimed": {
+    "table": "cards",
+    "entry_id": "SLIMED",
+    "upgraded": false
+  },
+  "Slimed Berserker": {
+    "table": "monsters",
+    "entry_id": "SLIMED_BERSERKER",
+    "upgraded": false
+  },
+  "Slimed+": {
+    "table": "cards",
+    "entry_id": "SLIMED",
+    "upgraded": true
+  },
+  "Sling of Courage": {
+    "table": "relics",
+    "entry_id": "SLING_OF_COURAGE",
+    "upgraded": false
+  },
+  "Slippery": {
+    "table": "powers",
+    "entry_id": "SLIPPERY_POWER",
+    "upgraded": false
+  },
+  "Slithering Strangler": {
+    "table": "monsters",
+    "entry_id": "SLITHERING_STRANGLER",
+    "upgraded": false
+  },
+  "Sloth": {
+    "table": "powers",
+    "entry_id": "SLOTH_POWER",
+    "upgraded": false
+  },
+  "Sloth+": {
+    "table": "cards",
+    "entry_id": "SLOTH",
+    "upgraded": true
+  },
+  "Slow": {
+    "table": "powers",
+    "entry_id": "SLOW_POWER",
+    "upgraded": false
+  },
+  "Sludge Spinner": {
+    "table": "monsters",
+    "entry_id": "SLUDGE_SPINNER",
+    "upgraded": false
+  },
+  "Slumber": {
+    "table": "powers",
+    "entry_id": "SLUMBER_POWER",
+    "upgraded": false
+  },
+  "Slumbering Beetle": {
+    "table": "monsters",
+    "entry_id": "SLUMBERING_BEETLE",
+    "upgraded": false
+  },
+  "Small Capsule": {
+    "table": "relics",
+    "entry_id": "SMALL_CAPSULE",
+    "upgraded": false
+  },
+  "Smoggy": {
+    "table": "powers",
+    "entry_id": "SMOGGY_POWER",
+    "upgraded": false
+  },
+  "Smokestack": {
+    "table": "powers",
+    "entry_id": "SMOKESTACK_POWER",
+    "upgraded": false
+  },
+  "Smokestack+": {
+    "table": "cards",
+    "entry_id": "SMOKESTACK",
+    "upgraded": true
+  },
+  "Snakebite": {
+    "table": "cards",
+    "entry_id": "SNAKEBITE",
+    "upgraded": false
+  },
+  "Snakebite+": {
+    "table": "cards",
+    "entry_id": "SNAKEBITE",
+    "upgraded": true
+  },
+  "Snap": {
+    "table": "cards",
+    "entry_id": "SNAP",
+    "upgraded": false
+  },
+  "Snap+": {
+    "table": "cards",
+    "entry_id": "SNAP",
+    "upgraded": true
+  },
+  "Snapping Jaxfruit": {
+    "table": "monsters",
+    "entry_id": "SNAPPING_JAXFRUIT",
+    "upgraded": false
+  },
+  "Sneaky": {
+    "table": "powers",
+    "entry_id": "SNEAKY_POWER",
+    "upgraded": false
+  },
+  "Sneaky Gremlin": {
+    "table": "monsters",
+    "entry_id": "SNEAKY_GREMLIN",
+    "upgraded": false
+  },
+  "Sneaky+": {
+    "table": "cards",
+    "entry_id": "SNEAKY",
+    "upgraded": true
+  },
+  "Snecko Eye": {
+    "table": "relics",
+    "entry_id": "SNECKO_EYE",
+    "upgraded": false
+  },
+  "Snecko Eye???": {
+    "table": "relics",
+    "entry_id": "FAKE_SNECKO_EYE",
+    "upgraded": false
+  },
+  "Snecko Oil": {
+    "table": "potions",
+    "entry_id": "SNECKO_OIL",
+    "upgraded": false
+  },
+  "Snecko Skull": {
+    "table": "relics",
+    "entry_id": "SNECKO_SKULL",
+    "upgraded": false
+  },
+  "Soar": {
+    "table": "powers",
+    "entry_id": "SOAR_POWER",
+    "upgraded": false
+  },
+  "Solar Strike": {
+    "table": "cards",
+    "entry_id": "SOLAR_STRIKE",
+    "upgraded": false
+  },
+  "Solar Strike+": {
+    "table": "cards",
+    "entry_id": "SOLAR_STRIKE",
+    "upgraded": true
+  },
+  "Soldier's Stew": {
+    "table": "potions",
+    "entry_id": "SOLDIERS_STEW",
+    "upgraded": false
+  },
+  "Soot": {
+    "table": "cards",
+    "entry_id": "SOOT",
+    "upgraded": false
+  },
+  "Soot+": {
+    "table": "cards",
+    "entry_id": "SOOT",
+    "upgraded": true
+  },
+  "Soul": {
+    "table": "cards",
+    "entry_id": "SOUL",
+    "upgraded": false
+  },
+  "Soul Fysh": {
+    "table": "monsters",
+    "entry_id": "SOUL_FYSH",
+    "upgraded": false
+  },
+  "Soul Nexus": {
+    "table": "monsters",
+    "entry_id": "SOUL_NEXUS",
+    "upgraded": false
+  },
+  "Soul Storm": {
+    "table": "cards",
+    "entry_id": "SOUL_STORM",
+    "upgraded": false
+  },
+  "Soul Storm+": {
+    "table": "cards",
+    "entry_id": "SOUL_STORM",
+    "upgraded": true
+  },
+  "Soul Wither": {
+    "table": "powers",
+    "entry_id": "SOUL_WITHER",
+    "upgraded": false
+  },
+  "Soul+": {
+    "table": "cards",
+    "entry_id": "SOUL",
+    "upgraded": true
+  },
+  "Soulbound": {
+    "table": "powers",
+    "entry_id": "SOULBOUND_POWER",
+    "upgraded": false
+  },
+  "Soulbound+": {
+    "table": "cards",
+    "entry_id": "SOULBOUND",
+    "upgraded": true
+  },
+  "Souls": {
+    "table": "cards",
+    "entry_id": "SOUL",
+    "upgraded": false
+  },
+  "Sovereign Blade": {
+    "table": "cards",
+    "entry_id": "SOVEREIGN_BLADE",
+    "upgraded": false
+  },
+  "Sovereign Blade+": {
+    "table": "cards",
+    "entry_id": "SOVEREIGN_BLADE",
+    "upgraded": true
+  },
+  "Sow": {
+    "table": "powers",
+    "entry_id": "SOW_POWER",
+    "upgraded": false
+  },
+  "Sow+": {
+    "table": "cards",
+    "entry_id": "SOW",
+    "upgraded": true
+  },
+  "Sozu": {
+    "table": "relics",
+    "entry_id": "SOZU",
+    "upgraded": false
+  },
+  "Sparkling Rouge": {
+    "table": "relics",
+    "entry_id": "SPARKLING_ROUGE",
+    "upgraded": false
+  },
+  "Spectral Knight": {
+    "table": "monsters",
+    "entry_id": "SPECTRAL_KNIGHT",
+    "upgraded": false
+  },
+  "Spectrum Shift": {
+    "table": "powers",
+    "entry_id": "SPECTRUM_SHIFT_POWER",
+    "upgraded": false
+  },
+  "Spectrum Shift+": {
+    "table": "cards",
+    "entry_id": "SPECTRUM_SHIFT",
+    "upgraded": true
+  },
+  "Speed Potion": {
+    "table": "potions",
+    "entry_id": "SPEED_POTION",
+    "upgraded": false
+  },
+  "Speedster": {
+    "table": "powers",
+    "entry_id": "SPEEDSTER_POWER",
+    "upgraded": false
+  },
+  "Speedster+": {
+    "table": "cards",
+    "entry_id": "SPEEDSTER",
+    "upgraded": true
+  },
+  "Spiked": {
+    "table": "cards",
+    "entry_id": "SPIKED",
+    "upgraded": false
+  },
+  "Spiked Gauntlets": {
+    "table": "relics",
+    "entry_id": "SPIKED_GAUNTLETS",
+    "upgraded": false
+  },
+  "Spiked+": {
+    "table": "cards",
+    "entry_id": "SPIKED",
+    "upgraded": true
+  },
+  "Spinner": {
+    "table": "powers",
+    "entry_id": "SPINNER_POWER",
+    "upgraded": false
+  },
+  "Spinner+": {
+    "table": "cards",
+    "entry_id": "SPINNER",
+    "upgraded": true
+  },
+  "Spiny Toad": {
+    "table": "monsters",
+    "entry_id": "SPINY_TOAD",
+    "upgraded": false
+  },
+  "Spirit of Ash": {
+    "table": "powers",
+    "entry_id": "SPIRIT_OF_ASH_POWER",
+    "upgraded": false
+  },
+  "Spirit of Ash+": {
+    "table": "cards",
+    "entry_id": "SPIRIT_OF_ASH",
+    "upgraded": true
+  },
+  "Spite": {
+    "table": "cards",
+    "entry_id": "SPITE",
+    "upgraded": false
+  },
+  "Spite+": {
+    "table": "cards",
+    "entry_id": "SPITE",
+    "upgraded": true
+  },
+  "Splash": {
+    "table": "cards",
+    "entry_id": "SPLASH",
+    "upgraded": false
+  },
+  "Splash+": {
+    "table": "cards",
+    "entry_id": "SPLASH",
+    "upgraded": true
+  },
+  "Spoils Map": {
+    "table": "cards",
+    "entry_id": "SPOILS_MAP",
+    "upgraded": false
+  },
+  "Spoils Map+": {
+    "table": "cards",
+    "entry_id": "SPOILS_MAP",
+    "upgraded": true
+  },
+  "Spoils of Battle": {
+    "table": "cards",
+    "entry_id": "SPOILS_OF_BATTLE",
+    "upgraded": false
+  },
+  "Spoils of Battle+": {
+    "table": "cards",
+    "entry_id": "SPOILS_OF_BATTLE",
+    "upgraded": true
+  },
+  "Spore Mind": {
+    "table": "cards",
+    "entry_id": "SPORE_MIND",
+    "upgraded": false
+  },
+  "Spore Mind+": {
+    "table": "cards",
+    "entry_id": "SPORE_MIND",
+    "upgraded": true
+  },
+  "Spur": {
+    "table": "cards",
+    "entry_id": "SPUR",
+    "upgraded": false
+  },
+  "Spur+": {
+    "table": "cards",
+    "entry_id": "SPUR",
+    "upgraded": true
+  },
+  "Squash": {
+    "table": "cards",
+    "entry_id": "SQUASH",
+    "upgraded": false
+  },
+  "Squash+": {
+    "table": "cards",
+    "entry_id": "SQUASH",
+    "upgraded": true
+  },
+  "Squeeze": {
+    "table": "cards",
+    "entry_id": "SQUEEZE",
+    "upgraded": false
+  },
+  "Squeeze+": {
+    "table": "cards",
+    "entry_id": "SQUEEZE",
+    "upgraded": true
+  },
+  "Stabbot": {
+    "table": "monsters",
+    "entry_id": "STABBOT",
+    "upgraded": false
+  },
+  "Stable Serum": {
+    "table": "potions",
+    "entry_id": "STABLE_SERUM",
+    "upgraded": false
+  },
+  "Stack": {
+    "table": "cards",
+    "entry_id": "STACK",
+    "upgraded": false
+  },
+  "Stack+": {
+    "table": "cards",
+    "entry_id": "STACK",
+    "upgraded": true
+  },
+  "Stampede": {
+    "table": "powers",
+    "entry_id": "STAMPEDE_POWER",
+    "upgraded": false
+  },
+  "Stampede+": {
+    "table": "cards",
+    "entry_id": "STAMPEDE",
+    "upgraded": true
+  },
+  "Star Blast": {
+    "table": "cards",
+    "entry_id": "STAR_BLAST",
+    "upgraded": false
+  },
+  "Star Blast+": {
+    "table": "cards",
+    "entry_id": "STAR_BLAST",
+    "upgraded": true
+  },
+  "Star Next Turn": {
+    "table": "powers",
+    "entry_id": "STAR_NEXT_TURN_POWER",
+    "upgraded": false
+  },
+  "Star Potion": {
+    "table": "potions",
+    "entry_id": "STAR_POTION",
+    "upgraded": false
+  },
+  "Star Shield": {
+    "table": "cards",
+    "entry_id": "STAR_SHIELD",
+    "upgraded": false
+  },
+  "Star Shield+": {
+    "table": "cards",
+    "entry_id": "STAR_SHIELD",
+    "upgraded": true
+  },
+  "Stardust": {
+    "table": "cards",
+    "entry_id": "STARDUST",
+    "upgraded": false
+  },
+  "Stardust+": {
+    "table": "cards",
+    "entry_id": "STARDUST",
+    "upgraded": true
+  },
+  "Steam Eruption": {
+    "table": "powers",
+    "entry_id": "STEAM_ERUPTION_POWER",
+    "upgraded": false
+  },
+  "Stock": {
+    "table": "powers",
+    "entry_id": "STOCK_POWER",
+    "upgraded": false
+  },
+  "Stoke": {
+    "table": "cards",
+    "entry_id": "STOKE",
+    "upgraded": false
+  },
+  "Stoke+": {
+    "table": "cards",
+    "entry_id": "STOKE",
+    "upgraded": true
+  },
+  "Stomp": {
+    "table": "cards",
+    "entry_id": "STOMP",
+    "upgraded": false
+  },
+  "Stomp+": {
+    "table": "cards",
+    "entry_id": "STOMP",
+    "upgraded": true
+  },
+  "Stone Armor": {
+    "table": "cards",
+    "entry_id": "STONE_ARMOR",
+    "upgraded": false
+  },
+  "Stone Armor+": {
+    "table": "cards",
+    "entry_id": "STONE_ARMOR",
+    "upgraded": true
+  },
+  "Stone Calendar": {
+    "table": "relics",
+    "entry_id": "STONE_CALENDAR",
+    "upgraded": false
+  },
+  "Stone Cracker": {
+    "table": "relics",
+    "entry_id": "STONE_CRACKER",
+    "upgraded": false
+  },
+  "Stone Humidifier": {
+    "table": "relics",
+    "entry_id": "STONE_HUMIDIFIER",
+    "upgraded": false
+  },
+  "Storm": {
+    "table": "powers",
+    "entry_id": "STORM_POWER",
+    "upgraded": false
+  },
+  "Storm of Steel": {
+    "table": "cards",
+    "entry_id": "STORM_OF_STEEL",
+    "upgraded": false
+  },
+  "Storm of Steel+": {
+    "table": "cards",
+    "entry_id": "STORM_OF_STEEL",
+    "upgraded": true
+  },
+  "Storm+": {
+    "table": "cards",
+    "entry_id": "STORM",
+    "upgraded": true
+  },
+  "Storybook": {
+    "table": "relics",
+    "entry_id": "STORYBOOK",
+    "upgraded": false
+  },
+  "Strangle": {
+    "table": "powers",
+    "entry_id": "STRANGLE_POWER",
+    "upgraded": false
+  },
+  "Strangle+": {
+    "table": "cards",
+    "entry_id": "STRANGLE",
+    "upgraded": true
+  },
+  "Stratagem": {
+    "table": "powers",
+    "entry_id": "STRATAGEM_POWER",
+    "upgraded": false
+  },
+  "Stratagem+": {
+    "table": "cards",
+    "entry_id": "STRATAGEM",
+    "upgraded": true
+  },
+  "Strawberry": {
+    "table": "relics",
+    "entry_id": "STRAWBERRY",
+    "upgraded": false
+  },
+  "Strength": {
+    "table": "powers",
+    "entry_id": "STRENGTH_POWER",
+    "upgraded": false
+  },
+  "Strength Potion": {
+    "table": "potions",
+    "entry_id": "STRENGTH_POTION",
+    "upgraded": false
+  },
+  "Strike": {
+    "table": "cards",
+    "entry_id": "STRIKE_SILENT",
+    "upgraded": false
+  },
+  "Strike Dummy": {
+    "table": "relics",
+    "entry_id": "STRIKE_DUMMY",
+    "upgraded": false
+  },
+  "Strike Dummy???": {
+    "table": "relics",
+    "entry_id": "FAKE_STRIKE_DUMMY",
+    "upgraded": false
+  },
+  "Strike+": {
+    "table": "cards",
+    "entry_id": "STRIKE_SILENT",
+    "upgraded": true
+  },
+  "Strikes": {
+    "table": "cards",
+    "entry_id": "STRIKE_SILENT",
+    "upgraded": false
+  },
+  "Sturdy Clamp": {
+    "table": "relics",
+    "entry_id": "STURDY_CLAMP",
+    "upgraded": false
+  },
+  "Subroutine": {
+    "table": "powers",
+    "entry_id": "SUBROUTINE_POWER",
+    "upgraded": false
+  },
+  "Subroutine+": {
+    "table": "cards",
+    "entry_id": "SUBROUTINE",
+    "upgraded": true
+  },
+  "Suck": {
+    "table": "powers",
+    "entry_id": "SUCK_POWER",
+    "upgraded": false
+  },
+  "Sucker Punch": {
+    "table": "cards",
+    "entry_id": "SUCKER_PUNCH",
+    "upgraded": false
+  },
+  "Sucker Punch+": {
+    "table": "cards",
+    "entry_id": "SUCKER_PUNCH",
+    "upgraded": true
+  },
+  "Summon Forth": {
+    "table": "cards",
+    "entry_id": "SUMMON_FORTH",
+    "upgraded": false
+  },
+  "Summon Forth+": {
+    "table": "cards",
+    "entry_id": "SUMMON_FORTH",
+    "upgraded": true
+  },
+  "Summon Next Turn": {
+    "table": "powers",
+    "entry_id": "SUMMON_NEXT_TURN_POWER",
+    "upgraded": false
+  },
+  "Sunder": {
+    "table": "cards",
+    "entry_id": "SUNDER",
+    "upgraded": false
+  },
+  "Sunder+": {
+    "table": "cards",
+    "entry_id": "SUNDER",
+    "upgraded": true
+  },
+  "Supercritical": {
+    "table": "cards",
+    "entry_id": "SUPERCRITICAL",
+    "upgraded": false
+  },
+  "Supercritical+": {
+    "table": "cards",
+    "entry_id": "SUPERCRITICAL",
+    "upgraded": true
+  },
+  "Supermassive": {
+    "table": "cards",
+    "entry_id": "SUPERMASSIVE",
+    "upgraded": false
+  },
+  "Supermassive+": {
+    "table": "cards",
+    "entry_id": "SUPERMASSIVE",
+    "upgraded": true
+  },
+  "Suppress": {
+    "table": "cards",
+    "entry_id": "SUPPRESS",
+    "upgraded": false
+  },
+  "Suppress+": {
+    "table": "cards",
+    "entry_id": "SUPPRESS",
+    "upgraded": true
+  },
+  "Surprise": {
+    "table": "powers",
+    "entry_id": "SURPRISE_POWER",
+    "upgraded": false
+  },
+  "Surrounded": {
+    "table": "powers",
+    "entry_id": "SURROUNDED_POWER",
+    "upgraded": false
+  },
+  "Survivor": {
+    "table": "cards",
+    "entry_id": "SURVIVOR",
+    "upgraded": false
+  },
+  "Survivor+": {
+    "table": "cards",
+    "entry_id": "SURVIVOR",
+    "upgraded": true
+  },
+  "Sweeping Beam": {
+    "table": "cards",
+    "entry_id": "SWEEPING_BEAM",
+    "upgraded": false
+  },
+  "Sweeping Beam+": {
+    "table": "cards",
+    "entry_id": "SWEEPING_BEAM",
+    "upgraded": true
+  },
+  "Sweeping Gaze": {
+    "table": "cards",
+    "entry_id": "SWEEPING_GAZE",
+    "upgraded": false
+  },
+  "Sweeping Gaze+": {
+    "table": "cards",
+    "entry_id": "SWEEPING_GAZE",
+    "upgraded": true
+  },
+  "Swift Potion": {
+    "table": "potions",
+    "entry_id": "SWIFT_POTION",
+    "upgraded": false
+  },
+  "Swift Strike": {
+    "table": "cards",
+    "entry_id": "SWIFT_STRIKE",
+    "upgraded": false
+  },
+  "Swift Strike+": {
+    "table": "cards",
+    "entry_id": "SWIFT_STRIKE",
+    "upgraded": true
+  },
+  "Swipe": {
+    "table": "powers",
+    "entry_id": "SWIPE_POWER",
+    "upgraded": false
+  },
+  "Sword Boomerang": {
+    "table": "cards",
+    "entry_id": "SWORD_BOOMERANG",
+    "upgraded": false
+  },
+  "Sword Boomerang+": {
+    "table": "cards",
+    "entry_id": "SWORD_BOOMERANG",
+    "upgraded": true
+  },
+  "Sword Sage": {
+    "table": "powers",
+    "entry_id": "SWORD_SAGE_POWER",
+    "upgraded": false
+  },
+  "Sword Sage+": {
+    "table": "cards",
+    "entry_id": "SWORD_SAGE",
+    "upgraded": true
+  },
+  "Sword of Jade": {
+    "table": "relics",
+    "entry_id": "SWORD_OF_JADE",
+    "upgraded": false
+  },
+  "Sword of Stone": {
+    "table": "relics",
+    "entry_id": "SWORD_OF_STONE",
+    "upgraded": false
+  },
+  "Symbiotic Virus": {
+    "table": "relics",
+    "entry_id": "SYMBIOTIC_VIRUS",
+    "upgraded": false
+  },
+  "Synchronize": {
+    "table": "cards",
+    "entry_id": "SYNCHRONIZE",
+    "upgraded": false
+  },
+  "Synchronize+": {
+    "table": "cards",
+    "entry_id": "SYNCHRONIZE",
+    "upgraded": true
+  },
+  "Synthesis": {
+    "table": "cards",
+    "entry_id": "SYNTHESIS",
+    "upgraded": false
+  },
+  "Synthesis+": {
+    "table": "cards",
+    "entry_id": "SYNTHESIS",
+    "upgraded": true
+  },
+  "TURBO": {
+    "table": "cards",
+    "entry_id": "TURBO",
+    "upgraded": false
+  },
+  "TURBO+": {
+    "table": "cards",
+    "entry_id": "TURBO",
+    "upgraded": true
+  },
+  "Tactician": {
+    "table": "cards",
+    "entry_id": "TACTICIAN",
+    "upgraded": false
+  },
+  "Tactician+": {
+    "table": "cards",
+    "entry_id": "TACTICIAN",
+    "upgraded": true
+  },
+  "Tag Team": {
+    "table": "powers",
+    "entry_id": "TAG_TEAM_POWER",
+    "upgraded": false
+  },
+  "Tag Team+": {
+    "table": "cards",
+    "entry_id": "TAG_TEAM",
+    "upgraded": true
+  },
+  "Tainted": {
+    "table": "powers",
+    "entry_id": "TAINTED_POWER",
+    "upgraded": false
+  },
+  "Tangled": {
+    "table": "powers",
+    "entry_id": "TANGLED_POWER",
+    "upgraded": false
+  },
+  "Tank": {
+    "table": "powers",
+    "entry_id": "TANK_POWER",
+    "upgraded": false
+  },
+  "Tank+": {
+    "table": "cards",
+    "entry_id": "TANK",
+    "upgraded": true
+  },
+  "Tanx's Whistle": {
+    "table": "relics",
+    "entry_id": "TANXS_WHISTLE",
+    "upgraded": false
+  },
+  "Taunt": {
+    "table": "powers",
+    "entry_id": "TAUNT_POWER",
+    "upgraded": false
+  },
+  "Taunt+": {
+    "table": "cards",
+    "entry_id": "TAUNT",
+    "upgraded": true
+  },
+  "Tea of Discourtesy": {
+    "table": "relics",
+    "entry_id": "TEA_OF_DISCOURTESY",
+    "upgraded": false
+  },
+  "Tear Asunder": {
+    "table": "cards",
+    "entry_id": "TEAR_ASUNDER",
+    "upgraded": false
+  },
+  "Tear Asunder+": {
+    "table": "cards",
+    "entry_id": "TEAR_ASUNDER",
+    "upgraded": true
+  },
+  "Tempest": {
+    "table": "cards",
+    "entry_id": "TEMPEST",
+    "upgraded": false
+  },
+  "Tempest+": {
+    "table": "cards",
+    "entry_id": "TEMPEST",
+    "upgraded": true
+  },
+  "Tender": {
+    "table": "powers",
+    "entry_id": "TENDER_POWER",
+    "upgraded": false
+  },
+  "Terraforming": {
+    "table": "cards",
+    "entry_id": "TERRAFORMING",
+    "upgraded": false
+  },
+  "Terraforming+": {
+    "table": "cards",
+    "entry_id": "TERRAFORMING",
+    "upgraded": true
+  },
+  "Territorial": {
+    "table": "powers",
+    "entry_id": "TERRITORIAL_POWER",
+    "upgraded": false
+  },
+  "Terror Eel": {
+    "table": "monsters",
+    "entry_id": "TERROR_EEL",
+    "upgraded": false
+  },
+  "Tesla Coil": {
+    "table": "cards",
+    "entry_id": "TESLA_COIL",
+    "upgraded": false
+  },
+  "Tesla Coil+": {
+    "table": "cards",
+    "entry_id": "TESLA_COIL",
+    "upgraded": true
+  },
+  "Test Subject #C{Count}": {
+    "table": "monsters",
+    "entry_id": "TEST_SUBJECT",
+    "upgraded": false
+  },
+  "Tezcatara's Might": {
+    "table": "cards",
+    "entry_id": "TEZCATARAS_MIGHT",
+    "upgraded": false
+  },
+  "Tezcatara's Might+": {
+    "table": "cards",
+    "entry_id": "TEZCATARAS_MIGHT",
+    "upgraded": true
+  },
+  "Tezcataras Blight": {
+    "table": "powers",
+    "entry_id": "TEZCATARAS_BLIGHT",
+    "upgraded": false
+  },
+  "The Abacus": {
+    "table": "relics",
+    "entry_id": "THE_ABACUS",
+    "upgraded": false
+  },
+  "The Adversary Mk 1": {
+    "table": "monsters",
+    "entry_id": "THE_ADVERSARY_MK_ONE",
+    "upgraded": false
+  },
+  "The Adversary Mk 2": {
+    "table": "monsters",
+    "entry_id": "THE_ADVERSARY_MK_TWO",
+    "upgraded": false
+  },
+  "The Adversary Mk 3": {
+    "table": "monsters",
+    "entry_id": "THE_ADVERSARY_MK_THREE",
+    "upgraded": false
+  },
+  "The Architect": {
+    "table": "monsters",
+    "entry_id": "ARCHITECT",
+    "upgraded": false
+  },
+  "The Arm": {
+    "table": "monsters",
+    "entry_id": "THE_ARM",
+    "upgraded": false
+  },
+  "The Ball": {
+    "table": "cards",
+    "entry_id": "THE_BALL",
+    "upgraded": false
+  },
+  "The Ball+": {
+    "table": "cards",
+    "entry_id": "THE_BALL",
+    "upgraded": true
+  },
+  "The Bell": {
+    "table": "monsters",
+    "entry_id": "THE_BELL",
+    "upgraded": false
+  },
+  "The Bomb": {
+    "table": "powers",
+    "entry_id": "THE_BOMB_POWER",
+    "upgraded": false
+  },
+  "The Bomb+": {
+    "table": "cards",
+    "entry_id": "THE_BOMB",
+    "upgraded": true
+  },
+  "The Boot": {
+    "table": "relics",
+    "entry_id": "THE_BOOT",
+    "upgraded": false
+  },
+  "The Chosen Cheese": {
+    "table": "relics",
+    "entry_id": "CHOSEN_CHEESE",
+    "upgraded": false
+  },
+  "The Courier": {
+    "table": "relics",
+    "entry_id": "THE_COURIER",
+    "upgraded": false
+  },
+  "The Dreamer": {
+    "table": "monsters",
+    "entry_id": "THE_DREAMER",
+    "upgraded": false
+  },
+  "The Forgotten": {
+    "table": "monsters",
+    "entry_id": "THE_FORGOTTEN",
+    "upgraded": false
+  },
+  "The Gambit": {
+    "table": "powers",
+    "entry_id": "THE_GAMBIT_POWER",
+    "upgraded": false
+  },
+  "The Gambit+": {
+    "table": "cards",
+    "entry_id": "THE_GAMBIT",
+    "upgraded": true
+  },
+  "The Hunt": {
+    "table": "powers",
+    "entry_id": "THE_HUNT_POWER",
+    "upgraded": false
+  },
+  "The Hunt+": {
+    "table": "cards",
+    "entry_id": "THE_HUNT",
+    "upgraded": true
+  },
+  "The Insatiable": {
+    "table": "monsters",
+    "entry_id": "THE_INSATIABLE",
+    "upgraded": false
+  },
+  "The Lost": {
+    "table": "monsters",
+    "entry_id": "THE_LOST",
+    "upgraded": false
+  },
+  "The Merchant's Rug???": {
+    "table": "relics",
+    "entry_id": "FAKE_MERCHANTS_RUG",
+    "upgraded": false
+  },
+  "The Merchant???": {
+    "table": "monsters",
+    "entry_id": "FAKE_MERCHANT_MONSTER",
+    "upgraded": false
+  },
+  "The Obscura": {
+    "table": "monsters",
+    "entry_id": "THE_OBSCURA",
+    "upgraded": false
+  },
+  "The Scythe": {
+    "table": "cards",
+    "entry_id": "THE_SCYTHE",
+    "upgraded": false
+  },
+  "The Scythe+": {
+    "table": "cards",
+    "entry_id": "THE_SCYTHE",
+    "upgraded": true
+  },
+  "The Sealed Throne": {
+    "table": "powers",
+    "entry_id": "THE_SEALED_THRONE_POWER",
+    "upgraded": false
+  },
+  "The Sealed Throne+": {
+    "table": "cards",
+    "entry_id": "THE_SEALED_THRONE",
+    "upgraded": true
+  },
+  "The Smith": {
+    "table": "cards",
+    "entry_id": "THE_SMITH",
+    "upgraded": false
+  },
+  "The Smith+": {
+    "table": "cards",
+    "entry_id": "THE_SMITH",
+    "upgraded": true
+  },
+  "Thievery": {
+    "table": "powers",
+    "entry_id": "THIEVERY_POWER",
+    "upgraded": false
+  },
+  "Thieving Hopper": {
+    "table": "monsters",
+    "entry_id": "THIEVING_HOPPER",
+    "upgraded": false
+  },
+  "Thinking Ahead": {
+    "table": "cards",
+    "entry_id": "THINKING_AHEAD",
+    "upgraded": false
+  },
+  "Thinking Ahead+": {
+    "table": "cards",
+    "entry_id": "THINKING_AHEAD",
+    "upgraded": true
+  },
+  "Thorns": {
+    "table": "powers",
+    "entry_id": "THORNS_POWER",
+    "upgraded": false
+  },
+  "Thrash": {
+    "table": "cards",
+    "entry_id": "THRASH",
+    "upgraded": false
+  },
+  "Thrash+": {
+    "table": "cards",
+    "entry_id": "THRASH",
+    "upgraded": true
+  },
+  "Throwing Axe": {
+    "table": "relics",
+    "entry_id": "THROWING_AXE",
+    "upgraded": false
+  },
+  "Thrumming Hatchet": {
+    "table": "cards",
+    "entry_id": "THRUMMING_HATCHET",
+    "upgraded": false
+  },
+  "Thrumming Hatchet+": {
+    "table": "cards",
+    "entry_id": "THRUMMING_HATCHET",
+    "upgraded": true
+  },
+  "Thunder": {
+    "table": "powers",
+    "entry_id": "THUNDER_POWER",
+    "upgraded": false
+  },
+  "Thunder+": {
+    "table": "cards",
+    "entry_id": "THUNDER",
+    "upgraded": true
+  },
+  "Thunderclap": {
+    "table": "cards",
+    "entry_id": "THUNDERCLAP",
+    "upgraded": false
+  },
+  "Thunderclap+": {
+    "table": "cards",
+    "entry_id": "THUNDERCLAP",
+    "upgraded": true
+  },
+  "Time Limit": {
+    "table": "powers",
+    "entry_id": "BATTLEWORN_DUMMY_TIME_LIMIT_POWER",
+    "upgraded": false
+  },
+  "Time's Up": {
+    "table": "cards",
+    "entry_id": "TIMES_UP",
+    "upgraded": false
+  },
+  "Time's Up+": {
+    "table": "cards",
+    "entry_id": "TIMES_UP",
+    "upgraded": true
+  },
+  "Tingsha": {
+    "table": "relics",
+    "entry_id": "TINGSHA",
+    "upgraded": false
+  },
+  "Tiny Mailbox": {
+    "table": "relics",
+    "entry_id": "TINY_MAILBOX",
+    "upgraded": false
+  },
+  "Toadpole": {
+    "table": "monsters",
+    "entry_id": "TOADPOLE",
+    "upgraded": false
+  },
+  "Toasty Mittens": {
+    "table": "relics",
+    "entry_id": "TOASTY_MITTENS",
+    "upgraded": false
+  },
+  "Toolbox": {
+    "table": "relics",
+    "entry_id": "TOOLBOX",
+    "upgraded": false
+  },
+  "Tools of the Trade": {
+    "table": "powers",
+    "entry_id": "TOOLS_OF_THE_TRADE_POWER",
+    "upgraded": false
+  },
+  "Tools of the Trade+": {
+    "table": "cards",
+    "entry_id": "TOOLS_OF_THE_TRADE",
+    "upgraded": true
+  },
+  "Torch Head Amalgam": {
+    "table": "monsters",
+    "entry_id": "TORCH_HEAD_AMALGAM",
+    "upgraded": false
+  },
+  "Toric Toughness": {
+    "table": "powers",
+    "entry_id": "TORIC_TOUGHNESS_POWER",
+    "upgraded": false
+  },
+  "Toric Toughness+": {
+    "table": "cards",
+    "entry_id": "TORIC_TOUGHNESS",
+    "upgraded": true
+  },
+  "Torn": {
+    "table": "powers",
+    "entry_id": "TORN",
+    "upgraded": false
+  },
+  "Touch of Insanity": {
+    "table": "potions",
+    "entry_id": "TOUCH_OF_INSANITY",
+    "upgraded": false
+  },
+  "Touch of Orobas": {
+    "table": "relics",
+    "entry_id": "TOUCH_OF_OROBAS",
+    "upgraded": false
+  },
+  "Tough Bandages": {
+    "table": "relics",
+    "entry_id": "TOUGH_BANDAGES",
+    "upgraded": false
+  },
+  "Tough Egg": {
+    "table": "monsters",
+    "entry_id": "TOUGH_EGG",
+    "upgraded": false
+  },
+  "Toxic": {
+    "table": "cards",
+    "entry_id": "TOXIC",
+    "upgraded": false
+  },
+  "Toxic Egg": {
+    "table": "relics",
+    "entry_id": "TOXIC_EGG",
+    "upgraded": false
+  },
+  "Toxic+": {
+    "table": "cards",
+    "entry_id": "TOXIC",
+    "upgraded": true
+  },
+  "Toy Box": {
+    "table": "relics",
+    "entry_id": "TOY_BOX",
+    "upgraded": false
+  },
+  "Tracker Raider": {
+    "table": "monsters",
+    "entry_id": "TRACKER_RUBY_RAIDER",
+    "upgraded": false
+  },
+  "Tracking": {
+    "table": "powers",
+    "entry_id": "TRACKING_POWER",
+    "upgraded": false
+  },
+  "Tracking+": {
+    "table": "cards",
+    "entry_id": "TRACKING",
+    "upgraded": true
+  },
+  "Training Strike": {
+    "table": "cards",
+    "entry_id": "TRAINING_STRIKE",
+    "upgraded": false
+  },
+  "Training Strike+": {
+    "table": "cards",
+    "entry_id": "TRAINING_STRIKE",
+    "upgraded": true
+  },
+  "Transfigure": {
+    "table": "cards",
+    "entry_id": "TRANSFIGURE",
+    "upgraded": false
+  },
+  "Transfigure+": {
+    "table": "cards",
+    "entry_id": "TRANSFIGURE",
+    "upgraded": true
+  },
+  "Trash to Treasure": {
+    "table": "powers",
+    "entry_id": "TRASH_TO_TREASURE_POWER",
+    "upgraded": false
+  },
+  "Trash to Treasure+": {
+    "table": "cards",
+    "entry_id": "TRASH_TO_TREASURE",
+    "upgraded": true
+  },
+  "Tremble": {
+    "table": "cards",
+    "entry_id": "TREMBLE",
+    "upgraded": false
+  },
+  "Tremble+": {
+    "table": "cards",
+    "entry_id": "TREMBLE",
+    "upgraded": true
+  },
+  "Tri-Boomerang": {
+    "table": "relics",
+    "entry_id": "TRI_BOOMERANG",
+    "upgraded": false
+  },
+  "True Grit": {
+    "table": "cards",
+    "entry_id": "TRUE_GRIT",
+    "upgraded": false
+  },
+  "True Grit+": {
+    "table": "cards",
+    "entry_id": "TRUE_GRIT",
+    "upgraded": true
+  },
+  "Tungsten Rod": {
+    "table": "relics",
+    "entry_id": "TUNGSTEN_ROD",
+    "upgraded": false
+  },
+  "Tuning Fork": {
+    "table": "relics",
+    "entry_id": "TUNING_FORK",
+    "upgraded": false
+  },
+  "Tunneler": {
+    "table": "monsters",
+    "entry_id": "TUNNELER",
+    "upgraded": false
+  },
+  "Turret Operator": {
+    "table": "monsters",
+    "entry_id": "TURRET_OPERATOR",
+    "upgraded": false
+  },
+  "Twig Slime (M)": {
+    "table": "monsters",
+    "entry_id": "TWIG_SLIME_M",
+    "upgraded": false
+  },
+  "Twig Slime (S)": {
+    "table": "monsters",
+    "entry_id": "TWIG_SLIME_S",
+    "upgraded": false
+  },
+  "Twin Strike": {
+    "table": "cards",
+    "entry_id": "TWIN_STRIKE",
+    "upgraded": false
+  },
+  "Twin Strike+": {
+    "table": "cards",
+    "entry_id": "TWIN_STRIKE",
+    "upgraded": true
+  },
+  "Twisted Funnel": {
+    "table": "relics",
+    "entry_id": "TWISTED_FUNNEL",
+    "upgraded": false
+  },
+  "Two-Tailed Rat": {
+    "table": "monsters",
+    "entry_id": "TWO_TAILED_RAT",
+    "upgraded": false
+  },
+  "Tyranny": {
+    "table": "powers",
+    "entry_id": "TYRANNY_POWER",
+    "upgraded": false
+  },
+  "Tyranny+": {
+    "table": "cards",
+    "entry_id": "TYRANNY",
+    "upgraded": true
+  },
+  "Ultimate Defend": {
+    "table": "cards",
+    "entry_id": "ULTIMATE_DEFEND",
+    "upgraded": false
+  },
+  "Ultimate Defend+": {
+    "table": "cards",
+    "entry_id": "ULTIMATE_DEFEND",
+    "upgraded": true
+  },
+  "Ultimate Strike": {
+    "table": "cards",
+    "entry_id": "ULTIMATE_STRIKE",
+    "upgraded": false
+  },
+  "Ultimate Strike+": {
+    "table": "cards",
+    "entry_id": "ULTIMATE_STRIKE",
+    "upgraded": true
+  },
+  "Unceasing Top": {
+    "table": "relics",
+    "entry_id": "UNCEASING_TOP",
+    "upgraded": false
+  },
+  "Undeath": {
+    "table": "cards",
+    "entry_id": "UNDEATH",
+    "upgraded": false
+  },
+  "Undeath+": {
+    "table": "cards",
+    "entry_id": "UNDEATH",
+    "upgraded": true
+  },
+  "Underworld": {
+    "table": "powers",
+    "entry_id": "UNDERWORLD_POWER",
+    "upgraded": false
+  },
+  "Underworld+": {
+    "table": "cards",
+    "entry_id": "UNDERWORLD",
+    "upgraded": true
+  },
+  "Undying Sigil": {
+    "table": "relics",
+    "entry_id": "UNDYING_SIGIL",
+    "upgraded": false
+  },
+  "Unleash": {
+    "table": "cards",
+    "entry_id": "UNLEASH",
+    "upgraded": false
+  },
+  "Unleash+": {
+    "table": "cards",
+    "entry_id": "UNLEASH",
+    "upgraded": true
+  },
+  "Unmovable": {
+    "table": "powers",
+    "entry_id": "UNMOVABLE_POWER",
+    "upgraded": false
+  },
+  "Unmovable+": {
+    "table": "cards",
+    "entry_id": "UNMOVABLE",
+    "upgraded": true
+  },
+  "Unrelenting": {
+    "table": "cards",
+    "entry_id": "UNRELENTING",
+    "upgraded": false
+  },
+  "Unrelenting+": {
+    "table": "cards",
+    "entry_id": "UNRELENTING",
+    "upgraded": true
+  },
+  "Unsettling Lamp": {
+    "table": "relics",
+    "entry_id": "UNSETTLING_LAMP",
+    "upgraded": false
+  },
+  "Unstable": {
+    "table": "powers",
+    "entry_id": "UNSTABLE",
+    "upgraded": false
+  },
+  "Unsteady": {
+    "table": "powers",
+    "entry_id": "UNSTEADY",
+    "upgraded": false
+  },
+  "Untouchable": {
+    "table": "cards",
+    "entry_id": "UNTOUCHABLE",
+    "upgraded": false
+  },
+  "Untouchable+": {
+    "table": "cards",
+    "entry_id": "UNTOUCHABLE",
+    "upgraded": true
+  },
+  "Up My Sleeve": {
+    "table": "cards",
+    "entry_id": "UP_MY_SLEEVE",
+    "upgraded": false
+  },
+  "Up My Sleeve+": {
+    "table": "cards",
+    "entry_id": "UP_MY_SLEEVE",
+    "upgraded": true
+  },
+  "Uppercut": {
+    "table": "cards",
+    "entry_id": "UPPERCUT",
+    "upgraded": false
+  },
+  "Uppercut+": {
+    "table": "cards",
+    "entry_id": "UPPERCUT",
+    "upgraded": true
+  },
+  "Uproar": {
+    "table": "cards",
+    "entry_id": "UPROAR",
+    "upgraded": false
+  },
+  "Uproar+": {
+    "table": "cards",
+    "entry_id": "UPROAR",
+    "upgraded": true
+  },
+  "Vajra": {
+    "table": "relics",
+    "entry_id": "VAJRA",
+    "upgraded": false
+  },
+  "Vambrace": {
+    "table": "relics",
+    "entry_id": "VAMBRACE",
+    "upgraded": false
+  },
+  "Vantom": {
+    "table": "monsters",
+    "entry_id": "VANTOM",
+    "upgraded": false
+  },
+  "Veilpiercer": {
+    "table": "powers",
+    "entry_id": "VEILPIERCER_POWER",
+    "upgraded": false
+  },
+  "Veilpiercer+": {
+    "table": "cards",
+    "entry_id": "VEILPIERCER",
+    "upgraded": true
+  },
+  "Velvet Choker": {
+    "table": "relics",
+    "entry_id": "VELVET_CHOKER",
+    "upgraded": false
+  },
+  "Venerable Tea Set": {
+    "table": "relics",
+    "entry_id": "VENERABLE_TEA_SET",
+    "upgraded": false
+  },
+  "Venerable Tea Set???": {
+    "table": "relics",
+    "entry_id": "FAKE_VENERABLE_TEA_SET",
+    "upgraded": false
+  },
+  "Venerate": {
+    "table": "cards",
+    "entry_id": "VENERATE",
+    "upgraded": false
+  },
+  "Venerate+": {
+    "table": "cards",
+    "entry_id": "VENERATE",
+    "upgraded": true
+  },
+  "Very Hot Cocoa": {
+    "table": "relics",
+    "entry_id": "VERY_HOT_COCOA",
+    "upgraded": false
+  },
+  "Veteran": {
+    "table": "cards",
+    "entry_id": "VETERAN",
+    "upgraded": false
+  },
+  "Veteran+": {
+    "table": "cards",
+    "entry_id": "VETERAN",
+    "upgraded": true
+  },
+  "Vexing Puzzlebox": {
+    "table": "relics",
+    "entry_id": "VEXING_PUZZLEBOX",
+    "upgraded": false
+  },
+  "Vicious": {
+    "table": "powers",
+    "entry_id": "VICIOUS_POWER",
+    "upgraded": false
+  },
+  "Vicious+": {
+    "table": "cards",
+    "entry_id": "VICIOUS",
+    "upgraded": true
+  },
+  "Vigor": {
+    "table": "powers",
+    "entry_id": "VIGOR_POWER",
+    "upgraded": false
+  },
+  "Vine Bracelet": {
+    "table": "relics",
+    "entry_id": "VINE_BRACELET",
+    "upgraded": false
+  },
+  "Vine Shambler": {
+    "table": "monsters",
+    "entry_id": "VINE_SHAMBLER",
+    "upgraded": false
+  },
+  "Visions of Grandeur": {
+    "table": "cards",
+    "entry_id": "VISIONS_OF_GRANDEUR",
+    "upgraded": false
+  },
+  "Visions of Grandeur+": {
+    "table": "cards",
+    "entry_id": "VISIONS_OF_GRANDEUR",
+    "upgraded": true
+  },
+  "Visual Only": {
+    "table": "powers",
+    "entry_id": "VISUAL_ONLY",
+    "upgraded": false
+  },
+  "Vital Spark": {
+    "table": "powers",
+    "entry_id": "VITAL_SPARK_POWER",
+    "upgraded": false
+  },
+  "Vitruvian Minion": {
+    "table": "relics",
+    "entry_id": "VITRUVIAN_MINION",
+    "upgraded": false
+  },
+  "Void": {
+    "table": "cards",
+    "entry_id": "VOID",
+    "upgraded": false
+  },
+  "Void Form": {
+    "table": "powers",
+    "entry_id": "VOID_FORM_POWER",
+    "upgraded": false
+  },
+  "Void Form+": {
+    "table": "cards",
+    "entry_id": "VOID_FORM",
+    "upgraded": true
+  },
+  "Void+": {
+    "table": "cards",
+    "entry_id": "VOID",
+    "upgraded": true
+  },
+  "Volley": {
+    "table": "cards",
+    "entry_id": "VOLLEY",
+    "upgraded": false
+  },
+  "Volley+": {
+    "table": "cards",
+    "entry_id": "VOLLEY",
+    "upgraded": true
+  },
+  "Voltaic": {
+    "table": "cards",
+    "entry_id": "VOLTAIC",
+    "upgraded": false
+  },
+  "Voltaic+": {
+    "table": "cards",
+    "entry_id": "VOLTAIC",
+    "upgraded": true
+  },
+  "Vulnerable": {
+    "table": "powers",
+    "entry_id": "VULNERABLE_POWER",
+    "upgraded": false
+  },
+  "Vulnerable Potion": {
+    "table": "potions",
+    "entry_id": "VULNERABLE_POTION",
+    "upgraded": false
+  },
+  "War Hammer": {
+    "table": "relics",
+    "entry_id": "WAR_HAMMER",
+    "upgraded": false
+  },
+  "War Paint": {
+    "table": "relics",
+    "entry_id": "WAR_PAINT",
+    "upgraded": false
+  },
+  "Warp Space": {
+    "table": "cards",
+    "entry_id": "WARP_SPACE",
+    "upgraded": false
+  },
+  "Warp Space+": {
+    "table": "cards",
+    "entry_id": "WARP_SPACE",
+    "upgraded": true
+  },
+  "Waste Away": {
+    "table": "powers",
+    "entry_id": "WASTE_AWAY_POWER",
+    "upgraded": false
+  },
+  "Waste Away+": {
+    "table": "cards",
+    "entry_id": "WASTE_AWAY",
+    "upgraded": true
+  },
+  "Waterfall Giant": {
+    "table": "monsters",
+    "entry_id": "WATERFALL_GIANT",
+    "upgraded": false
+  },
+  "Weak": {
+    "table": "powers",
+    "entry_id": "WEAK_POWER",
+    "upgraded": false
+  },
+  "Weak Potion": {
+    "table": "potions",
+    "entry_id": "WEAK_POTION",
+    "upgraded": false
+  },
+  "Well-Laid Plans": {
+    "table": "powers",
+    "entry_id": "WELL_LAID_PLANS_POWER",
+    "upgraded": false
+  },
+  "Well-Laid Plans+": {
+    "table": "cards",
+    "entry_id": "WELL_LAID_PLANS",
+    "upgraded": true
+  },
+  "Whetstone": {
+    "table": "relics",
+    "entry_id": "WHETSTONE",
+    "upgraded": false
+  },
+  "Whirlwind": {
+    "table": "cards",
+    "entry_id": "WHIRLWIND",
+    "upgraded": false
+  },
+  "Whirlwind+": {
+    "table": "cards",
+    "entry_id": "WHIRLWIND",
+    "upgraded": true
+  },
+  "Whispering Earring": {
+    "table": "relics",
+    "entry_id": "WHISPERING_EARRING",
+    "upgraded": false
+  },
+  "Whistle": {
+    "table": "cards",
+    "entry_id": "WHISTLE",
+    "upgraded": false
+  },
+  "Whistle+": {
+    "table": "cards",
+    "entry_id": "WHISTLE",
+    "upgraded": true
+  },
+  "White Beast Statue": {
+    "table": "relics",
+    "entry_id": "WHITE_BEAST_STATUE",
+    "upgraded": false
+  },
+  "White Noise": {
+    "table": "cards",
+    "entry_id": "WHITE_NOISE",
+    "upgraded": false
+  },
+  "White Noise+": {
+    "table": "cards",
+    "entry_id": "WHITE_NOISE",
+    "upgraded": true
+  },
+  "White Star": {
+    "table": "relics",
+    "entry_id": "WHITE_STAR",
+    "upgraded": false
+  },
+  "Wing Charm": {
+    "table": "relics",
+    "entry_id": "WING_CHARM",
+    "upgraded": false
+  },
+  "Winged Boots": {
+    "table": "relics",
+    "entry_id": "WINGED_BOOTS",
+    "upgraded": false
+  },
+  "Winged Jump": {
+    "table": "powers",
+    "entry_id": "WINGED_JUMP_POWER",
+    "upgraded": false
+  },
+  "Wish": {
+    "table": "cards",
+    "entry_id": "WISH",
+    "upgraded": false
+  },
+  "Wish+": {
+    "table": "cards",
+    "entry_id": "WISH",
+    "upgraded": true
+  },
+  "Wisp": {
+    "table": "cards",
+    "entry_id": "WISP",
+    "upgraded": false
+  },
+  "Wisp+": {
+    "table": "cards",
+    "entry_id": "WISP",
+    "upgraded": true
+  },
+  "Wither": {
+    "table": "cards",
+    "entry_id": "WITHER",
+    "upgraded": false
+  },
+  "Wither+": {
+    "table": "cards",
+    "entry_id": "WITHER",
+    "upgraded": true
+  },
+  "Withering Presence": {
+    "table": "powers",
+    "entry_id": "WITHERING_PRESENCE_POWER",
+    "upgraded": false
+  },
+  "Wongo Customer Appreciation Badge": {
+    "table": "relics",
+    "entry_id": "WONGO_CUSTOMER_APPRECIATION_BADGE",
+    "upgraded": false
+  },
+  "Wongo's Mystery Ticket": {
+    "table": "relics",
+    "entry_id": "WONGOS_MYSTERY_TICKET",
+    "upgraded": false
+  },
+  "Wound": {
+    "table": "cards",
+    "entry_id": "WOUND",
+    "upgraded": false
+  },
+  "Wound+": {
+    "table": "cards",
+    "entry_id": "WOUND",
+    "upgraded": true
+  },
+  "Wounds": {
+    "table": "cards",
+    "entry_id": "WOUND",
+    "upgraded": false
+  },
+  "Wraith Form": {
+    "table": "powers",
+    "entry_id": "WRAITH_FORM_POWER",
+    "upgraded": false
+  },
+  "Wraith Form+": {
+    "table": "cards",
+    "entry_id": "WRAITH_FORM",
+    "upgraded": true
+  },
+  "Wriggler": {
+    "table": "monsters",
+    "entry_id": "WRIGGLER",
+    "upgraded": false
+  },
+  "Writhe": {
+    "table": "cards",
+    "entry_id": "WRITHE",
+    "upgraded": false
+  },
+  "Writhe+": {
+    "table": "cards",
+    "entry_id": "WRITHE",
+    "upgraded": true
+  },
+  "Wrought in War": {
+    "table": "cards",
+    "entry_id": "WROUGHT_IN_WAR",
+    "upgraded": false
+  },
+  "Wrought in War+": {
+    "table": "cards",
+    "entry_id": "WROUGHT_IN_WAR",
+    "upgraded": true
+  },
+  "Yummy Cookie": {
+    "table": "relics",
+    "entry_id": "YUMMY_COOKIE",
+    "upgraded": false
+  },
+  "Zap": {
+    "table": "cards",
+    "entry_id": "ZAP",
+    "upgraded": false
+  },
+  "Zap+": {
+    "table": "cards",
+    "entry_id": "ZAP",
+    "upgraded": true
+  },
+  "Zapbot": {
+    "table": "monsters",
+    "entry_id": "ZAPBOT",
+    "upgraded": false
+  }
+}

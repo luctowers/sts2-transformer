@@ -1,0 +1,4144 @@
+{
+  "afflictions.BOUND": [
+    "afflictions.BOUND"
+  ],
+  "afflictions.ENTANGLED": [
+    "afflictions.ENTANGLED"
+  ],
+  "afflictions.GALVANIZED": [
+    "afflictions.GALVANIZED"
+  ],
+  "afflictions.HEXED": [
+    "afflictions.HEXED"
+  ],
+  "afflictions.RINGING": [
+    "afflictions.RINGING"
+  ],
+  "afflictions.SMOG": [
+    "afflictions.SMOG"
+  ],
+  "afflictions.TAINTED": [
+    "powers.TAINTED_POWER",
+    "afflictions.TAINTED"
+  ],
+  "cards.ABRASIVE": [
+    "powers.DEXTERITY_POWER",
+    "powers.THORNS_POWER",
+    "cards.ABRASIVE"
+  ],
+  "cards.ACCELERANT": [
+    "powers.POISON_POWER",
+    "cards.ACCELERANT"
+  ],
+  "cards.ACCURACY": [
+    "cards.SHIV",
+    "cards.ACCURACY"
+  ],
+  "cards.ACROBATICS": [
+    "cards.ACROBATICS"
+  ],
+  "cards.ADAPTIVE_STRIKE": [
+    "cards.ADAPTIVE_STRIKE"
+  ],
+  "cards.ADRENALINE": [
+    "cards.ADRENALINE"
+  ],
+  "cards.AFTERIMAGE": [
+    "cards.AFTERIMAGE"
+  ],
+  "cards.AFTERLIFE": [
+    "cards.AFTERLIFE"
+  ],
+  "cards.AGGRESSION": [
+    "cards.AGGRESSION"
+  ],
+  "cards.ALCHEMIZE": [
+    "cards.ALCHEMIZE"
+  ],
+  "cards.ALIGNMENT": [
+    "cards.ALIGNMENT"
+  ],
+  "cards.ALL_FOR_ONE": [
+    "cards.ALL_FOR_ONE"
+  ],
+  "cards.ANGER": [
+    "cards.ANGER"
+  ],
+  "cards.ANOINTED": [
+    "cards.ANOINTED"
+  ],
+  "cards.ANTICIPATE": [
+    "powers.DEXTERITY_POWER",
+    "cards.ANTICIPATE"
+  ],
+  "cards.APOTHEOSIS": [
+    "cards.APOTHEOSIS"
+  ],
+  "cards.APPARITION": [
+    "powers.INTANGIBLE_POWER",
+    "cards.APPARITION"
+  ],
+  "cards.ARMAMENTS": [
+    "cards.ARMAMENTS"
+  ],
+  "cards.ARSENAL": [
+    "powers.STRENGTH_POWER",
+    "cards.ARSENAL"
+  ],
+  "cards.ASCENDERS_BANE": [
+    "cards.ASCENDERS_BANE"
+  ],
+  "cards.ASHEN_STRIKE": [
+    "cards.ASHEN_STRIKE"
+  ],
+  "cards.ASSASSINATE": [
+    "powers.VULNERABLE_POWER",
+    "cards.ASSASSINATE"
+  ],
+  "cards.ASTRAL_PULSE": [
+    "cards.ASTRAL_PULSE"
+  ],
+  "cards.AUTOMATION": [
+    "cards.AUTOMATION"
+  ],
+  "cards.BACKFLIP": [
+    "cards.BACKFLIP"
+  ],
+  "cards.BACKSTAB": [
+    "cards.BACKSTAB"
+  ],
+  "cards.BAD_LUCK": [
+    "cards.BAD_LUCK"
+  ],
+  "cards.BALL_LIGHTNING": [
+    "orbs.LIGHTNING_ORB",
+    "cards.BALL_LIGHTNING"
+  ],
+  "cards.BANSHEES_CRY": [
+    "cards.BANSHEES_CRY"
+  ],
+  "cards.BARRAGE": [
+    "cards.BARRAGE"
+  ],
+  "cards.BARRICADE": [
+    "cards.BARRICADE"
+  ],
+  "cards.BASH": [
+    "powers.VULNERABLE_POWER",
+    "cards.BASH"
+  ],
+  "cards.BATTLE_TRANCE": [
+    "cards.BATTLE_TRANCE"
+  ],
+  "cards.BEACON_OF_HOPE": [
+    "cards.BEACON_OF_HOPE"
+  ],
+  "cards.BEAM_CELL": [
+    "powers.VULNERABLE_POWER",
+    "cards.BEAM_CELL"
+  ],
+  "cards.BEAT_DOWN": [
+    "cards.BEAT_DOWN"
+  ],
+  "cards.BEAT_INTO_SHAPE": [
+    "cards.SOVEREIGN_BLADE",
+    "cards.BEAT_INTO_SHAPE"
+  ],
+  "cards.BECKON": [
+    "cards.BECKON"
+  ],
+  "cards.BEGONE": [
+    "cards.MINION_STRIKE",
+    "cards.BEGONE"
+  ],
+  "cards.BELIEVE_IN_YOU": [
+    "cards.BELIEVE_IN_YOU"
+  ],
+  "cards.BIASED_COGNITION": [
+    "powers.FOCUS_POWER",
+    "cards.BIASED_COGNITION"
+  ],
+  "cards.BIG_BANG": [
+    "cards.SOVEREIGN_BLADE",
+    "cards.BIG_BANG"
+  ],
+  "cards.BLACK_HOLE": [
+    "cards.BLACK_HOLE"
+  ],
+  "cards.BLADE_DANCE": [
+    "cards.SHIV",
+    "cards.BLADE_DANCE"
+  ],
+  "cards.BLADE_OF_INK": [
+    "cards.SHIV",
+    "enchantments.INKY",
+    "cards.BLADE_OF_INK"
+  ],
+  "cards.BLADE_SYMPHONY": [
+    "cards.SHIV",
+    "cards.BLADE_SYMPHONY"
+  ],
+  "cards.BLAZE": [
+    "powers.STRENGTH_POWER",
+    "cards.BLAZE"
+  ],
+  "cards.BLIGHT_STRIKE": [
+    "powers.DOOM_POWER",
+    "cards.BLIGHT_STRIKE"
+  ],
+  "cards.BLOODLETTING": [
+    "cards.BLOODLETTING"
+  ],
+  "cards.BLOOD_WALL": [
+    "cards.BLOOD_WALL"
+  ],
+  "cards.BLUDGEON": [
+    "cards.BLUDGEON"
+  ],
+  "cards.BLUR": [
+    "cards.BLUR"
+  ],
+  "cards.BODYGUARD": [
+    "cards.BODYGUARD"
+  ],
+  "cards.BODY_SLAM": [
+    "cards.BODY_SLAM"
+  ],
+  "cards.BOLAS": [
+    "cards.BOLAS"
+  ],
+  "cards.BOMBARDMENT": [
+    "cards.BOMBARDMENT"
+  ],
+  "cards.BONE_SHARDS": [
+    "cards.BONE_SHARDS"
+  ],
+  "cards.BOOST_AWAY": [
+    "cards.DAZED",
+    "cards.BOOST_AWAY"
+  ],
+  "cards.BOOT_SEQUENCE": [
+    "cards.BOOT_SEQUENCE"
+  ],
+  "cards.BORROWED_TIME": [
+    "cards.BORROWED_TIME"
+  ],
+  "cards.BOUNCING_FLASK": [
+    "powers.POISON_POWER",
+    "cards.BOUNCING_FLASK"
+  ],
+  "cards.BRAND": [
+    "powers.STRENGTH_POWER",
+    "cards.BRAND"
+  ],
+  "cards.BREAK": [
+    "powers.VULNERABLE_POWER",
+    "cards.BREAK"
+  ],
+  "cards.BREAKTHROUGH": [
+    "cards.BREAKTHROUGH"
+  ],
+  "cards.BRIGHTEST_FLAME": [
+    "cards.BRIGHTEST_FLAME"
+  ],
+  "cards.BUBBLE_BUBBLE": [
+    "powers.POISON_POWER",
+    "cards.BUBBLE_BUBBLE"
+  ],
+  "cards.BUFFER": [
+    "cards.BUFFER"
+  ],
+  "cards.BULK_UP": [
+    "powers.STRENGTH_POWER",
+    "powers.DEXTERITY_POWER",
+    "cards.BULK_UP"
+  ],
+  "cards.BULLET_TIME": [
+    "cards.BULLET_TIME"
+  ],
+  "cards.BULLY": [
+    "powers.VULNERABLE_POWER",
+    "cards.BULLY"
+  ],
+  "cards.BULWARK": [
+    "cards.SOVEREIGN_BLADE",
+    "cards.BULWARK"
+  ],
+  "cards.BUNDLE_OF_JOY": [
+    "cards.BUNDLE_OF_JOY"
+  ],
+  "cards.BURN": [
+    "cards.BURN"
+  ],
+  "cards.BURNING_PACT": [
+    "cards.BURNING_PACT"
+  ],
+  "cards.BURST": [
+    "cards.BURST"
+  ],
+  "cards.BURY": [
+    "cards.BURY"
+  ],
+  "cards.BYRDONIS_EGG": [
+    "cards.BYRDONIS_EGG"
+  ],
+  "cards.BYRD_SWOOP": [
+    "cards.BYRD_SWOOP"
+  ],
+  "cards.CACOPHONY": [
+    "cards.CACOPHONY"
+  ],
+  "cards.CALAMITY": [
+    "cards.CALAMITY"
+  ],
+  "cards.CALCIFY": [
+    "cards.CALCIFY"
+  ],
+  "cards.CALCULATED_GAMBLE": [
+    "cards.CALCULATED_GAMBLE"
+  ],
+  "cards.CALL_OF_THE_VOID": [
+    "cards.CALL_OF_THE_VOID"
+  ],
+  "cards.CALTROPS": [
+    "powers.THORNS_POWER",
+    "cards.CALTROPS"
+  ],
+  "cards.CAPACITOR": [
+    "cards.CAPACITOR"
+  ],
+  "cards.CAPTURE_SPIRIT": [
+    "cards.SOUL",
+    "cards.CAPTURE_SPIRIT"
+  ],
+  "cards.CASCADE": [
+    "cards.CASCADE"
+  ],
+  "cards.CATASTROPHE": [
+    "cards.CATASTROPHE"
+  ],
+  "cards.CELESTIAL_MIGHT": [
+    "cards.CELESTIAL_MIGHT"
+  ],
+  "cards.CHAOS": [
+    "cards.CHAOS"
+  ],
+  "cards.CHARGE": [
+    "cards.MINION_DIVE_BOMB",
+    "cards.CHARGE"
+  ],
+  "cards.CHARGE_BATTERY": [
+    "cards.CHARGE_BATTERY"
+  ],
+  "cards.CHILD_OF_THE_STARS": [
+    "cards.CHILD_OF_THE_STARS"
+  ],
+  "cards.CHILL": [
+    "orbs.FROST_ORB",
+    "cards.CHILL"
+  ],
+  "cards.CINDER": [
+    "cards.CINDER"
+  ],
+  "cards.CLASH": [
+    "cards.CLASH"
+  ],
+  "cards.CLAW": [
+    "cards.CLAW"
+  ],
+  "cards.CLEANSE": [
+    "cards.CLEANSE"
+  ],
+  "cards.CLOAK_AND_DAGGER": [
+    "cards.SHIV",
+    "cards.CLOAK_AND_DAGGER"
+  ],
+  "cards.CLOAK_OF_STARS": [
+    "cards.CLOAK_OF_STARS"
+  ],
+  "cards.CLUMSY": [
+    "cards.CLUMSY"
+  ],
+  "cards.COLD_SNAP": [
+    "orbs.FROST_ORB",
+    "cards.COLD_SNAP"
+  ],
+  "cards.COLLISION_COURSE": [
+    "cards.DEBRIS",
+    "cards.COLLISION_COURSE"
+  ],
+  "cards.COLOSSUS": [
+    "powers.VULNERABLE_POWER",
+    "cards.COLOSSUS"
+  ],
+  "cards.COMET": [
+    "powers.WEAK_POWER",
+    "powers.VULNERABLE_POWER",
+    "cards.COMET"
+  ],
+  "cards.COMPACT": [
+    "cards.FUEL",
+    "cards.COMPACT"
+  ],
+  "cards.COMPILE_DRIVER": [
+    "cards.COMPILE_DRIVER"
+  ],
+  "cards.CONCOCT": [
+    "powers.POISON_POWER",
+    "cards.CONCOCT"
+  ],
+  "cards.CONFLAGRATION": [
+    "cards.CONFLAGRATION"
+  ],
+  "cards.CONQUEROR": [
+    "cards.SOVEREIGN_BLADE",
+    "cards.CONQUEROR"
+  ],
+  "cards.CONSTELLATION": [
+    "cards.CONSTELLATION"
+  ],
+  "cards.CONSUMING_SHADOW": [
+    "orbs.DARK_ORB",
+    "cards.CONSUMING_SHADOW"
+  ],
+  "cards.CONVERGENCE": [
+    "cards.CONVERGENCE"
+  ],
+  "cards.COOLANT": [
+    "cards.COOLANT"
+  ],
+  "cards.COOLHEADED": [
+    "orbs.FROST_ORB",
+    "cards.COOLHEADED"
+  ],
+  "cards.COORDINATE": [
+    "powers.STRENGTH_POWER",
+    "cards.COORDINATE"
+  ],
+  "cards.CORROSIVE_WAVE": [
+    "powers.POISON_POWER",
+    "cards.CORROSIVE_WAVE"
+  ],
+  "cards.CORRUPTION": [
+    "cards.CORRUPTION"
+  ],
+  "cards.COSMIC_INDIFFERENCE": [
+    "cards.COSMIC_INDIFFERENCE"
+  ],
+  "cards.COUNTDOWN": [
+    "powers.DOOM_POWER",
+    "cards.COUNTDOWN"
+  ],
+  "cards.CRASH_LANDING": [
+    "cards.DEBRIS",
+    "cards.CRASH_LANDING"
+  ],
+  "cards.CREATIVE_AI": [
+    "cards.CREATIVE_AI"
+  ],
+  "cards.CRESCENT_SPEAR": [
+    "cards.CRESCENT_SPEAR"
+  ],
+  "cards.CRIMSON_MANTLE": [
+    "cards.CRIMSON_MANTLE"
+  ],
+  "cards.CRUELTY": [
+    "powers.VULNERABLE_POWER",
+    "cards.CRUELTY"
+  ],
+  "cards.CRUSH_UNDER": [
+    "powers.STRENGTH_POWER",
+    "cards.CRUSH_UNDER"
+  ],
+  "cards.CURSE_OF_THE_BELL": [
+    "cards.CURSE_OF_THE_BELL"
+  ],
+  "cards.DAGGER_SPRAY": [
+    "cards.DAGGER_SPRAY"
+  ],
+  "cards.DAGGER_THROW": [
+    "cards.DAGGER_THROW"
+  ],
+  "cards.DANSE_MACABRE": [
+    "cards.DANSE_MACABRE"
+  ],
+  "cards.DARKNESS": [
+    "orbs.DARK_ORB",
+    "cards.DARKNESS"
+  ],
+  "cards.DARK_EMBRACE": [
+    "cards.DARK_EMBRACE"
+  ],
+  "cards.DARK_SHACKLES": [
+    "powers.STRENGTH_POWER",
+    "cards.DARK_SHACKLES"
+  ],
+  "cards.DASH": [
+    "cards.DASH"
+  ],
+  "cards.DAZED": [
+    "cards.DAZED"
+  ],
+  "cards.DEADLY_POISON": [
+    "powers.POISON_POWER",
+    "cards.DEADLY_POISON"
+  ],
+  "cards.DEATHBRINGER": [
+    "powers.DOOM_POWER",
+    "powers.WEAK_POWER",
+    "cards.DEATHBRINGER"
+  ],
+  "cards.DEATHS_DOOR": [
+    "powers.DOOM_POWER",
+    "cards.DEATHS_DOOR"
+  ],
+  "cards.DEATH_MARCH": [
+    "cards.DEATH_MARCH"
+  ],
+  "cards.DEBILITATE": [
+    "powers.VULNERABLE_POWER",
+    "powers.WEAK_POWER",
+    "cards.DEBILITATE"
+  ],
+  "cards.DEBRIS": [
+    "cards.DEBRIS"
+  ],
+  "cards.DEBT": [
+    "cards.DEBT"
+  ],
+  "cards.DECAY": [
+    "cards.DECAY"
+  ],
+  "cards.DECISIONS_DECISIONS": [
+    "cards.DECISIONS_DECISIONS"
+  ],
+  "cards.DEFEND_DEFECT": [
+    "cards.DEFEND_DEFECT"
+  ],
+  "cards.DEFEND_IRONCLAD": [
+    "cards.DEFEND_IRONCLAD"
+  ],
+  "cards.DEFEND_NECROBINDER": [
+    "cards.DEFEND_NECROBINDER"
+  ],
+  "cards.DEFEND_REGENT": [
+    "cards.DEFEND_REGENT"
+  ],
+  "cards.DEFEND_SILENT": [
+    "cards.DEFEND_SILENT"
+  ],
+  "cards.DEFILE": [
+    "cards.DEFILE"
+  ],
+  "cards.DEFLECT": [
+    "cards.DEFLECT"
+  ],
+  "cards.DEFRAGMENT": [
+    "powers.FOCUS_POWER",
+    "cards.DEFRAGMENT"
+  ],
+  "cards.DEFY": [
+    "powers.WEAK_POWER",
+    "cards.DEFY"
+  ],
+  "cards.DELAY": [
+    "cards.DELAY"
+  ],
+  "cards.DEMESNE": [
+    "cards.DEMESNE"
+  ],
+  "cards.DEMONIC_SHIELD": [
+    "cards.DEMONIC_SHIELD"
+  ],
+  "cards.DEMON_FORM": [
+    "powers.STRENGTH_POWER",
+    "cards.DEMON_FORM"
+  ],
+  "cards.DEPRECATED_CARD": [
+    "cards.DEPRECATED_CARD"
+  ],
+  "cards.DEVASTATE": [
+    "cards.DEVASTATE"
+  ],
+  "cards.DEVOUR_LIFE": [
+    "cards.SOUL",
+    "cards.DEVOUR_LIFE"
+  ],
+  "cards.DIRGE": [
+    "cards.SOUL",
+    "cards.DIRGE"
+  ],
+  "cards.DISCOVERY": [
+    "cards.DISCOVERY"
+  ],
+  "cards.DISINTEGRATION": [
+    "cards.DISINTEGRATION"
+  ],
+  "cards.DISMANTLE": [
+    "powers.VULNERABLE_POWER",
+    "cards.DISMANTLE"
+  ],
+  "cards.DISTRACTION": [
+    "cards.DISTRACTION"
+  ],
+  "cards.DODGE_AND_ROLL": [
+    "cards.DODGE_AND_ROLL"
+  ],
+  "cards.DOMINATE": [
+    "powers.STRENGTH_POWER",
+    "powers.VULNERABLE_POWER",
+    "cards.DOMINATE"
+  ],
+  "cards.DOUBLE_ENERGY": [
+    "cards.DOUBLE_ENERGY"
+  ],
+  "cards.DOUBT": [
+    "powers.WEAK_POWER",
+    "cards.DOUBT"
+  ],
+  "cards.DRAIN_POWER": [
+    "cards.DRAIN_POWER"
+  ],
+  "cards.DRAMATIC_ENTRANCE": [
+    "cards.DRAMATIC_ENTRANCE"
+  ],
+  "cards.DREDGE": [
+    "cards.DREDGE"
+  ],
+  "cards.DRUM_OF_BATTLE": [
+    "cards.DRUM_OF_BATTLE"
+  ],
+  "cards.DUALCAST": [
+    "cards.DUALCAST"
+  ],
+  "cards.DUAL_WIELD": [
+    "cards.DUAL_WIELD"
+  ],
+  "cards.DYING_STAR": [
+    "powers.STRENGTH_POWER",
+    "cards.DYING_STAR"
+  ],
+  "cards.ECHOING_SLASH": [
+    "cards.ECHOING_SLASH"
+  ],
+  "cards.ECHO_FORM": [
+    "cards.ECHO_FORM"
+  ],
+  "cards.EIDOLON": [
+    "powers.INTANGIBLE_POWER",
+    "cards.EIDOLON"
+  ],
+  "cards.END_OF_DAYS": [
+    "powers.DOOM_POWER",
+    "cards.END_OF_DAYS"
+  ],
+  "cards.ENERGY_SURGE": [
+    "cards.ENERGY_SURGE"
+  ],
+  "cards.ENFEEBLING_TOUCH": [
+    "powers.STRENGTH_POWER",
+    "cards.ENFEEBLING_TOUCH"
+  ],
+  "cards.ENLIGHTENMENT": [
+    "cards.ENLIGHTENMENT"
+  ],
+  "cards.ENTHRALLED": [
+    "cards.ENTHRALLED"
+  ],
+  "cards.ENTRENCH": [
+    "cards.ENTRENCH"
+  ],
+  "cards.ENTROPY": [
+    "cards.ENTROPY"
+  ],
+  "cards.ENVENOM": [
+    "powers.POISON_POWER",
+    "cards.ENVENOM"
+  ],
+  "cards.EQUILIBRIUM": [
+    "cards.EQUILIBRIUM"
+  ],
+  "cards.ERADICATE": [
+    "cards.ERADICATE"
+  ],
+  "cards.ESCAPE_PLAN": [
+    "cards.ESCAPE_PLAN"
+  ],
+  "cards.ETERNAL_ARMOR": [
+    "powers.PLATING_POWER",
+    "cards.ETERNAL_ARMOR"
+  ],
+  "cards.EVIL_EYE": [
+    "cards.EVIL_EYE"
+  ],
+  "cards.EXPECT_A_FIGHT": [
+    "cards.EXPECT_A_FIGHT"
+  ],
+  "cards.EXPERTISE": [
+    "cards.EXPERTISE"
+  ],
+  "cards.EXPOSE": [
+    "powers.VULNERABLE_POWER",
+    "powers.ARTIFACT_POWER",
+    "cards.EXPOSE"
+  ],
+  "cards.EXTERMINATE": [
+    "cards.EXTERMINATE"
+  ],
+  "cards.FADE": [
+    "powers.DEXTERITY_POWER",
+    "cards.FADE"
+  ],
+  "cards.FALLING_STAR": [
+    "powers.WEAK_POWER",
+    "powers.VULNERABLE_POWER",
+    "cards.FALLING_STAR"
+  ],
+  "cards.FAN_OF_KNIVES": [
+    "cards.SHIV",
+    "cards.FAN_OF_KNIVES"
+  ],
+  "cards.FASTEN": [
+    "cards.FASTEN"
+  ],
+  "cards.FEAR": [
+    "powers.VULNERABLE_POWER",
+    "cards.FEAR"
+  ],
+  "cards.FEED": [
+    "cards.FEED"
+  ],
+  "cards.FEEDING_FRENZY": [
+    "powers.STRENGTH_POWER",
+    "cards.FEEDING_FRENZY"
+  ],
+  "cards.FEEL_NO_PAIN": [
+    "cards.FEEL_NO_PAIN"
+  ],
+  "cards.FERAL": [
+    "cards.FERAL"
+  ],
+  "cards.FETCH": [
+    "cards.FETCH"
+  ],
+  "cards.FIEND_FIRE": [
+    "cards.FIEND_FIRE"
+  ],
+  "cards.FIGHT_ME": [
+    "powers.STRENGTH_POWER",
+    "cards.FIGHT_ME"
+  ],
+  "cards.FIGHT_THROUGH": [
+    "cards.WOUND",
+    "cards.FIGHT_THROUGH"
+  ],
+  "cards.FINESSE": [
+    "cards.FINESSE"
+  ],
+  "cards.FINISHER": [
+    "cards.FINISHER"
+  ],
+  "cards.FISTICUFFS": [
+    "cards.FISTICUFFS"
+  ],
+  "cards.FLAK_CANNON": [
+    "cards.FLAK_CANNON"
+  ],
+  "cards.FLAME_BARRIER": [
+    "cards.FLAME_BARRIER"
+  ],
+  "cards.FLANKING": [
+    "cards.FLANKING"
+  ],
+  "cards.FLASH_OF_STEEL": [
+    "cards.FLASH_OF_STEEL"
+  ],
+  "cards.FLATTEN": [
+    "cards.FLATTEN"
+  ],
+  "cards.FLECHETTES": [
+    "cards.FLECHETTES"
+  ],
+  "cards.FLICK_FLACK": [
+    "cards.FLICK_FLACK"
+  ],
+  "cards.FOCUSED_STRIKE": [
+    "powers.FOCUS_POWER",
+    "cards.FOCUSED_STRIKE"
+  ],
+  "cards.FOLLY": [
+    "cards.FOLLY"
+  ],
+  "cards.FOOTWORK": [
+    "powers.DEXTERITY_POWER",
+    "cards.FOOTWORK"
+  ],
+  "cards.FORBIDDEN_GRIMOIRE": [
+    "cards.FORBIDDEN_GRIMOIRE"
+  ],
+  "cards.FOREGONE_CONCLUSION": [
+    "cards.FOREGONE_CONCLUSION"
+  ],
+  "cards.FORGOTTEN_RITUAL": [
+    "cards.FORGOTTEN_RITUAL"
+  ],
+  "cards.FRANTIC_ESCAPE": [
+    "powers.SANDPIT_POWER",
+    "cards.FRANTIC_ESCAPE"
+  ],
+  "cards.FRIENDSHIP": [
+    "cards.FRIENDSHIP"
+  ],
+  "cards.FTL": [
+    "cards.FTL"
+  ],
+  "cards.FUEL": [
+    "cards.FUEL"
+  ],
+  "cards.FURNACE": [
+    "cards.SOVEREIGN_BLADE",
+    "cards.FURNACE"
+  ],
+  "cards.FUSION": [
+    "orbs.PLASMA_ORB",
+    "cards.FUSION"
+  ],
+  "cards.GAMMA_BLAST": [
+    "powers.WEAK_POWER",
+    "powers.VULNERABLE_POWER",
+    "cards.GAMMA_BLAST"
+  ],
+  "cards.GANG_UP": [
+    "cards.GANG_UP"
+  ],
+  "cards.GATHER_LIGHT": [
+    "cards.GATHER_LIGHT"
+  ],
+  "cards.GENESIS": [
+    "cards.GENESIS"
+  ],
+  "cards.GENETIC_ALGORITHM": [
+    "cards.GENETIC_ALGORITHM"
+  ],
+  "cards.GIANT_ROCK": [
+    "cards.GIANT_ROCK"
+  ],
+  "cards.GLACIER": [
+    "orbs.FROST_ORB",
+    "cards.GLACIER"
+  ],
+  "cards.GLASSWORK": [
+    "orbs.GLASS_ORB",
+    "cards.GLASSWORK"
+  ],
+  "cards.GLIMMER": [
+    "cards.GLIMMER"
+  ],
+  "cards.GLIMPSE_BEYOND": [
+    "cards.SOUL",
+    "cards.GLIMPSE_BEYOND"
+  ],
+  "cards.GLITTERSTREAM": [
+    "cards.GLITTERSTREAM"
+  ],
+  "cards.GLOW": [
+    "cards.GLOW"
+  ],
+  "cards.GOLD_AXE": [
+    "cards.GOLD_AXE"
+  ],
+  "cards.GO_FOR_THE_EYES": [
+    "powers.WEAK_POWER",
+    "cards.GO_FOR_THE_EYES"
+  ],
+  "cards.GRAND_FINALE": [
+    "cards.GRAND_FINALE"
+  ],
+  "cards.GRAVEBLAST": [
+    "cards.GRAVEBLAST"
+  ],
+  "cards.GRAVE_WARDEN": [
+    "cards.SOUL",
+    "cards.GRAVE_WARDEN"
+  ],
+  "cards.GREED": [
+    "cards.GREED"
+  ],
+  "cards.GUARDS": [
+    "cards.MINION_SACRIFICE",
+    "cards.GUARDS"
+  ],
+  "cards.GUIDING_STAR": [
+    "cards.GUIDING_STAR"
+  ],
+  "cards.GUILTY": [
+    "cards.GUILTY"
+  ],
+  "cards.GUNK_UP": [
+    "cards.SLIMED",
+    "cards.GUNK_UP"
+  ],
+  "cards.HAILSTORM": [
+    "orbs.FROST_ORB",
+    "cards.HAILSTORM"
+  ],
+  "cards.HAMMER_TIME": [
+    "cards.SOVEREIGN_BLADE",
+    "cards.HAMMER_TIME"
+  ],
+  "cards.HAND_OF_GREED": [
+    "cards.HAND_OF_GREED"
+  ],
+  "cards.HAND_TRICK": [
+    "cards.HAND_TRICK"
+  ],
+  "cards.HANG": [
+    "cards.HANG"
+  ],
+  "cards.HAUNT": [
+    "cards.SOUL",
+    "cards.HAUNT"
+  ],
+  "cards.HAVOC": [
+    "cards.HAVOC"
+  ],
+  "cards.HAZE": [
+    "powers.POISON_POWER",
+    "cards.HAZE"
+  ],
+  "cards.HEADBUTT": [
+    "cards.HEADBUTT"
+  ],
+  "cards.HEAVENLY_DRILL": [
+    "cards.HEAVENLY_DRILL"
+  ],
+  "cards.HEGEMONY": [
+    "cards.HEGEMONY"
+  ],
+  "cards.HEIRLOOM_HAMMER": [
+    "cards.HEIRLOOM_HAMMER"
+  ],
+  "cards.HELIX_DRILL": [
+    "cards.HELIX_DRILL"
+  ],
+  "cards.HELLO_WORLD": [
+    "cards.HELLO_WORLD"
+  ],
+  "cards.HELLRAISER": [
+    "cards.HELLRAISER"
+  ],
+  "cards.HEMOKINESIS": [
+    "cards.HEMOKINESIS"
+  ],
+  "cards.HIBERNATE": [
+    "orbs.FROST_ORB",
+    "cards.HIBERNATE"
+  ],
+  "cards.HIDDEN_CACHE": [
+    "cards.HIDDEN_CACHE"
+  ],
+  "cards.HIDDEN_DAGGERS": [
+    "cards.SHIV",
+    "cards.HIDDEN_DAGGERS"
+  ],
+  "cards.HIDDEN_GEM": [
+    "cards.HIDDEN_GEM"
+  ],
+  "cards.HIGH_FIVE": [
+    "powers.VULNERABLE_POWER",
+    "cards.HIGH_FIVE"
+  ],
+  "cards.HOLOGRAM": [
+    "cards.HOLOGRAM"
+  ],
+  "cards.HOTFIX": [
+    "powers.FOCUS_POWER",
+    "cards.HOTFIX"
+  ],
+  "cards.HOWL_FROM_BEYOND": [
+    "cards.HOWL_FROM_BEYOND"
+  ],
+  "cards.HUDDLE_UP": [
+    "cards.HUDDLE_UP"
+  ],
+  "cards.HYPERBEAM": [
+    "powers.FOCUS_POWER",
+    "cards.HYPERBEAM"
+  ],
+  "cards.ICE_LANCE": [
+    "orbs.FROST_ORB",
+    "cards.ICE_LANCE"
+  ],
+  "cards.IGNITION": [
+    "orbs.PLASMA_ORB",
+    "cards.IGNITION"
+  ],
+  "cards.IMITATION_LEARNING": [
+    "cards.IMITATION_LEARNING"
+  ],
+  "cards.IMPATIENCE": [
+    "cards.IMPATIENCE"
+  ],
+  "cards.IMPERVIOUS": [
+    "cards.IMPERVIOUS"
+  ],
+  "cards.INFECTION": [
+    "cards.INFECTION"
+  ],
+  "cards.INFERNAL_BLADE": [
+    "cards.INFERNAL_BLADE"
+  ],
+  "cards.INFERNO": [
+    "cards.INFERNO"
+  ],
+  "cards.INFINITE_BLADES": [
+    "cards.SHIV",
+    "cards.INFINITE_BLADES"
+  ],
+  "cards.INFLAME": [
+    "powers.STRENGTH_POWER",
+    "cards.INFLAME"
+  ],
+  "cards.INJURY": [
+    "cards.INJURY"
+  ],
+  "cards.INTERCEPT": [
+    "cards.INTERCEPT"
+  ],
+  "cards.INVOKE": [
+    "cards.INVOKE"
+  ],
+  "cards.IRON_WAVE": [
+    "cards.IRON_WAVE"
+  ],
+  "cards.ITERATION": [
+    "cards.ITERATION"
+  ],
+  "cards.I_AM_INVINCIBLE": [
+    "cards.I_AM_INVINCIBLE"
+  ],
+  "cards.JACKPOT": [
+    "cards.JACKPOT"
+  ],
+  "cards.JACK_OF_ALL_TRADES": [
+    "cards.JACK_OF_ALL_TRADES"
+  ],
+  "cards.JUGGERNAUT": [
+    "cards.JUGGERNAUT"
+  ],
+  "cards.JUGGLING": [
+    "cards.JUGGLING"
+  ],
+  "cards.KINGLY_KICK": [
+    "cards.KINGLY_KICK"
+  ],
+  "cards.KINGLY_PUNCH": [
+    "cards.KINGLY_PUNCH"
+  ],
+  "cards.KNIFE_TRAP": [
+    "cards.SHIV",
+    "cards.KNIFE_TRAP"
+  ],
+  "cards.KNOCKDOWN": [
+    "cards.KNOCKDOWN"
+  ],
+  "cards.KNOCKOUT_BLOW": [
+    "cards.KNOCKOUT_BLOW"
+  ],
+  "cards.KNOW_THY_PLACE": [
+    "powers.WEAK_POWER",
+    "powers.VULNERABLE_POWER",
+    "cards.KNOW_THY_PLACE"
+  ],
+  "cards.LANTERN_KEY": [
+    "cards.LANTERN_KEY"
+  ],
+  "cards.LARGESSE": [
+    "cards.LARGESSE"
+  ],
+  "cards.LEADING_STRIKE": [
+    "cards.SHIV",
+    "cards.LEADING_STRIKE"
+  ],
+  "cards.LEAP": [
+    "cards.LEAP"
+  ],
+  "cards.LEGION_OF_BONE": [
+    "cards.LEGION_OF_BONE"
+  ],
+  "cards.LEG_SWEEP": [
+    "powers.WEAK_POWER",
+    "cards.LEG_SWEEP"
+  ],
+  "cards.LETHALITY": [
+    "cards.LETHALITY"
+  ],
+  "cards.LIFT": [
+    "cards.LIFT"
+  ],
+  "cards.LIGHTNING_ROD": [
+    "orbs.LIGHTNING_ORB",
+    "cards.LIGHTNING_ROD"
+  ],
+  "cards.LOOP": [
+    "cards.LOOP"
+  ],
+  "cards.LUMINESCE": [
+    "cards.LUMINESCE"
+  ],
+  "cards.LUNAR_BLAST": [
+    "cards.LUNAR_BLAST"
+  ],
+  "cards.MACHINE_LEARNING": [
+    "cards.MACHINE_LEARNING"
+  ],
+  "cards.MAD_SCIENCE": [
+    "cards.MAD_SCIENCE"
+  ],
+  "cards.MAKE_IT_SO": [
+    "cards.MAKE_IT_SO"
+  ],
+  "cards.MALAISE": [
+    "powers.STRENGTH_POWER",
+    "powers.WEAK_POWER",
+    "cards.MALAISE"
+  ],
+  "cards.MANGLE": [
+    "powers.STRENGTH_POWER",
+    "cards.MANGLE"
+  ],
+  "cards.MANIFEST_AUTHORITY": [
+    "cards.MANIFEST_AUTHORITY"
+  ],
+  "cards.MASTER_OF_STRATEGY": [
+    "cards.MASTER_OF_STRATEGY"
+  ],
+  "cards.MASTER_PLANNER": [
+    "cards.MASTER_PLANNER"
+  ],
+  "cards.MAUL": [
+    "cards.MAUL"
+  ],
+  "cards.MAYHEM": [
+    "cards.MAYHEM"
+  ],
+  "cards.MELANCHOLY": [
+    "cards.MELANCHOLY"
+  ],
+  "cards.MEMENTO_MORI": [
+    "cards.MEMENTO_MORI"
+  ],
+  "cards.METAMORPHOSIS": [
+    "cards.METAMORPHOSIS"
+  ],
+  "cards.METEOR_SHOWER": [
+    "powers.WEAK_POWER",
+    "powers.VULNERABLE_POWER",
+    "cards.METEOR_SHOWER"
+  ],
+  "cards.METEOR_STRIKE": [
+    "orbs.PLASMA_ORB",
+    "cards.METEOR_STRIKE"
+  ],
+  "cards.MIDNIGHT": [
+    "cards.MIDNIGHT"
+  ],
+  "cards.MIMIC": [
+    "cards.MIMIC"
+  ],
+  "cards.MIND_BLAST": [
+    "cards.MIND_BLAST"
+  ],
+  "cards.MIND_ROT": [
+    "cards.MIND_ROT"
+  ],
+  "cards.MINION_DIVE_BOMB": [
+    "cards.MINION_DIVE_BOMB"
+  ],
+  "cards.MINION_SACRIFICE": [
+    "cards.MINION_SACRIFICE"
+  ],
+  "cards.MINION_STRIKE": [
+    "cards.MINION_STRIKE"
+  ],
+  "cards.MIRAGE": [
+    "powers.POISON_POWER",
+    "cards.MIRAGE"
+  ],
+  "cards.MISERY": [
+    "cards.MISERY"
+  ],
+  "cards.MODDED": [
+    "cards.MODDED"
+  ],
+  "cards.MOLTEN_FIST": [
+    "powers.VULNERABLE_POWER",
+    "cards.MOLTEN_FIST"
+  ],
+  "cards.MOMENTUM_STRIKE": [
+    "cards.MOMENTUM_STRIKE"
+  ],
+  "cards.MONARCHS_GAZE": [
+    "powers.STRENGTH_POWER",
+    "cards.MONARCHS_GAZE"
+  ],
+  "cards.MONOLOGUE": [
+    "powers.STRENGTH_POWER",
+    "cards.MONOLOGUE"
+  ],
+  "cards.MULTI_CAST": [
+    "cards.MULTI_CAST"
+  ],
+  "cards.MURDER": [
+    "cards.MURDER"
+  ],
+  "cards.NECRO_MASTERY": [
+    "cards.NECRO_MASTERY"
+  ],
+  "cards.NEGATIVE_PULSE": [
+    "powers.DOOM_POWER",
+    "cards.NEGATIVE_PULSE"
+  ],
+  "cards.NEOWS_FURY": [
+    "cards.NEOWS_FURY"
+  ],
+  "cards.NEUROSURGE": [
+    "powers.DOOM_POWER",
+    "cards.NEUROSURGE"
+  ],
+  "cards.NEUTRALIZE": [
+    "powers.WEAK_POWER",
+    "cards.NEUTRALIZE"
+  ],
+  "cards.NEUTRON_AEGIS": [
+    "powers.PLATING_POWER",
+    "cards.NEUTRON_AEGIS"
+  ],
+  "cards.NIGHTMARE": [
+    "cards.NIGHTMARE"
+  ],
+  "cards.NORMALITY": [
+    "cards.NORMALITY"
+  ],
+  "cards.NOSTALGIA": [
+    "cards.NOSTALGIA"
+  ],
+  "cards.NOT_YET": [
+    "cards.NOT_YET"
+  ],
+  "cards.NOXIOUS_FUMES": [
+    "powers.POISON_POWER",
+    "cards.NOXIOUS_FUMES"
+  ],
+  "cards.NO_ESCAPE": [
+    "powers.DOOM_POWER",
+    "cards.NO_ESCAPE"
+  ],
+  "cards.NULL": [
+    "powers.WEAK_POWER",
+    "orbs.DARK_ORB",
+    "cards.NULL"
+  ],
+  "cards.OBLIVION": [
+    "powers.DOOM_POWER",
+    "cards.OBLIVION"
+  ],
+  "cards.OFFERING": [
+    "cards.OFFERING"
+  ],
+  "cards.OMNISLICE": [
+    "cards.OMNISLICE"
+  ],
+  "cards.ONE_FOR_ALL": [
+    "cards.ONE_FOR_ALL"
+  ],
+  "cards.ONE_TWO_PUNCH": [
+    "cards.ONE_TWO_PUNCH"
+  ],
+  "cards.ORBIT": [
+    "cards.ORBIT"
+  ],
+  "cards.OUTBREAK": [
+    "powers.POISON_POWER",
+    "cards.OUTBREAK"
+  ],
+  "cards.OUTMANEUVER": [
+    "cards.OUTMANEUVER"
+  ],
+  "cards.OUTRAGE": [
+    "cards.OUTRAGE"
+  ],
+  "cards.OVERCLOCK": [
+    "cards.BURN",
+    "cards.OVERCLOCK"
+  ],
+  "cards.PACTS_END": [
+    "cards.PACTS_END"
+  ],
+  "cards.PAGESTORM": [
+    "cards.PAGESTORM"
+  ],
+  "cards.PALE_BLUE_DOT": [
+    "cards.PALE_BLUE_DOT"
+  ],
+  "cards.PANACHE": [
+    "cards.PANACHE"
+  ],
+  "cards.PANIC_BUTTON": [
+    "cards.PANIC_BUTTON"
+  ],
+  "cards.PARRY": [
+    "cards.SOVEREIGN_BLADE",
+    "cards.PARRY"
+  ],
+  "cards.PARSE": [
+    "cards.PARSE"
+  ],
+  "cards.PARTICLE_WALL": [
+    "cards.PARTICLE_WALL"
+  ],
+  "cards.PATTER": [
+    "powers.VIGOR_POWER",
+    "cards.PATTER"
+  ],
+  "cards.PECK": [
+    "cards.PECK"
+  ],
+  "cards.PERFECTED_STRIKE": [
+    "cards.PERFECTED_STRIKE"
+  ],
+  "cards.PHANTOM_BLADES": [
+    "cards.SHIV",
+    "cards.PHANTOM_BLADES"
+  ],
+  "cards.PHOTON_CUT": [
+    "cards.PHOTON_CUT"
+  ],
+  "cards.PIERCING_WAIL": [
+    "powers.STRENGTH_POWER",
+    "cards.PIERCING_WAIL"
+  ],
+  "cards.PILLAGE": [
+    "cards.PILLAGE"
+  ],
+  "cards.PILLAR_OF_CREATION": [
+    "cards.PILLAR_OF_CREATION"
+  ],
+  "cards.PINPOINT": [
+    "cards.PINPOINT"
+  ],
+  "cards.PLOT": [
+    "cards.PLOT"
+  ],
+  "cards.POISONED_STAB": [
+    "powers.POISON_POWER",
+    "cards.POISONED_STAB"
+  ],
+  "cards.POKE": [
+    "cards.POKE"
+  ],
+  "cards.POMMEL_STRIKE": [
+    "cards.POMMEL_STRIKE"
+  ],
+  "cards.POOR_SLEEP": [
+    "cards.POOR_SLEEP"
+  ],
+  "cards.POUNCE": [
+    "cards.POUNCE"
+  ],
+  "cards.PRECISE_CUT": [
+    "cards.PRECISE_CUT"
+  ],
+  "cards.PREDATOR": [
+    "cards.PREDATOR"
+  ],
+  "cards.PREPARED": [
+    "cards.PREPARED"
+  ],
+  "cards.PREP_TIME": [
+    "powers.VIGOR_POWER",
+    "cards.PREP_TIME"
+  ],
+  "cards.PRIMAL_FORCE": [
+    "cards.GIANT_ROCK",
+    "cards.PRIMAL_FORCE"
+  ],
+  "cards.PRODUCTION": [
+    "cards.PRODUCTION"
+  ],
+  "cards.PROLONG": [
+    "cards.PROLONG"
+  ],
+  "cards.PROPHESIZE": [
+    "cards.PROPHESIZE"
+  ],
+  "cards.PROTECTOR": [
+    "cards.PROTECTOR"
+  ],
+  "cards.PROWESS": [
+    "powers.STRENGTH_POWER",
+    "powers.DEXTERITY_POWER",
+    "cards.PROWESS"
+  ],
+  "cards.PULL_AGGRO": [
+    "cards.PULL_AGGRO"
+  ],
+  "cards.PULL_FROM_BELOW": [
+    "cards.PULL_FROM_BELOW"
+  ],
+  "cards.PURITY": [
+    "cards.PURITY"
+  ],
+  "cards.PUTREFY": [
+    "powers.WEAK_POWER",
+    "powers.VULNERABLE_POWER",
+    "cards.PUTREFY"
+  ],
+  "cards.PYRE": [
+    "cards.PYRE"
+  ],
+  "cards.QUADCAST": [
+    "cards.QUADCAST"
+  ],
+  "cards.QUASAR": [
+    "cards.QUASAR"
+  ],
+  "cards.RADIATE": [
+    "cards.RADIATE"
+  ],
+  "cards.RAGE": [
+    "cards.RAGE"
+  ],
+  "cards.RAINBOW": [
+    "orbs.LIGHTNING_ORB",
+    "orbs.FROST_ORB",
+    "orbs.DARK_ORB",
+    "cards.RAINBOW"
+  ],
+  "cards.RALLY": [
+    "cards.RALLY"
+  ],
+  "cards.RAMPAGE": [
+    "cards.RAMPAGE"
+  ],
+  "cards.RATTLE": [
+    "cards.RATTLE"
+  ],
+  "cards.REANIMATE": [
+    "cards.REANIMATE"
+  ],
+  "cards.REAP": [
+    "cards.REAP"
+  ],
+  "cards.REAPER_FORM": [
+    "powers.DOOM_POWER",
+    "cards.REAPER_FORM"
+  ],
+  "cards.REAVE": [
+    "cards.SOUL",
+    "cards.REAVE"
+  ],
+  "cards.REBOOT": [
+    "cards.REBOOT"
+  ],
+  "cards.REBOUND": [
+    "cards.REBOUND"
+  ],
+  "cards.REFINE_BLADE": [
+    "cards.SOVEREIGN_BLADE",
+    "cards.REFINE_BLADE"
+  ],
+  "cards.REFLECT": [
+    "cards.REFLECT"
+  ],
+  "cards.REFLEX": [
+    "cards.REFLEX"
+  ],
+  "cards.REFRACT": [
+    "orbs.GLASS_ORB",
+    "cards.REFRACT"
+  ],
+  "cards.REGRET": [
+    "cards.REGRET"
+  ],
+  "cards.RELAX": [
+    "cards.RELAX"
+  ],
+  "cards.REND": [
+    "cards.REND"
+  ],
+  "cards.RESONANCE": [
+    "powers.STRENGTH_POWER",
+    "cards.RESONANCE"
+  ],
+  "cards.RESTLESSNESS": [
+    "cards.RESTLESSNESS"
+  ],
+  "cards.RICOCHET": [
+    "cards.RICOCHET"
+  ],
+  "cards.RIGHT_HAND_HAND": [
+    "cards.RIGHT_HAND_HAND"
+  ],
+  "cards.RIP_AND_TEAR": [
+    "cards.RIP_AND_TEAR"
+  ],
+  "cards.ROCKET_PUNCH": [
+    "cards.ROCKET_PUNCH"
+  ],
+  "cards.ROLLING_BOULDER": [
+    "cards.ROLLING_BOULDER"
+  ],
+  "cards.ROYALTIES": [
+    "cards.ROYALTIES"
+  ],
+  "cards.ROYAL_GAMBLE": [
+    "cards.ROYAL_GAMBLE"
+  ],
+  "cards.RUPTURE": [
+    "powers.STRENGTH_POWER",
+    "cards.RUPTURE"
+  ],
+  "cards.SACRIFICE": [
+    "cards.SACRIFICE"
+  ],
+  "cards.SALVO": [
+    "cards.SALVO"
+  ],
+  "cards.SCARE": [
+    "powers.WEAK_POWER",
+    "cards.SCARE"
+  ],
+  "cards.SCAVENGE": [
+    "cards.SCAVENGE"
+  ],
+  "cards.SCOURGE": [
+    "powers.DOOM_POWER",
+    "cards.SCOURGE"
+  ],
+  "cards.SCRAPE": [
+    "cards.SCRAPE"
+  ],
+  "cards.SCRAWL": [
+    "cards.SCRAWL"
+  ],
+  "cards.SCULPTING_STRIKE": [
+    "cards.SCULPTING_STRIKE"
+  ],
+  "cards.SEANCE": [
+    "cards.SOUL",
+    "cards.SEANCE"
+  ],
+  "cards.SECOND_WIND": [
+    "cards.SECOND_WIND"
+  ],
+  "cards.SECRET_TECHNIQUE": [
+    "cards.SECRET_TECHNIQUE"
+  ],
+  "cards.SECRET_WEAPON": [
+    "cards.SECRET_WEAPON"
+  ],
+  "cards.SEEKER_STRIKE": [
+    "cards.SEEKER_STRIKE"
+  ],
+  "cards.SEEKING_EDGE": [
+    "cards.SOVEREIGN_BLADE",
+    "cards.SEEKING_EDGE"
+  ],
+  "cards.SENTRY_MODE": [
+    "cards.SWEEPING_GAZE",
+    "cards.SENTRY_MODE"
+  ],
+  "cards.SERPENT_FORM": [
+    "cards.SERPENT_FORM"
+  ],
+  "cards.SETUP_STRIKE": [
+    "powers.STRENGTH_POWER",
+    "cards.SETUP_STRIKE"
+  ],
+  "cards.SEVEN_STARS": [
+    "cards.SEVEN_STARS"
+  ],
+  "cards.SEVERANCE": [
+    "cards.SOUL",
+    "cards.SEVERANCE"
+  ],
+  "cards.SHADOWMELD": [
+    "cards.SHADOWMELD"
+  ],
+  "cards.SHADOW_SHIELD": [
+    "orbs.DARK_ORB",
+    "cards.SHADOW_SHIELD"
+  ],
+  "cards.SHADOW_STEP": [
+    "cards.SHADOW_STEP"
+  ],
+  "cards.SHAME": [
+    "powers.FRAIL_POWER",
+    "cards.SHAME"
+  ],
+  "cards.SHARED_FATE": [
+    "powers.STRENGTH_POWER",
+    "cards.SHARED_FATE"
+  ],
+  "cards.SHATTER": [
+    "cards.SHATTER"
+  ],
+  "cards.SHINING_STRIKE": [
+    "cards.SHINING_STRIKE"
+  ],
+  "cards.SHIV": [
+    "cards.SHIV"
+  ],
+  "cards.SHOCKWAVE": [
+    "powers.WEAK_POWER",
+    "powers.VULNERABLE_POWER",
+    "cards.SHOCKWAVE"
+  ],
+  "cards.SHROUD": [
+    "powers.DOOM_POWER",
+    "cards.SHROUD"
+  ],
+  "cards.SHRUG_IT_OFF": [
+    "cards.SHRUG_IT_OFF"
+  ],
+  "cards.SIC_EM": [
+    "cards.SIC_EM"
+  ],
+  "cards.SIGNAL_BOOST": [
+    "cards.SIGNAL_BOOST"
+  ],
+  "cards.SKEWER": [
+    "cards.SKEWER"
+  ],
+  "cards.SKIM": [
+    "cards.SKIM"
+  ],
+  "cards.SLEIGHT_OF_FLESH": [
+    "cards.SLEIGHT_OF_FLESH"
+  ],
+  "cards.SLICE": [
+    "cards.SLICE"
+  ],
+  "cards.SLIMED": [
+    "cards.SLIMED"
+  ],
+  "cards.SLOTH": [
+    "cards.SLOTH"
+  ],
+  "cards.SMOKESTACK": [
+    "cards.SMOKESTACK"
+  ],
+  "cards.SNAKEBITE": [
+    "powers.POISON_POWER",
+    "cards.SNAKEBITE"
+  ],
+  "cards.SNAP": [
+    "cards.SNAP"
+  ],
+  "cards.SNEAKY": [
+    "cards.SNEAKY"
+  ],
+  "cards.SOLAR_STRIKE": [
+    "cards.SOLAR_STRIKE"
+  ],
+  "cards.SOOT": [
+    "cards.SOOT"
+  ],
+  "cards.SOUL": [
+    "cards.SOUL"
+  ],
+  "cards.SOULBOUND": [
+    "cards.SOUL",
+    "cards.SOULBOUND"
+  ],
+  "cards.SOUL_STORM": [
+    "cards.SOUL",
+    "cards.SOUL_STORM"
+  ],
+  "cards.SOVEREIGN_BLADE": [
+    "cards.SOVEREIGN_BLADE"
+  ],
+  "cards.SOW": [
+    "cards.SOW"
+  ],
+  "cards.SPECTRUM_SHIFT": [
+    "cards.SPECTRUM_SHIFT"
+  ],
+  "cards.SPEEDSTER": [
+    "cards.SPEEDSTER"
+  ],
+  "cards.SPINNER": [
+    "orbs.GLASS_ORB",
+    "cards.SPINNER"
+  ],
+  "cards.SPIRIT_OF_ASH": [
+    "cards.SPIRIT_OF_ASH"
+  ],
+  "cards.SPITE": [
+    "cards.SPITE"
+  ],
+  "cards.SPLASH": [
+    "cards.SPLASH"
+  ],
+  "cards.SPOILS_MAP": [
+    "cards.SPOILS_MAP"
+  ],
+  "cards.SPOILS_OF_BATTLE": [
+    "cards.SOVEREIGN_BLADE",
+    "cards.SPOILS_OF_BATTLE"
+  ],
+  "cards.SPORE_MIND": [
+    "cards.SPORE_MIND"
+  ],
+  "cards.SPUR": [
+    "cards.SPUR"
+  ],
+  "cards.SQUASH": [
+    "powers.VULNERABLE_POWER",
+    "cards.SQUASH"
+  ],
+  "cards.SQUEEZE": [
+    "cards.SQUEEZE"
+  ],
+  "cards.STACK": [
+    "cards.STACK"
+  ],
+  "cards.STAMPEDE": [
+    "cards.STAMPEDE"
+  ],
+  "cards.STARDUST": [
+    "cards.STARDUST"
+  ],
+  "cards.STOKE": [
+    "cards.STOKE"
+  ],
+  "cards.STOMP": [
+    "cards.STOMP"
+  ],
+  "cards.STONE_ARMOR": [
+    "powers.PLATING_POWER",
+    "cards.STONE_ARMOR"
+  ],
+  "cards.STORM": [
+    "orbs.LIGHTNING_ORB",
+    "cards.STORM"
+  ],
+  "cards.STORM_OF_STEEL": [
+    "cards.SHIV",
+    "cards.STORM_OF_STEEL"
+  ],
+  "cards.STRANGLE": [
+    "cards.STRANGLE"
+  ],
+  "cards.STRATAGEM": [
+    "cards.STRATAGEM"
+  ],
+  "cards.STRIKE_DEFECT": [
+    "cards.STRIKE_DEFECT"
+  ],
+  "cards.STRIKE_IRONCLAD": [
+    "cards.STRIKE_IRONCLAD"
+  ],
+  "cards.STRIKE_NECROBINDER": [
+    "cards.STRIKE_NECROBINDER"
+  ],
+  "cards.STRIKE_REGENT": [
+    "cards.STRIKE_REGENT"
+  ],
+  "cards.STRIKE_SILENT": [
+    "cards.STRIKE_SILENT"
+  ],
+  "cards.SUBROUTINE": [
+    "cards.SUBROUTINE"
+  ],
+  "cards.SUCKER_PUNCH": [
+    "powers.WEAK_POWER",
+    "cards.SUCKER_PUNCH"
+  ],
+  "cards.SUMMON_FORTH": [
+    "cards.SOVEREIGN_BLADE",
+    "cards.SUMMON_FORTH"
+  ],
+  "cards.SUNDER": [
+    "cards.SUNDER"
+  ],
+  "cards.SUPERCRITICAL": [
+    "cards.SUPERCRITICAL"
+  ],
+  "cards.SUPERMASSIVE": [
+    "cards.SUPERMASSIVE"
+  ],
+  "cards.SUPPRESS": [
+    "powers.WEAK_POWER",
+    "cards.SUPPRESS"
+  ],
+  "cards.SURVIVOR": [
+    "cards.SURVIVOR"
+  ],
+  "cards.SWEEPING_BEAM": [
+    "cards.SWEEPING_BEAM"
+  ],
+  "cards.SWEEPING_GAZE": [
+    "cards.SWEEPING_GAZE"
+  ],
+  "cards.SWORD_BOOMERANG": [
+    "cards.SWORD_BOOMERANG"
+  ],
+  "cards.SWORD_SAGE": [
+    "cards.SOVEREIGN_BLADE",
+    "cards.SWORD_SAGE"
+  ],
+  "cards.SYNCHRONIZE": [
+    "powers.FOCUS_POWER",
+    "cards.SYNCHRONIZE"
+  ],
+  "cards.SYNTHESIS": [
+    "cards.SYNTHESIS"
+  ],
+  "cards.TACTICIAN": [
+    "cards.TACTICIAN"
+  ],
+  "cards.TAG_TEAM": [
+    "cards.TAG_TEAM"
+  ],
+  "cards.TANK": [
+    "cards.TANK"
+  ],
+  "cards.TAUNT": [
+    "powers.VULNERABLE_POWER",
+    "cards.TAUNT"
+  ],
+  "cards.TEAR_ASUNDER": [
+    "cards.TEAR_ASUNDER"
+  ],
+  "cards.TEMPEST": [
+    "orbs.LIGHTNING_ORB",
+    "cards.TEMPEST"
+  ],
+  "cards.TERRAFORMING": [
+    "powers.VIGOR_POWER",
+    "cards.TERRAFORMING"
+  ],
+  "cards.TESLA_COIL": [
+    "orbs.LIGHTNING_ORB",
+    "cards.TESLA_COIL"
+  ],
+  "cards.THE_BALL": [
+    "cards.THE_BALL"
+  ],
+  "cards.THE_BOMB": [
+    "cards.THE_BOMB"
+  ],
+  "cards.THE_GAMBIT": [
+    "cards.THE_GAMBIT"
+  ],
+  "cards.THE_HUNT": [
+    "cards.THE_HUNT"
+  ],
+  "cards.THE_SCYTHE": [
+    "cards.THE_SCYTHE"
+  ],
+  "cards.THE_SEALED_THRONE": [
+    "cards.THE_SEALED_THRONE"
+  ],
+  "cards.THE_SMITH": [
+    "cards.SOVEREIGN_BLADE",
+    "cards.THE_SMITH"
+  ],
+  "cards.THINKING_AHEAD": [
+    "cards.THINKING_AHEAD"
+  ],
+  "cards.THRASH": [
+    "cards.THRASH"
+  ],
+  "cards.THRUMMING_HATCHET": [
+    "cards.THRUMMING_HATCHET"
+  ],
+  "cards.THUNDER": [
+    "orbs.LIGHTNING_ORB",
+    "cards.THUNDER"
+  ],
+  "cards.THUNDERCLAP": [
+    "powers.VULNERABLE_POWER",
+    "cards.THUNDERCLAP"
+  ],
+  "cards.TIMES_UP": [
+    "powers.DOOM_POWER",
+    "cards.TIMES_UP"
+  ],
+  "cards.TOOLS_OF_THE_TRADE": [
+    "cards.TOOLS_OF_THE_TRADE"
+  ],
+  "cards.TORIC_TOUGHNESS": [
+    "cards.TORIC_TOUGHNESS"
+  ],
+  "cards.TOXIC": [
+    "cards.TOXIC"
+  ],
+  "cards.TRACKING": [
+    "powers.WEAK_POWER",
+    "cards.TRACKING"
+  ],
+  "cards.TRANSFIGURE": [
+    "cards.TRANSFIGURE"
+  ],
+  "cards.TRASH_TO_TREASURE": [
+    "cards.TRASH_TO_TREASURE"
+  ],
+  "cards.TREMBLE": [
+    "powers.VULNERABLE_POWER",
+    "cards.TREMBLE"
+  ],
+  "cards.TRUE_GRIT": [
+    "cards.TRUE_GRIT"
+  ],
+  "cards.TURBO": [
+    "cards.VOID",
+    "cards.TURBO"
+  ],
+  "cards.TWIN_STRIKE": [
+    "cards.TWIN_STRIKE"
+  ],
+  "cards.TYRANNY": [
+    "cards.TYRANNY"
+  ],
+  "cards.ULTIMATE_DEFEND": [
+    "cards.ULTIMATE_DEFEND"
+  ],
+  "cards.ULTIMATE_STRIKE": [
+    "cards.ULTIMATE_STRIKE"
+  ],
+  "cards.UNDEATH": [
+    "cards.UNDEATH"
+  ],
+  "cards.UNDERWORLD": [
+    "powers.DOOM_POWER",
+    "cards.UNDERWORLD"
+  ],
+  "cards.UNLEASH": [
+    "cards.UNLEASH"
+  ],
+  "cards.UNMOVABLE": [
+    "cards.UNMOVABLE"
+  ],
+  "cards.UNRELENTING": [
+    "cards.UNRELENTING"
+  ],
+  "cards.UNTOUCHABLE": [
+    "cards.UNTOUCHABLE"
+  ],
+  "cards.UPPERCUT": [
+    "powers.WEAK_POWER",
+    "powers.VULNERABLE_POWER",
+    "cards.UPPERCUT"
+  ],
+  "cards.UPROAR": [
+    "cards.UPROAR"
+  ],
+  "cards.UP_MY_SLEEVE": [
+    "cards.SHIV",
+    "cards.UP_MY_SLEEVE"
+  ],
+  "cards.VEILPIERCER": [
+    "cards.VEILPIERCER"
+  ],
+  "cards.VENERATE": [
+    "cards.VENERATE"
+  ],
+  "cards.VICIOUS": [
+    "powers.VULNERABLE_POWER",
+    "cards.VICIOUS"
+  ],
+  "cards.VOID": [
+    "cards.VOID"
+  ],
+  "cards.VOID_FORM": [
+    "cards.VOID_FORM"
+  ],
+  "cards.VOLLEY": [
+    "cards.VOLLEY"
+  ],
+  "cards.VOLTAIC": [
+    "orbs.LIGHTNING_ORB",
+    "cards.VOLTAIC"
+  ],
+  "cards.WASTE_AWAY": [
+    "cards.WASTE_AWAY"
+  ],
+  "cards.WELL_LAID_PLANS": [
+    "cards.WELL_LAID_PLANS"
+  ],
+  "cards.WHIRLWIND": [
+    "cards.WHIRLWIND"
+  ],
+  "cards.WHISTLE": [
+    "cards.WHISTLE"
+  ],
+  "cards.WHITE_NOISE": [
+    "cards.WHITE_NOISE"
+  ],
+  "cards.WISH": [
+    "cards.WISH"
+  ],
+  "cards.WISP": [
+    "cards.WISP"
+  ],
+  "cards.WITHER": [
+    "cards.WITHER"
+  ],
+  "cards.WOUND": [
+    "cards.WOUND"
+  ],
+  "cards.WRAITH_FORM": [
+    "powers.INTANGIBLE_POWER",
+    "powers.DEXTERITY_POWER",
+    "cards.WRAITH_FORM"
+  ],
+  "cards.WRITHE": [
+    "cards.WRITHE"
+  ],
+  "cards.WROUGHT_IN_WAR": [
+    "cards.SOVEREIGN_BLADE",
+    "cards.WROUGHT_IN_WAR"
+  ],
+  "cards.ZAP": [
+    "orbs.LIGHTNING_ORB",
+    "cards.ZAP"
+  ],
+  "enchantments.ADROIT": [
+    "enchantments.ADROIT"
+  ],
+  "enchantments.CLONE": [
+    "enchantments.CLONE"
+  ],
+  "enchantments.CORRUPTED": [
+    "enchantments.CORRUPTED"
+  ],
+  "enchantments.DEPRECATED_ENCHANTMENT": [
+    "enchantments.DEPRECATED_ENCHANTMENT"
+  ],
+  "enchantments.GLAM": [
+    "enchantments.GLAM"
+  ],
+  "enchantments.GOOPY": [
+    "enchantments.GOOPY"
+  ],
+  "enchantments.IMBUED": [
+    "enchantments.IMBUED"
+  ],
+  "enchantments.INKY": [
+    "powers.WEAK_POWER",
+    "enchantments.INKY"
+  ],
+  "enchantments.INSTINCT": [
+    "enchantments.INSTINCT"
+  ],
+  "enchantments.MOMENTUM": [
+    "enchantments.MOMENTUM"
+  ],
+  "enchantments.NIMBLE": [
+    "enchantments.NIMBLE"
+  ],
+  "enchantments.PERFECT_FIT": [
+    "enchantments.PERFECT_FIT"
+  ],
+  "enchantments.ROYALLY_APPROVED": [
+    "enchantments.ROYALLY_APPROVED"
+  ],
+  "enchantments.SHARP": [
+    "enchantments.SHARP"
+  ],
+  "enchantments.SLITHER": [
+    "enchantments.SLITHER"
+  ],
+  "enchantments.SLUMBERING_ESSENCE": [
+    "enchantments.SLUMBERING_ESSENCE"
+  ],
+  "enchantments.SOULS_POWER": [
+    "enchantments.SOULS_POWER"
+  ],
+  "enchantments.SOWN": [
+    "enchantments.SOWN"
+  ],
+  "enchantments.SPIRAL": [
+    "enchantments.SPIRAL"
+  ],
+  "enchantments.STEADY": [
+    "enchantments.STEADY"
+  ],
+  "enchantments.SWIFT": [
+    "enchantments.SWIFT"
+  ],
+  "enchantments.TEZCATARAS_EMBER": [
+    "enchantments.TEZCATARAS_EMBER"
+  ],
+  "enchantments.VIGOROUS": [
+    "enchantments.VIGOROUS"
+  ],
+  "orbs.DARK_ORB": [
+    "orbs.DARK_ORB"
+  ],
+  "orbs.FROST_ORB": [
+    "orbs.FROST_ORB"
+  ],
+  "orbs.GLASS_ORB": [
+    "orbs.GLASS_ORB"
+  ],
+  "orbs.LIGHTNING_ORB": [
+    "orbs.LIGHTNING_ORB"
+  ],
+  "orbs.PLASMA_ORB": [
+    "orbs.PLASMA_ORB"
+  ],
+  "potions.ASHWATER": [
+    "potions.ASHWATER"
+  ],
+  "potions.ATTACK_POTION": [
+    "potions.ATTACK_POTION"
+  ],
+  "potions.BEETLE_JUICE": [
+    "potions.BEETLE_JUICE"
+  ],
+  "potions.BLESSING_OF_THE_FORGE": [
+    "potions.BLESSING_OF_THE_FORGE"
+  ],
+  "potions.BLOCK_POTION": [
+    "potions.BLOCK_POTION"
+  ],
+  "potions.BLOOD_POTION": [
+    "potions.BLOOD_POTION"
+  ],
+  "potions.BONE_BREW": [
+    "potions.BONE_BREW"
+  ],
+  "potions.BOTTLED_POTENTIAL": [
+    "potions.BOTTLED_POTENTIAL"
+  ],
+  "potions.CLARITY": [
+    "potions.CLARITY"
+  ],
+  "potions.COLORLESS_POTION": [
+    "potions.COLORLESS_POTION"
+  ],
+  "potions.COSMIC_CONCOCTION": [
+    "potions.COSMIC_CONCOCTION"
+  ],
+  "potions.CUNNING_POTION": [
+    "cards.SHIV",
+    "potions.CUNNING_POTION"
+  ],
+  "potions.CURE_ALL": [
+    "potions.CURE_ALL"
+  ],
+  "potions.DEPRECATED_POTION": [
+    "potions.DEPRECATED_POTION"
+  ],
+  "potions.DEXTERITY_POTION": [
+    "powers.DEXTERITY_POWER",
+    "potions.DEXTERITY_POTION"
+  ],
+  "potions.DISTILLED_CHAOS": [
+    "potions.DISTILLED_CHAOS"
+  ],
+  "potions.DROPLET_OF_PRECOGNITION": [
+    "potions.DROPLET_OF_PRECOGNITION"
+  ],
+  "potions.DUPLICATOR": [
+    "potions.DUPLICATOR"
+  ],
+  "potions.ENERGY_POTION": [
+    "potions.ENERGY_POTION"
+  ],
+  "potions.ENTROPIC_BREW": [
+    "potions.ENTROPIC_BREW"
+  ],
+  "potions.ESSENCE_OF_DARKNESS": [
+    "orbs.DARK_ORB",
+    "potions.ESSENCE_OF_DARKNESS"
+  ],
+  "potions.EXPLOSIVE_AMPOULE": [
+    "potions.EXPLOSIVE_AMPOULE"
+  ],
+  "potions.FAIRY_IN_A_BOTTLE": [
+    "potions.FAIRY_IN_A_BOTTLE"
+  ],
+  "potions.FIRE_POTION": [
+    "potions.FIRE_POTION"
+  ],
+  "potions.FLEX_POTION": [
+    "powers.STRENGTH_POWER",
+    "potions.FLEX_POTION"
+  ],
+  "potions.FOCUS_POTION": [
+    "powers.FOCUS_POWER",
+    "potions.FOCUS_POTION"
+  ],
+  "potions.FORTIFIER": [
+    "potions.FORTIFIER"
+  ],
+  "potions.FOUL_POTION": [
+    "potions.FOUL_POTION"
+  ],
+  "potions.FRUIT_JUICE": [
+    "potions.FRUIT_JUICE"
+  ],
+  "potions.FYSH_OIL": [
+    "powers.STRENGTH_POWER",
+    "powers.DEXTERITY_POWER",
+    "potions.FYSH_OIL"
+  ],
+  "potions.GAMBLERS_BREW": [
+    "potions.GAMBLERS_BREW"
+  ],
+  "potions.GHOST_IN_A_JAR": [
+    "powers.INTANGIBLE_POWER",
+    "potions.GHOST_IN_A_JAR"
+  ],
+  "potions.GIGANTIFICATION_POTION": [
+    "potions.GIGANTIFICATION_POTION"
+  ],
+  "potions.GLOWWATER_POTION": [
+    "potions.GLOWWATER_POTION"
+  ],
+  "potions.HEART_OF_IRON": [
+    "powers.PLATING_POWER",
+    "potions.HEART_OF_IRON"
+  ],
+  "potions.KINGS_COURAGE": [
+    "cards.SOVEREIGN_BLADE",
+    "potions.KINGS_COURAGE"
+  ],
+  "potions.LIQUID_BRONZE": [
+    "powers.THORNS_POWER",
+    "potions.LIQUID_BRONZE"
+  ],
+  "potions.LIQUID_MEMORIES": [
+    "potions.LIQUID_MEMORIES"
+  ],
+  "potions.LUCKY_TONIC": [
+    "powers.BUFFER_POWER",
+    "potions.LUCKY_TONIC"
+  ],
+  "potions.MAZALETHS_GIFT": [
+    "powers.RITUAL_POWER",
+    "powers.STRENGTH_POWER",
+    "potions.MAZALETHS_GIFT"
+  ],
+  "potions.OROBIC_ACID": [
+    "potions.OROBIC_ACID"
+  ],
+  "potions.POISON_POTION": [
+    "powers.POISON_POWER",
+    "potions.POISON_POTION"
+  ],
+  "potions.POTION_OF_BINDING": [
+    "powers.WEAK_POWER",
+    "powers.VULNERABLE_POWER",
+    "potions.POTION_OF_BINDING"
+  ],
+  "potions.POTION_OF_CAPACITY": [
+    "potions.POTION_OF_CAPACITY"
+  ],
+  "potions.POTION_OF_DOOM": [
+    "powers.DOOM_POWER",
+    "potions.POTION_OF_DOOM"
+  ],
+  "potions.POTION_SHAPED_ROCK": [
+    "potions.POTION_SHAPED_ROCK"
+  ],
+  "potions.POT_OF_GHOULS": [
+    "cards.SOUL",
+    "potions.POT_OF_GHOULS"
+  ],
+  "potions.POWDERED_DEMISE": [
+    "potions.POWDERED_DEMISE"
+  ],
+  "potions.POWER_POTION": [
+    "potions.POWER_POTION"
+  ],
+  "potions.RADIANT_TINCTURE": [
+    "potions.RADIANT_TINCTURE"
+  ],
+  "potions.REGEN_POTION": [
+    "powers.REGEN_POWER",
+    "potions.REGEN_POTION"
+  ],
+  "potions.SHACKLING_POTION": [
+    "powers.STRENGTH_POWER",
+    "potions.SHACKLING_POTION"
+  ],
+  "potions.SHIP_IN_A_BOTTLE": [
+    "potions.SHIP_IN_A_BOTTLE"
+  ],
+  "potions.SKILL_POTION": [
+    "potions.SKILL_POTION"
+  ],
+  "potions.SNECKO_OIL": [
+    "potions.SNECKO_OIL"
+  ],
+  "potions.SOLDIERS_STEW": [
+    "potions.SOLDIERS_STEW"
+  ],
+  "potions.SPEED_POTION": [
+    "powers.DEXTERITY_POWER",
+    "potions.SPEED_POTION"
+  ],
+  "potions.STABLE_SERUM": [
+    "potions.STABLE_SERUM"
+  ],
+  "potions.STAR_POTION": [
+    "potions.STAR_POTION"
+  ],
+  "potions.STRENGTH_POTION": [
+    "powers.STRENGTH_POWER",
+    "potions.STRENGTH_POTION"
+  ],
+  "potions.SWIFT_POTION": [
+    "potions.SWIFT_POTION"
+  ],
+  "potions.TOUCH_OF_INSANITY": [
+    "potions.TOUCH_OF_INSANITY"
+  ],
+  "potions.VULNERABLE_POTION": [
+    "powers.VULNERABLE_POWER",
+    "potions.VULNERABLE_POTION"
+  ],
+  "potions.WEAK_POTION": [
+    "powers.WEAK_POWER",
+    "potions.WEAK_POTION"
+  ],
+  "powers.ACCELERANT_POWER": [
+    "powers.POISON_POWER",
+    "powers.ACCELERANT_POWER"
+  ],
+  "powers.ACCURACY_POWER": [
+    "powers.ACCURACY_POWER"
+  ],
+  "powers.ADAPTABLE_POWER": [
+    "powers.ADAPTABLE_POWER"
+  ],
+  "powers.AFTERIMAGE_POWER": [
+    "powers.AFTERIMAGE_POWER"
+  ],
+  "powers.AGGRESSION_POWER": [
+    "powers.AGGRESSION_POWER"
+  ],
+  "powers.ANTICIPATE_POWER": [
+    "powers.ANTICIPATE_POWER"
+  ],
+  "powers.ARSENAL_POWER": [
+    "powers.STRENGTH_POWER",
+    "powers.ARSENAL_POWER"
+  ],
+  "powers.ARTIFACT_POWER": [
+    "powers.ARTIFACT_POWER"
+  ],
+  "powers.ASLEEP_POWER": [
+    "powers.ASLEEP_POWER"
+  ],
+  "powers.AUTOMATION_POWER": [
+    "powers.AUTOMATION_POWER"
+  ],
+  "powers.BACK_ATTACK_LEFT_POWER": [
+    "powers.BACK_ATTACK_LEFT_POWER"
+  ],
+  "powers.BACK_ATTACK_RIGHT_POWER": [
+    "powers.BACK_ATTACK_RIGHT_POWER"
+  ],
+  "powers.BARRICADE_POWER": [
+    "powers.BARRICADE_POWER"
+  ],
+  "powers.BATTLEWORN_DUMMY_TIME_LIMIT_POWER": [
+    "powers.BATTLEWORN_DUMMY_TIME_LIMIT_POWER"
+  ],
+  "powers.BEACON_OF_HOPE_POWER": [
+    "powers.BEACON_OF_HOPE_POWER"
+  ],
+  "powers.BIASED_COGNITION_POWER": [
+    "powers.FOCUS_POWER",
+    "powers.BIASED_COGNITION_POWER"
+  ],
+  "powers.BLACK_HOLE_POWER": [
+    "powers.BLACK_HOLE_POWER"
+  ],
+  "powers.BLOCK_NEXT_TURN_POWER": [
+    "powers.BLOCK_NEXT_TURN_POWER"
+  ],
+  "powers.BLUR_POWER": [
+    "powers.BLUR_POWER"
+  ],
+  "powers.BORROWED_TIME_POWER": [
+    "powers.BORROWED_TIME_POWER"
+  ],
+  "powers.BUFFER_POWER": [
+    "powers.BUFFER_POWER"
+  ],
+  "powers.BURROWED_POWER": [
+    "powers.BURROWED_POWER"
+  ],
+  "powers.BURST_POWER": [
+    "powers.BURST_POWER"
+  ],
+  "powers.CACOPHONY_POWER": [
+    "powers.CACOPHONY_POWER"
+  ],
+  "powers.CALAMITY_POWER": [
+    "powers.CALAMITY_POWER"
+  ],
+  "powers.CALCIFY_POWER": [
+    "powers.CALCIFY_POWER"
+  ],
+  "powers.CALL_OF_THE_VOID_POWER": [
+    "powers.CALL_OF_THE_VOID_POWER"
+  ],
+  "powers.CHAINS_OF_BINDING_POWER": [
+    "afflictions.BOUND",
+    "powers.CHAINS_OF_BINDING_POWER"
+  ],
+  "powers.CHILD_OF_THE_STARS_POWER": [
+    "powers.CHILD_OF_THE_STARS_POWER"
+  ],
+  "powers.CLARITY_POWER": [
+    "powers.CLARITY_POWER"
+  ],
+  "powers.COLOSSUS_POWER": [
+    "powers.VULNERABLE_POWER",
+    "powers.COLOSSUS_POWER"
+  ],
+  "powers.CONCOCT_POWER": [
+    "powers.POISON_POWER",
+    "powers.CONCOCT_POWER"
+  ],
+  "powers.CONFUSED_POWER": [
+    "powers.CONFUSED_POWER"
+  ],
+  "powers.CONQUEROR_POWER": [
+    "cards.SOVEREIGN_BLADE",
+    "powers.CONQUEROR_POWER"
+  ],
+  "powers.CONSTRICT_POWER": [
+    "powers.CONSTRICT_POWER"
+  ],
+  "powers.CONSUMING_SHADOW_POWER": [
+    "powers.CONSUMING_SHADOW_POWER"
+  ],
+  "powers.COOLANT_POWER": [
+    "powers.COOLANT_POWER"
+  ],
+  "powers.COORDINATE_POWER": [
+    "powers.COORDINATE_POWER"
+  ],
+  "powers.CORROSIVE_WAVE_POWER": [
+    "powers.POISON_POWER",
+    "powers.CORROSIVE_WAVE_POWER"
+  ],
+  "powers.CORRUPTION_POWER": [
+    "powers.CORRUPTION_POWER"
+  ],
+  "powers.COUNTDOWN_POWER": [
+    "powers.DOOM_POWER",
+    "powers.COUNTDOWN_POWER"
+  ],
+  "powers.COVERED_POWER": [
+    "powers.COVERED_POWER"
+  ],
+  "powers.CRAB_RAGE_POWER": [
+    "powers.STRENGTH_POWER",
+    "powers.CRAB_RAGE_POWER"
+  ],
+  "powers.CREATIVE_AI_POWER": [
+    "powers.CREATIVE_AI_POWER"
+  ],
+  "powers.CRIMSON_MANTLE_POWER": [
+    "powers.CRIMSON_MANTLE_POWER"
+  ],
+  "powers.CRUELTY_POWER": [
+    "powers.VULNERABLE_POWER",
+    "powers.CRUELTY_POWER"
+  ],
+  "powers.CRUSH_UNDER_POWER": [
+    "powers.CRUSH_UNDER_POWER"
+  ],
+  "powers.CURIOUS_POWER": [
+    "powers.CURIOUS_POWER"
+  ],
+  "powers.CURL_UP_POWER": [
+    "powers.CURL_UP_POWER"
+  ],
+  "powers.DAMPEN_POWER": [
+    "powers.DAMPEN_POWER"
+  ],
+  "powers.DANSE_MACABRE_POWER": [
+    "powers.DANSE_MACABRE_POWER"
+  ],
+  "powers.DARK_EMBRACE_POWER": [
+    "powers.DARK_EMBRACE_POWER"
+  ],
+  "powers.DARK_SHACKLES_POWER": [
+    "powers.DARK_SHACKLES_POWER"
+  ],
+  "powers.DEBILITATE_POWER": [
+    "powers.VULNERABLE_POWER",
+    "powers.WEAK_POWER",
+    "powers.DEBILITATE_POWER"
+  ],
+  "powers.DEMESNE_POWER": [
+    "powers.DEMESNE_POWER"
+  ],
+  "powers.DEMISE_POWER": [
+    "powers.DEMISE_POWER"
+  ],
+  "powers.DEMON_FORM_POWER": [
+    "powers.STRENGTH_POWER",
+    "powers.DEMON_FORM_POWER"
+  ],
+  "powers.DEVOUR_LIFE_POWER": [
+    "cards.SOUL",
+    "powers.DEVOUR_LIFE_POWER"
+  ],
+  "powers.DEXTERITY_POWER": [
+    "powers.DEXTERITY_POWER"
+  ],
+  "powers.DIAMOND_DIADEM_POWER": [
+    "powers.DIAMOND_DIADEM_POWER"
+  ],
+  "powers.DIE_FOR_YOU_POWER": [
+    "powers.DIE_FOR_YOU_POWER"
+  ],
+  "powers.DISINTEGRATION_POWER": [
+    "powers.DISINTEGRATION_POWER"
+  ],
+  "powers.DOOM_POWER": [
+    "powers.DOOM_POWER"
+  ],
+  "powers.DOUBLE_DAMAGE_POWER": [
+    "powers.DOUBLE_DAMAGE_POWER"
+  ],
+  "powers.DRAW_CARDS_NEXT_TURN_POWER": [
+    "powers.DRAW_CARDS_NEXT_TURN_POWER"
+  ],
+  "powers.DUPLICATION_POWER": [
+    "powers.DUPLICATION_POWER"
+  ],
+  "powers.DYING_STAR_POWER": [
+    "powers.DYING_STAR_POWER"
+  ],
+  "powers.ECHO_FORM_POWER": [
+    "powers.ECHO_FORM_POWER"
+  ],
+  "powers.ENERGY_NEXT_TURN_POWER": [
+    "powers.ENERGY_NEXT_TURN_POWER"
+  ],
+  "powers.ENFEEBLING_TOUCH_POWER": [
+    "powers.ENFEEBLING_TOUCH_POWER"
+  ],
+  "powers.ENRAGE_POWER": [
+    "powers.ENRAGE_POWER"
+  ],
+  "powers.ENTROPY_POWER": [
+    "powers.ENTROPY_POWER"
+  ],
+  "powers.ENVENOM_POWER": [
+    "powers.POISON_POWER",
+    "powers.ENVENOM_POWER"
+  ],
+  "powers.ESCAPE_ARTIST_POWER": [
+    "powers.ESCAPE_ARTIST_POWER"
+  ],
+  "powers.FADE_POWER": [
+    "powers.FADE_POWER"
+  ],
+  "powers.FAN_OF_KNIVES_POWER": [
+    "powers.FAN_OF_KNIVES_POWER"
+  ],
+  "powers.FASTEN_POWER": [
+    "powers.FASTEN_POWER"
+  ],
+  "powers.FEEDING_FRENZY_POWER": [
+    "powers.FEEDING_FRENZY_POWER"
+  ],
+  "powers.FEEL_NO_PAIN_POWER": [
+    "powers.FEEL_NO_PAIN_POWER"
+  ],
+  "powers.FERAL_POWER": [
+    "powers.FERAL_POWER"
+  ],
+  "powers.FLAME_BARRIER_POWER": [
+    "powers.FLAME_BARRIER_POWER"
+  ],
+  "powers.FLANKING_POWER": [
+    "powers.FLANKING_POWER"
+  ],
+  "powers.FLEX_POTION_POWER": [
+    "powers.FLEX_POTION_POWER"
+  ],
+  "powers.FLUTTER_POWER": [
+    "powers.FLUTTER_POWER"
+  ],
+  "powers.FOCUSED_STRIKE_POWER": [
+    "powers.FOCUSED_STRIKE_POWER"
+  ],
+  "powers.FOCUS_POWER": [
+    "powers.FOCUS_POWER"
+  ],
+  "powers.FORBIDDEN_GRIMOIRE_POWER": [
+    "powers.FORBIDDEN_GRIMOIRE_POWER"
+  ],
+  "powers.FOREGONE_CONCLUSION_POWER": [
+    "powers.FOREGONE_CONCLUSION_POWER"
+  ],
+  "powers.FRAIL_POWER": [
+    "powers.FRAIL_POWER"
+  ],
+  "powers.FREE_ATTACK_POWER": [
+    "powers.FREE_ATTACK_POWER"
+  ],
+  "powers.FREE_POWER_POWER": [
+    "powers.FREE_POWER_POWER"
+  ],
+  "powers.FREE_SKILL_POWER": [
+    "powers.FREE_SKILL_POWER"
+  ],
+  "powers.FRIENDSHIP_POWER": [
+    "powers.FRIENDSHIP_POWER"
+  ],
+  "powers.FURNACE_POWER": [
+    "cards.SOVEREIGN_BLADE",
+    "powers.FURNACE_POWER"
+  ],
+  "powers.GALVANIC_POWER": [
+    "afflictions.GALVANIZED",
+    "powers.GALVANIC_POWER"
+  ],
+  "powers.GENESIS_POWER": [
+    "powers.GENESIS_POWER"
+  ],
+  "powers.GIGANTIFICATION_POWER": [
+    "powers.GIGANTIFICATION_POWER"
+  ],
+  "powers.GRAVITY_POWER": [
+    "powers.GRAVITY_POWER"
+  ],
+  "powers.GUARDED_POWER": [
+    "powers.GUARDED_POWER"
+  ],
+  "powers.HAILSTORM_POWER": [
+    "orbs.FROST_ORB",
+    "powers.HAILSTORM_POWER"
+  ],
+  "powers.HAMMER_TIME_POWER": [
+    "cards.SOVEREIGN_BLADE",
+    "powers.HAMMER_TIME_POWER"
+  ],
+  "powers.HANG_POWER": [
+    "cards.HANG",
+    "powers.HANG_POWER"
+  ],
+  "powers.HARDENED_SHELL_POWER": [
+    "powers.HARDENED_SHELL_POWER"
+  ],
+  "powers.HARD_TO_KILL_POWER": [
+    "powers.HARD_TO_KILL_POWER"
+  ],
+  "powers.HATCH_POWER": [
+    "powers.HATCH_POWER"
+  ],
+  "powers.HAUNT_POWER": [
+    "powers.HAUNT_POWER"
+  ],
+  "powers.HEIST_POWER": [
+    "powers.HEIST_POWER"
+  ],
+  "powers.HELICAL_DART_POWER": [
+    "powers.HELICAL_DART_POWER"
+  ],
+  "powers.HELLO_WORLD_POWER": [
+    "powers.HELLO_WORLD_POWER"
+  ],
+  "powers.HELLRAISER_POWER": [
+    "powers.HELLRAISER_POWER"
+  ],
+  "powers.HEX_POWER": [
+    "afflictions.HEXED",
+    "powers.HEX_POWER"
+  ],
+  "powers.HIBERNATE_POWER": [
+    "orbs.FROST_ORB",
+    "powers.HIBERNATE_POWER"
+  ],
+  "powers.HIGH_VOLTAGE_POWER": [
+    "powers.STRENGTH_POWER",
+    "powers.HIGH_VOLTAGE_POWER"
+  ],
+  "powers.HOTFIX_POWER": [
+    "powers.HOTFIX_POWER"
+  ],
+  "powers.ILLUSION_POWER": [
+    "powers.ILLUSION_POWER"
+  ],
+  "powers.IMBALANCED_POWER": [
+    "powers.IMBALANCED_POWER"
+  ],
+  "powers.IMITATION_LEARNING_POWER": [
+    "powers.IMITATION_LEARNING_POWER"
+  ],
+  "powers.IMPROVEMENT_POWER": [
+    "powers.IMPROVEMENT_POWER"
+  ],
+  "powers.INFERNO_POWER": [
+    "powers.INFERNO_POWER"
+  ],
+  "powers.INFESTED_POWER": [
+    "powers.INFESTED_POWER"
+  ],
+  "powers.INFINITE_BLADES_POWER": [
+    "cards.SHIV",
+    "powers.INFINITE_BLADES_POWER"
+  ],
+  "powers.INTANGIBLE_POWER": [
+    "powers.INTANGIBLE_POWER"
+  ],
+  "powers.INTERCEPT_POWER": [
+    "powers.INTERCEPT_POWER"
+  ],
+  "powers.ITERATION_POWER": [
+    "powers.ITERATION_POWER"
+  ],
+  "powers.JUGGERNAUT_POWER": [
+    "powers.JUGGERNAUT_POWER"
+  ],
+  "powers.JUGGLING_POWER": [
+    "powers.JUGGLING_POWER"
+  ],
+  "powers.KNOCKDOWN_POWER": [
+    "powers.KNOCKDOWN_POWER"
+  ],
+  "powers.LEADERSHIP_POWER": [
+    "powers.LEADERSHIP_POWER"
+  ],
+  "powers.LETHALITY_POWER": [
+    "powers.LETHALITY_POWER"
+  ],
+  "powers.LIGHTNING_ROD_POWER": [
+    "orbs.LIGHTNING_ORB",
+    "powers.LIGHTNING_ROD_POWER"
+  ],
+  "powers.LOOP_POWER": [
+    "powers.LOOP_POWER"
+  ],
+  "powers.MACHINE_LEARNING_POWER": [
+    "powers.MACHINE_LEARNING_POWER"
+  ],
+  "powers.MAGIC_BOMB_POWER": [
+    "powers.MAGIC_BOMB_POWER"
+  ],
+  "powers.MANGLE_POWER": [
+    "powers.MANGLE_POWER"
+  ],
+  "powers.MASTER_PLANNER_POWER": [
+    "powers.MASTER_PLANNER_POWER"
+  ],
+  "powers.MAYHEM_POWER": [
+    "powers.MAYHEM_POWER"
+  ],
+  "powers.MIND_ROT_POWER": [
+    "powers.MIND_ROT_POWER"
+  ],
+  "powers.MINION_POWER": [
+    "powers.MINION_POWER"
+  ],
+  "powers.MONARCHS_GAZE_POWER": [
+    "powers.MONARCHS_GAZE_POWER"
+  ],
+  "powers.MONARCHS_GAZE_STRENGTH_DOWN_POWER": [
+    "powers.MONARCHS_GAZE_STRENGTH_DOWN_POWER"
+  ],
+  "powers.MONOLOGUE_POWER": [
+    "powers.STRENGTH_POWER",
+    "powers.MONOLOGUE_POWER"
+  ],
+  "powers.NECRO_MASTERY_POWER": [
+    "powers.NECRO_MASTERY_POWER"
+  ],
+  "powers.NEMESIS_POWER": [
+    "powers.NEMESIS_POWER"
+  ],
+  "powers.NEUROSURGE_POWER": [
+    "powers.DOOM_POWER",
+    "powers.NEUROSURGE_POWER"
+  ],
+  "powers.NIGHTMARE_POWER": [
+    "powers.NIGHTMARE_POWER"
+  ],
+  "powers.NOSTALGIA_POWER": [
+    "powers.NOSTALGIA_POWER"
+  ],
+  "powers.NOXIOUS_FUMES_POWER": [
+    "powers.POISON_POWER",
+    "powers.NOXIOUS_FUMES_POWER"
+  ],
+  "powers.NO_BLOCK_POWER": [
+    "powers.NO_BLOCK_POWER"
+  ],
+  "powers.NO_DRAW_POWER": [
+    "powers.NO_DRAW_POWER"
+  ],
+  "powers.NO_ENERGY_GAIN_POWER": [
+    "powers.NO_ENERGY_GAIN_POWER"
+  ],
+  "powers.OBLIVION_POWER": [
+    "powers.OBLIVION_POWER"
+  ],
+  "powers.ONE_FOR_ALL_POWER": [
+    "powers.ONE_FOR_ALL_POWER"
+  ],
+  "powers.ONE_TWO_PUNCH_POWER": [
+    "powers.ONE_TWO_PUNCH_POWER"
+  ],
+  "powers.ORBIT_POWER": [
+    "powers.ORBIT_POWER"
+  ],
+  "powers.OUTBREAK_POWER": [
+    "powers.POISON_POWER",
+    "powers.OUTBREAK_POWER"
+  ],
+  "powers.PAGESTORM_POWER": [
+    "powers.PAGESTORM_POWER"
+  ],
+  "powers.PAINFUL_STABS_POWER": [
+    "cards.WOUND",
+    "powers.PAINFUL_STABS_POWER"
+  ],
+  "powers.PALE_BLUE_DOT_POWER": [
+    "powers.PALE_BLUE_DOT_POWER"
+  ],
+  "powers.PANACHE_POWER": [
+    "powers.PANACHE_POWER"
+  ],
+  "powers.PAPER_CUTS_POWER": [
+    "powers.PAPER_CUTS_POWER"
+  ],
+  "powers.PARRY_POWER": [
+    "powers.PARRY_POWER"
+  ],
+  "powers.PERSONAL_HIVE_POWER": [
+    "cards.DAZED",
+    "powers.PERSONAL_HIVE_POWER"
+  ],
+  "powers.PHANTOM_BLADES_POWER": [
+    "cards.SHIV",
+    "powers.PHANTOM_BLADES_POWER"
+  ],
+  "powers.PIERCING_WAIL_POWER": [
+    "powers.PIERCING_WAIL_POWER"
+  ],
+  "powers.PILLAR_OF_CREATION_POWER": [
+    "powers.PILLAR_OF_CREATION_POWER"
+  ],
+  "powers.PLATING_POWER": [
+    "powers.PLATING_POWER"
+  ],
+  "powers.PLOW_POWER": [
+    "powers.STRENGTH_POWER",
+    "powers.PLOW_POWER"
+  ],
+  "powers.POISON_POWER": [
+    "powers.POISON_POWER"
+  ],
+  "powers.POSSESS_SPEED_POWER": [
+    "powers.DEXTERITY_POWER",
+    "powers.POSSESS_SPEED_POWER"
+  ],
+  "powers.POSSESS_STRENGTH_POWER": [
+    "powers.STRENGTH_POWER",
+    "powers.POSSESS_STRENGTH_POWER"
+  ],
+  "powers.PREP_TIME_POWER": [
+    "powers.PREP_TIME_POWER"
+  ],
+  "powers.PYRE_POWER": [
+    "powers.PYRE_POWER"
+  ],
+  "powers.RADIANCE_POWER": [
+    "powers.RADIANCE_POWER"
+  ],
+  "powers.RAGE_POWER": [
+    "powers.RAGE_POWER"
+  ],
+  "powers.RAMPART_POWER": [
+    "powers.RAMPART_POWER"
+  ],
+  "powers.RAVENOUS_POWER": [
+    "powers.STRENGTH_POWER",
+    "powers.RAVENOUS_POWER"
+  ],
+  "powers.REAPER_FORM_POWER": [
+    "powers.DOOM_POWER",
+    "powers.REAPER_FORM_POWER"
+  ],
+  "powers.REATTACH_POWER": [
+    "powers.REATTACH_POWER"
+  ],
+  "powers.REBOUND_POWER": [
+    "powers.REBOUND_POWER"
+  ],
+  "powers.REFLECT_POWER": [
+    "powers.REFLECT_POWER"
+  ],
+  "powers.REGEN_POWER": [
+    "powers.REGEN_POWER"
+  ],
+  "powers.REPTILE_TRINKET_POWER": [
+    "powers.REPTILE_TRINKET_POWER"
+  ],
+  "powers.RETAIN_HAND_POWER": [
+    "powers.RETAIN_HAND_POWER"
+  ],
+  "powers.RINGING_POWER": [
+    "powers.RINGING_POWER"
+  ],
+  "powers.RITUAL_POWER": [
+    "powers.STRENGTH_POWER",
+    "powers.RITUAL_POWER"
+  ],
+  "powers.ROLLING_BOULDER_POWER": [
+    "powers.ROLLING_BOULDER_POWER"
+  ],
+  "powers.ROYALTIES_POWER": [
+    "powers.ROYALTIES_POWER"
+  ],
+  "powers.RUPTURE_POWER": [
+    "powers.STRENGTH_POWER",
+    "powers.RUPTURE_POWER"
+  ],
+  "powers.SANDPIT_POWER": [
+    "powers.SANDPIT_POWER"
+  ],
+  "powers.SEEKING_EDGE_POWER": [
+    "cards.SOVEREIGN_BLADE",
+    "powers.SEEKING_EDGE_POWER"
+  ],
+  "powers.SELF_FORMING_CLAY_POWER": [
+    "powers.SELF_FORMING_CLAY_POWER"
+  ],
+  "powers.SENTRY_MODE_POWER": [
+    "cards.SWEEPING_GAZE",
+    "powers.SENTRY_MODE_POWER"
+  ],
+  "powers.SERPENT_FORM_POWER": [
+    "powers.SERPENT_FORM_POWER"
+  ],
+  "powers.SETUP_STRIKE_POWER": [
+    "powers.SETUP_STRIKE_POWER"
+  ],
+  "powers.SHACKLING_POTION_POWER": [
+    "powers.SHACKLING_POTION_POWER"
+  ],
+  "powers.SHADOWMELD_POWER": [
+    "powers.SHADOWMELD_POWER"
+  ],
+  "powers.SHADOW_STEP_POWER": [
+    "powers.SHADOW_STEP_POWER"
+  ],
+  "powers.SHRIEK_POWER": [
+    "powers.SHRIEK_POWER"
+  ],
+  "powers.SHRINK_POWER": [
+    "powers.SHRINK_POWER"
+  ],
+  "powers.SHROUD_POWER": [
+    "powers.DOOM_POWER",
+    "powers.SHROUD_POWER"
+  ],
+  "powers.SIC_EM_POWER": [
+    "powers.SIC_EM_POWER"
+  ],
+  "powers.SIGNAL_BOOST_POWER": [
+    "powers.SIGNAL_BOOST_POWER"
+  ],
+  "powers.SKITTISH_POWER": [
+    "powers.SKITTISH_POWER"
+  ],
+  "powers.SLEIGHT_OF_FLESH_POWER": [
+    "powers.SLEIGHT_OF_FLESH_POWER"
+  ],
+  "powers.SLIPPERY_POWER": [
+    "powers.SLIPPERY_POWER"
+  ],
+  "powers.SLOTH_POWER": [
+    "powers.SLOTH_POWER"
+  ],
+  "powers.SLOW_POWER": [
+    "powers.SLOW_POWER"
+  ],
+  "powers.SLUMBER_POWER": [
+    "powers.SLUMBER_POWER"
+  ],
+  "powers.SMOGGY_POWER": [
+    "powers.SMOGGY_POWER"
+  ],
+  "powers.SMOKESTACK_POWER": [
+    "powers.SMOKESTACK_POWER"
+  ],
+  "powers.SNEAKY_POWER": [
+    "powers.SNEAKY_POWER"
+  ],
+  "powers.SOAR_POWER": [
+    "powers.SOAR_POWER"
+  ],
+  "powers.SOULBOUND_POWER": [
+    "cards.SOUL",
+    "powers.SOULBOUND_POWER"
+  ],
+  "powers.SPECTRUM_SHIFT_POWER": [
+    "powers.SPECTRUM_SHIFT_POWER"
+  ],
+  "powers.SPEEDSTER_POWER": [
+    "powers.SPEEDSTER_POWER"
+  ],
+  "powers.SPEED_POTION_POWER": [
+    "powers.SPEED_POTION_POWER"
+  ],
+  "powers.SPINNER_POWER": [
+    "orbs.GLASS_ORB",
+    "powers.SPINNER_POWER"
+  ],
+  "powers.SPIRIT_OF_ASH_POWER": [
+    "powers.SPIRIT_OF_ASH_POWER"
+  ],
+  "powers.STAMPEDE_POWER": [
+    "powers.STAMPEDE_POWER"
+  ],
+  "powers.STAR_NEXT_TURN_POWER": [
+    "powers.STAR_NEXT_TURN_POWER"
+  ],
+  "powers.STEAM_ERUPTION_POWER": [
+    "powers.STEAM_ERUPTION_POWER"
+  ],
+  "powers.STOCK_POWER": [
+    "powers.STOCK_POWER"
+  ],
+  "powers.STORM_POWER": [
+    "orbs.LIGHTNING_ORB",
+    "powers.STORM_POWER"
+  ],
+  "powers.STRANGLE_POWER": [
+    "powers.STRANGLE_POWER"
+  ],
+  "powers.STRATAGEM_POWER": [
+    "powers.STRATAGEM_POWER"
+  ],
+  "powers.STRENGTH_POWER": [
+    "powers.STRENGTH_POWER"
+  ],
+  "powers.SUBROUTINE_POWER": [
+    "powers.SUBROUTINE_POWER"
+  ],
+  "powers.SUCK_POWER": [
+    "powers.STRENGTH_POWER",
+    "powers.SUCK_POWER"
+  ],
+  "powers.SUMMON_NEXT_TURN_POWER": [
+    "powers.SUMMON_NEXT_TURN_POWER"
+  ],
+  "powers.SURPRISE_POWER": [
+    "powers.SURPRISE_POWER"
+  ],
+  "powers.SURROUNDED_POWER": [
+    "powers.SURROUNDED_POWER"
+  ],
+  "powers.SWIPE_POWER": [
+    "powers.SWIPE_POWER"
+  ],
+  "powers.SWORD_SAGE_POWER": [
+    "cards.SOVEREIGN_BLADE",
+    "powers.SWORD_SAGE_POWER"
+  ],
+  "powers.SYNCHRONIZE_POWER": [
+    "powers.SYNCHRONIZE_POWER"
+  ],
+  "powers.TAG_TEAM_POWER": [
+    "powers.TAG_TEAM_POWER"
+  ],
+  "powers.TAINTED_POWER": [
+    "powers.TAINTED_POWER"
+  ],
+  "powers.TANGLED_POWER": [
+    "powers.TANGLED_POWER"
+  ],
+  "powers.TANK_POWER": [
+    "powers.TANK_POWER"
+  ],
+  "powers.TEMPORARY_DEXTERITY_POWER": [
+    "powers.DEXTERITY_POWER",
+    "powers.TEMPORARY_DEXTERITY_POWER"
+  ],
+  "powers.TEMPORARY_FOCUS_POWER": [
+    "powers.FOCUS_POWER",
+    "powers.TEMPORARY_FOCUS_POWER"
+  ],
+  "powers.TEMPORARY_STRENGTH_POWER": [
+    "powers.STRENGTH_POWER",
+    "powers.TEMPORARY_STRENGTH_POWER"
+  ],
+  "powers.TENDER_POWER": [
+    "powers.STRENGTH_POWER",
+    "powers.DEXTERITY_POWER",
+    "powers.TENDER_POWER"
+  ],
+  "powers.TERRITORIAL_POWER": [
+    "powers.STRENGTH_POWER",
+    "powers.TERRITORIAL_POWER"
+  ],
+  "powers.THE_BOMB_POWER": [
+    "powers.THE_BOMB_POWER"
+  ],
+  "powers.THE_GAMBIT_POWER": [
+    "powers.THE_GAMBIT_POWER"
+  ],
+  "powers.THE_HUNT_POWER": [
+    "powers.THE_HUNT_POWER"
+  ],
+  "powers.THE_SEALED_THRONE_POWER": [
+    "powers.THE_SEALED_THRONE_POWER"
+  ],
+  "powers.THIEVERY_POWER": [
+    "powers.THIEVERY_POWER"
+  ],
+  "powers.THORNS_POWER": [
+    "powers.THORNS_POWER"
+  ],
+  "powers.THUNDER_POWER": [
+    "orbs.LIGHTNING_ORB",
+    "powers.THUNDER_POWER"
+  ],
+  "powers.TOOLS_OF_THE_TRADE_POWER": [
+    "powers.TOOLS_OF_THE_TRADE_POWER"
+  ],
+  "powers.TORIC_TOUGHNESS_POWER": [
+    "powers.TORIC_TOUGHNESS_POWER"
+  ],
+  "powers.TRACKING_POWER": [
+    "powers.WEAK_POWER",
+    "powers.TRACKING_POWER"
+  ],
+  "powers.TRASH_TO_TREASURE_POWER": [
+    "powers.TRASH_TO_TREASURE_POWER"
+  ],
+  "powers.TYRANNY_POWER": [
+    "powers.TYRANNY_POWER"
+  ],
+  "powers.UNDERWORLD_POWER": [
+    "powers.DOOM_POWER",
+    "powers.UNDERWORLD_POWER"
+  ],
+  "powers.UNMOVABLE_POWER": [
+    "powers.UNMOVABLE_POWER"
+  ],
+  "powers.VEILPIERCER_POWER": [
+    "powers.VEILPIERCER_POWER"
+  ],
+  "powers.VICIOUS_POWER": [
+    "powers.VULNERABLE_POWER",
+    "powers.VICIOUS_POWER"
+  ],
+  "powers.VIGOR_POWER": [
+    "powers.VIGOR_POWER"
+  ],
+  "powers.VITAL_SPARK_POWER": [
+    "afflictions.TAINTED",
+    "powers.VITAL_SPARK_POWER"
+  ],
+  "powers.VOID_FORM_POWER": [
+    "powers.VOID_FORM_POWER"
+  ],
+  "powers.VULNERABLE_POWER": [
+    "powers.VULNERABLE_POWER"
+  ],
+  "powers.WASTE_AWAY_POWER": [
+    "powers.WASTE_AWAY_POWER"
+  ],
+  "powers.WEAK_POWER": [
+    "powers.WEAK_POWER"
+  ],
+  "powers.WELL_LAID_PLANS_POWER": [
+    "powers.WELL_LAID_PLANS_POWER"
+  ],
+  "powers.WITHERING_PRESENCE_POWER": [
+    "powers.WITHERING_PRESENCE_POWER"
+  ],
+  "powers.WRAITH_FORM_POWER": [
+    "powers.DEXTERITY_POWER",
+    "powers.WRAITH_FORM_POWER"
+  ],
+  "relics.AKABEKO": [
+    "powers.VIGOR_POWER",
+    "relics.AKABEKO"
+  ],
+  "relics.ALCHEMICAL_COFFER": [
+    "relics.ALCHEMICAL_COFFER"
+  ],
+  "relics.AMETHYST_AUBERGINE": [
+    "relics.AMETHYST_AUBERGINE"
+  ],
+  "relics.ANCHOR": [
+    "relics.ANCHOR"
+  ],
+  "relics.ARCANE_SCROLL": [
+    "relics.ARCANE_SCROLL"
+  ],
+  "relics.ARCHAIC_TOOTH": [
+    "relics.ARCHAIC_TOOTH"
+  ],
+  "relics.ART_OF_WAR": [
+    "relics.ART_OF_WAR"
+  ],
+  "relics.ASTROLABE": [
+    "relics.ASTROLABE"
+  ],
+  "relics.BAG_OF_MARBLES": [
+    "powers.VULNERABLE_POWER",
+    "relics.BAG_OF_MARBLES"
+  ],
+  "relics.BAG_OF_PREPARATION": [
+    "relics.BAG_OF_PREPARATION"
+  ],
+  "relics.BEATING_REMNANT": [
+    "relics.BEATING_REMNANT"
+  ],
+  "relics.BEAUTIFUL_BRACELET": [
+    "enchantments.SWIFT",
+    "relics.BEAUTIFUL_BRACELET"
+  ],
+  "relics.BELLOWS": [
+    "relics.BELLOWS"
+  ],
+  "relics.BELT_BUCKLE": [
+    "powers.DEXTERITY_POWER",
+    "relics.BELT_BUCKLE"
+  ],
+  "relics.BIG_HAT": [
+    "relics.BIG_HAT"
+  ],
+  "relics.BIG_MUSHROOM": [
+    "relics.BIG_MUSHROOM"
+  ],
+  "relics.BIIIG_HUG": [
+    "cards.SOOT",
+    "relics.BIIIG_HUG"
+  ],
+  "relics.BING_BONG": [
+    "relics.BING_BONG"
+  ],
+  "relics.BLACK_BLOOD": [
+    "relics.BLACK_BLOOD"
+  ],
+  "relics.BLACK_STAR": [
+    "relics.BLACK_STAR"
+  ],
+  "relics.BLESSED_ANTLER": [
+    "cards.DAZED",
+    "relics.BLESSED_ANTLER"
+  ],
+  "relics.BLOOD_SOAKED_ROSE": [
+    "cards.ENTHRALLED",
+    "relics.BLOOD_SOAKED_ROSE"
+  ],
+  "relics.BLOOD_VIAL": [
+    "relics.BLOOD_VIAL"
+  ],
+  "relics.BONE_FLUTE": [
+    "relics.BONE_FLUTE"
+  ],
+  "relics.BONE_TEA": [
+    "relics.BONE_TEA"
+  ],
+  "relics.BOOKMARK": [
+    "relics.BOOKMARK"
+  ],
+  "relics.BOOK_OF_FIVE_RINGS": [
+    "relics.BOOK_OF_FIVE_RINGS"
+  ],
+  "relics.BOOK_REPAIR_KNIFE": [
+    "powers.DOOM_POWER",
+    "relics.BOOK_REPAIR_KNIFE"
+  ],
+  "relics.BOOMING_CONCH": [
+    "relics.BOOMING_CONCH"
+  ],
+  "relics.BOUND_PHYLACTERY": [
+    "relics.BOUND_PHYLACTERY"
+  ],
+  "relics.BOWLER_HAT": [
+    "relics.BOWLER_HAT"
+  ],
+  "relics.BREAD": [
+    "relics.BREAD"
+  ],
+  "relics.BRILLIANT_SCARF": [
+    "relics.BRILLIANT_SCARF"
+  ],
+  "relics.BRIMSTONE": [
+    "powers.STRENGTH_POWER",
+    "relics.BRIMSTONE"
+  ],
+  "relics.BRONZE_SCALES": [
+    "powers.THORNS_POWER",
+    "relics.BRONZE_SCALES"
+  ],
+  "relics.BURNING_BLOOD": [
+    "relics.BURNING_BLOOD"
+  ],
+  "relics.BURNING_STICKS": [
+    "relics.BURNING_STICKS"
+  ],
+  "relics.BYRDPIP": [
+    "cards.BYRD_SWOOP",
+    "relics.BYRDPIP"
+  ],
+  "relics.CALLING_BELL": [
+    "cards.CURSE_OF_THE_BELL",
+    "relics.CALLING_BELL"
+  ],
+  "relics.CANDELABRA": [
+    "relics.CANDELABRA"
+  ],
+  "relics.CAPTAINS_WHEEL": [
+    "relics.CAPTAINS_WHEEL"
+  ],
+  "relics.CAULDRON": [
+    "relics.CAULDRON"
+  ],
+  "relics.CENTENNIAL_PUZZLE": [
+    "relics.CENTENNIAL_PUZZLE"
+  ],
+  "relics.CHANDELIER": [
+    "relics.CHANDELIER"
+  ],
+  "relics.CHARONS_ASHES": [
+    "relics.CHARONS_ASHES"
+  ],
+  "relics.CHEMICAL_X": [
+    "relics.CHEMICAL_X"
+  ],
+  "relics.CHOICES_PARADOX": [
+    "relics.CHOICES_PARADOX"
+  ],
+  "relics.CHOSEN_CHEESE": [
+    "relics.CHOSEN_CHEESE"
+  ],
+  "relics.CIRCLET": [
+    "relics.CIRCLET"
+  ],
+  "relics.CLAWS": [
+    "cards.MAUL",
+    "relics.CLAWS"
+  ],
+  "relics.CLOAK_CLASP": [
+    "relics.CLOAK_CLASP"
+  ],
+  "relics.CRACKED_CORE": [
+    "orbs.LIGHTNING_ORB",
+    "relics.CRACKED_CORE"
+  ],
+  "relics.CROSSBOW": [
+    "relics.CROSSBOW"
+  ],
+  "relics.CURSED_PEARL": [
+    "cards.GREED",
+    "relics.CURSED_PEARL"
+  ],
+  "relics.DARKSTONE_PERIAPT": [
+    "relics.DARKSTONE_PERIAPT"
+  ],
+  "relics.DATA_DISK": [
+    "powers.FOCUS_POWER",
+    "relics.DATA_DISK"
+  ],
+  "relics.DAUGHTER_OF_THE_WIND": [
+    "relics.DAUGHTER_OF_THE_WIND"
+  ],
+  "relics.DELICATE_FROND": [
+    "relics.DELICATE_FROND"
+  ],
+  "relics.DEMON_TONGUE": [
+    "relics.DEMON_TONGUE"
+  ],
+  "relics.DEPRECATED_RELIC": [
+    "relics.DEPRECATED_RELIC"
+  ],
+  "relics.DIAMOND_DIADEM": [
+    "relics.DIAMOND_DIADEM"
+  ],
+  "relics.DINGY_RUG": [
+    "relics.DINGY_RUG"
+  ],
+  "relics.DISTINGUISHED_CAPE": [
+    "cards.APPARITION",
+    "relics.DISTINGUISHED_CAPE"
+  ],
+  "relics.DIVINE_DESTINY": [
+    "relics.DIVINE_DESTINY"
+  ],
+  "relics.DIVINE_RIGHT": [
+    "relics.DIVINE_RIGHT"
+  ],
+  "relics.DOLLYS_MIRROR": [
+    "relics.DOLLYS_MIRROR"
+  ],
+  "relics.DRAGON_FRUIT": [
+    "relics.DRAGON_FRUIT"
+  ],
+  "relics.DREAM_CATCHER": [
+    "relics.DREAM_CATCHER"
+  ],
+  "relics.DRIFTWOOD": [
+    "relics.DRIFTWOOD"
+  ],
+  "relics.DUSTY_TOME": [
+    "relics.DUSTY_TOME"
+  ],
+  "relics.ECTOPLASM": [
+    "relics.ECTOPLASM"
+  ],
+  "relics.ELECTRIC_SHRYMP": [
+    "enchantments.IMBUED",
+    "relics.ELECTRIC_SHRYMP"
+  ],
+  "relics.EMBER_TEA": [
+    "powers.STRENGTH_POWER",
+    "relics.EMBER_TEA"
+  ],
+  "relics.EMOTION_CHIP": [
+    "relics.EMOTION_CHIP"
+  ],
+  "relics.EMPTY_CAGE": [
+    "relics.EMPTY_CAGE"
+  ],
+  "relics.ETERNAL_FEATHER": [
+    "relics.ETERNAL_FEATHER"
+  ],
+  "relics.FAKE_ANCHOR": [
+    "relics.FAKE_ANCHOR"
+  ],
+  "relics.FAKE_BLOOD_VIAL": [
+    "relics.FAKE_BLOOD_VIAL"
+  ],
+  "relics.FAKE_HAPPY_FLOWER": [
+    "relics.FAKE_HAPPY_FLOWER"
+  ],
+  "relics.FAKE_LEES_WAFFLE": [
+    "relics.FAKE_LEES_WAFFLE"
+  ],
+  "relics.FAKE_MANGO": [
+    "relics.FAKE_MANGO"
+  ],
+  "relics.FAKE_MERCHANTS_RUG": [
+    "relics.FAKE_MERCHANTS_RUG"
+  ],
+  "relics.FAKE_ORICHALCUM": [
+    "relics.FAKE_ORICHALCUM"
+  ],
+  "relics.FAKE_SNECKO_EYE": [
+    "powers.CONFUSED_POWER",
+    "relics.FAKE_SNECKO_EYE"
+  ],
+  "relics.FAKE_STRIKE_DUMMY": [
+    "relics.FAKE_STRIKE_DUMMY"
+  ],
+  "relics.FAKE_VENERABLE_TEA_SET": [
+    "relics.FAKE_VENERABLE_TEA_SET"
+  ],
+  "relics.FENCING_MANUAL": [
+    "cards.SOVEREIGN_BLADE",
+    "relics.FENCING_MANUAL"
+  ],
+  "relics.FESTIVE_POPPER": [
+    "relics.FESTIVE_POPPER"
+  ],
+  "relics.FIDDLE": [
+    "relics.FIDDLE"
+  ],
+  "relics.FISHING_ROD": [
+    "relics.FISHING_ROD"
+  ],
+  "relics.FORGOTTEN_SOUL": [
+    "relics.FORGOTTEN_SOUL"
+  ],
+  "relics.FRAGRANT_MUSHROOM": [
+    "relics.FRAGRANT_MUSHROOM"
+  ],
+  "relics.FRESNEL_LENS": [
+    "enchantments.NIMBLE",
+    "relics.FRESNEL_LENS"
+  ],
+  "relics.FROZEN_EGG": [
+    "relics.FROZEN_EGG"
+  ],
+  "relics.FUNERARY_MASK": [
+    "cards.SOUL",
+    "relics.FUNERARY_MASK"
+  ],
+  "relics.FUR_COAT": [
+    "relics.FUR_COAT"
+  ],
+  "relics.GALACTIC_DUST": [
+    "relics.GALACTIC_DUST"
+  ],
+  "relics.GAMBLING_CHIP": [
+    "relics.GAMBLING_CHIP"
+  ],
+  "relics.GAME_PIECE": [
+    "relics.GAME_PIECE"
+  ],
+  "relics.GHOST_SEED": [
+    "relics.GHOST_SEED"
+  ],
+  "relics.GIRYA": [
+    "powers.STRENGTH_POWER",
+    "relics.GIRYA"
+  ],
+  "relics.GLASS_EYE": [
+    "relics.GLASS_EYE"
+  ],
+  "relics.GLITTER": [
+    "enchantments.GLAM",
+    "relics.GLITTER"
+  ],
+  "relics.GNARLED_HAMMER": [
+    "enchantments.SHARP",
+    "relics.GNARLED_HAMMER"
+  ],
+  "relics.GOLDEN_COMPASS": [
+    "relics.GOLDEN_COMPASS"
+  ],
+  "relics.GOLDEN_PEARL": [
+    "relics.GOLDEN_PEARL"
+  ],
+  "relics.GOLD_PLATED_CABLES": [
+    "relics.GOLD_PLATED_CABLES"
+  ],
+  "relics.GORGET": [
+    "powers.PLATING_POWER",
+    "relics.GORGET"
+  ],
+  "relics.GREMLIN_HORN": [
+    "relics.GREMLIN_HORN"
+  ],
+  "relics.HAND_DRILL": [
+    "powers.VULNERABLE_POWER",
+    "relics.HAND_DRILL"
+  ],
+  "relics.HAPPY_FLOWER": [
+    "relics.HAPPY_FLOWER"
+  ],
+  "relics.HEFTY_TABLET": [
+    "cards.INJURY",
+    "relics.HEFTY_TABLET"
+  ],
+  "relics.HELICAL_DART": [
+    "cards.SHIV",
+    "relics.HELICAL_DART"
+  ],
+  "relics.HISTORY_COURSE": [
+    "relics.HISTORY_COURSE"
+  ],
+  "relics.HORN_CLEAT": [
+    "relics.HORN_CLEAT"
+  ],
+  "relics.ICE_CREAM": [
+    "relics.ICE_CREAM"
+  ],
+  "relics.INFUSED_CORE": [
+    "orbs.LIGHTNING_ORB",
+    "relics.INFUSED_CORE"
+  ],
+  "relics.INTIMIDATING_HELMET": [
+    "relics.INTIMIDATING_HELMET"
+  ],
+  "relics.IRON_CLUB": [
+    "relics.IRON_CLUB"
+  ],
+  "relics.IVORY_TILE": [
+    "relics.IVORY_TILE"
+  ],
+  "relics.JEWELED_MASK": [
+    "relics.JEWELED_MASK"
+  ],
+  "relics.JEWELRY_BOX": [
+    "cards.APOTHEOSIS",
+    "relics.JEWELRY_BOX"
+  ],
+  "relics.JOSS_PAPER": [
+    "relics.JOSS_PAPER"
+  ],
+  "relics.JUZU_BRACELET": [
+    "relics.JUZU_BRACELET"
+  ],
+  "relics.KALEIDOSCOPE": [
+    "relics.KALEIDOSCOPE"
+  ],
+  "relics.KIFUDA": [
+    "enchantments.ADROIT",
+    "relics.KIFUDA"
+  ],
+  "relics.KUNAI": [
+    "powers.DEXTERITY_POWER",
+    "relics.KUNAI"
+  ],
+  "relics.KUSARIGAMA": [
+    "relics.KUSARIGAMA"
+  ],
+  "relics.LANTERN": [
+    "relics.LANTERN"
+  ],
+  "relics.LARGE_CAPSULE": [
+    "relics.LARGE_CAPSULE"
+  ],
+  "relics.LASTING_CANDY": [
+    "relics.LASTING_CANDY"
+  ],
+  "relics.LAVA_LAMP": [
+    "relics.LAVA_LAMP"
+  ],
+  "relics.LAVA_ROCK": [
+    "relics.LAVA_ROCK"
+  ],
+  "relics.LEAD_PAPERWEIGHT": [
+    "relics.LEAD_PAPERWEIGHT"
+  ],
+  "relics.LEAFY_POULTICE": [
+    "relics.LEAFY_POULTICE"
+  ],
+  "relics.LEES_WAFFLE": [
+    "relics.LEES_WAFFLE"
+  ],
+  "relics.LETTER_OPENER": [
+    "relics.LETTER_OPENER"
+  ],
+  "relics.LIZARD_TAIL": [
+    "relics.LIZARD_TAIL"
+  ],
+  "relics.LOOMING_FRUIT": [
+    "relics.LOOMING_FRUIT"
+  ],
+  "relics.LORDS_PARASOL": [
+    "relics.LORDS_PARASOL"
+  ],
+  "relics.LOST_COFFER": [
+    "relics.LOST_COFFER"
+  ],
+  "relics.LOST_WISP": [
+    "relics.LOST_WISP"
+  ],
+  "relics.LUCKY_FYSH": [
+    "relics.LUCKY_FYSH"
+  ],
+  "relics.LUNAR_PASTRY": [
+    "relics.LUNAR_PASTRY"
+  ],
+  "relics.MANGO": [
+    "relics.MANGO"
+  ],
+  "relics.MASSIVE_SCROLL": [
+    "relics.MASSIVE_SCROLL"
+  ],
+  "relics.MAW_BANK": [
+    "relics.MAW_BANK"
+  ],
+  "relics.MEAL_TICKET": [
+    "relics.MEAL_TICKET"
+  ],
+  "relics.MEAT_CLEAVER": [
+    "relics.MEAT_CLEAVER"
+  ],
+  "relics.MEAT_ON_THE_BONE": [
+    "relics.MEAT_ON_THE_BONE"
+  ],
+  "relics.MEMBERSHIP_CARD": [
+    "relics.MEMBERSHIP_CARD"
+  ],
+  "relics.MERCURY_HOURGLASS": [
+    "relics.MERCURY_HOURGLASS"
+  ],
+  "relics.METRONOME": [
+    "relics.METRONOME"
+  ],
+  "relics.MINIATURE_CANNON": [
+    "relics.MINIATURE_CANNON"
+  ],
+  "relics.MINIATURE_TENT": [
+    "relics.MINIATURE_TENT"
+  ],
+  "relics.MINI_REGENT": [
+    "powers.STRENGTH_POWER",
+    "relics.MINI_REGENT"
+  ],
+  "relics.MOLTEN_EGG": [
+    "relics.MOLTEN_EGG"
+  ],
+  "relics.MR_STRUGGLES": [
+    "relics.MR_STRUGGLES"
+  ],
+  "relics.MUMMIFIED_HAND": [
+    "relics.MUMMIFIED_HAND"
+  ],
+  "relics.MUSIC_BOX": [
+    "relics.MUSIC_BOX"
+  ],
+  "relics.MYSTIC_LIGHTER": [
+    "relics.MYSTIC_LIGHTER"
+  ],
+  "relics.NEOWS_BONES": [
+    "relics.NEOWS_BONES"
+  ],
+  "relics.NEOWS_TALISMAN": [
+    "relics.NEOWS_TALISMAN"
+  ],
+  "relics.NEOWS_TORMENT": [
+    "cards.NEOWS_FURY",
+    "relics.NEOWS_TORMENT"
+  ],
+  "relics.NEW_LEAF": [
+    "relics.NEW_LEAF"
+  ],
+  "relics.NINJA_SCROLL": [
+    "cards.SHIV",
+    "relics.NINJA_SCROLL"
+  ],
+  "relics.NUNCHAKU": [
+    "relics.NUNCHAKU"
+  ],
+  "relics.NUTRITIOUS_OYSTER": [
+    "relics.NUTRITIOUS_OYSTER"
+  ],
+  "relics.NUTRITIOUS_SOUP": [
+    "enchantments.TEZCATARAS_EMBER",
+    "relics.NUTRITIOUS_SOUP"
+  ],
+  "relics.ODDLY_SMOOTH_STONE": [
+    "powers.DEXTERITY_POWER",
+    "relics.ODDLY_SMOOTH_STONE"
+  ],
+  "relics.OLD_COIN": [
+    "relics.OLD_COIN"
+  ],
+  "relics.ORANGE_DOUGH": [
+    "relics.ORANGE_DOUGH"
+  ],
+  "relics.ORICHALCUM": [
+    "relics.ORICHALCUM"
+  ],
+  "relics.ORNAMENTAL_FAN": [
+    "relics.ORNAMENTAL_FAN"
+  ],
+  "relics.ORRERY": [
+    "relics.ORRERY"
+  ],
+  "relics.PAELS_BLOOD": [
+    "relics.PAELS_BLOOD"
+  ],
+  "relics.PAELS_CLAW": [
+    "enchantments.GOOPY",
+    "relics.PAELS_CLAW"
+  ],
+  "relics.PAELS_EYE": [
+    "relics.PAELS_EYE"
+  ],
+  "relics.PAELS_FLESH": [
+    "relics.PAELS_FLESH"
+  ],
+  "relics.PAELS_GROWTH": [
+    "enchantments.CLONE",
+    "relics.PAELS_GROWTH"
+  ],
+  "relics.PAELS_HORN": [
+    "cards.RELAX",
+    "relics.PAELS_HORN"
+  ],
+  "relics.PAELS_LEGION": [
+    "relics.PAELS_LEGION"
+  ],
+  "relics.PAELS_TEARS": [
+    "relics.PAELS_TEARS"
+  ],
+  "relics.PAELS_TOOTH": [
+    "relics.PAELS_TOOTH"
+  ],
+  "relics.PAELS_WING": [
+    "relics.PAELS_WING"
+  ],
+  "relics.PANDORAS_BOX": [
+    "relics.PANDORAS_BOX"
+  ],
+  "relics.PANTOGRAPH": [
+    "relics.PANTOGRAPH"
+  ],
+  "relics.PAPER_KRANE": [
+    "powers.WEAK_POWER",
+    "relics.PAPER_KRANE"
+  ],
+  "relics.PAPER_PHROG": [
+    "powers.VULNERABLE_POWER",
+    "relics.PAPER_PHROG"
+  ],
+  "relics.PARRYING_SHIELD": [
+    "relics.PARRYING_SHIELD"
+  ],
+  "relics.PEAR": [
+    "relics.PEAR"
+  ],
+  "relics.PENDULUM": [
+    "relics.PENDULUM"
+  ],
+  "relics.PEN_NIB": [
+    "relics.PEN_NIB"
+  ],
+  "relics.PERMAFROST": [
+    "relics.PERMAFROST"
+  ],
+  "relics.PETRIFIED_TOAD": [
+    "potions.POTION_SHAPED_ROCK",
+    "relics.PETRIFIED_TOAD"
+  ],
+  "relics.PHIAL_HOLSTER": [
+    "relics.PHIAL_HOLSTER"
+  ],
+  "relics.PHILOSOPHERS_STONE": [
+    "powers.STRENGTH_POWER",
+    "relics.PHILOSOPHERS_STONE"
+  ],
+  "relics.PHYLACTERY_UNBOUND": [
+    "relics.PHYLACTERY_UNBOUND"
+  ],
+  "relics.PLANISPHERE": [
+    "relics.PLANISPHERE"
+  ],
+  "relics.POCKETWATCH": [
+    "relics.POCKETWATCH"
+  ],
+  "relics.POLLINOUS_CORE": [
+    "relics.POLLINOUS_CORE"
+  ],
+  "relics.POMANDER": [
+    "relics.POMANDER"
+  ],
+  "relics.POTION_BELT": [
+    "relics.POTION_BELT"
+  ],
+  "relics.POWER_CELL": [
+    "relics.POWER_CELL"
+  ],
+  "relics.PRAYER_WHEEL": [
+    "relics.PRAYER_WHEEL"
+  ],
+  "relics.PRECARIOUS_SHEARS": [
+    "relics.PRECARIOUS_SHEARS"
+  ],
+  "relics.PRECISE_SCISSORS": [
+    "relics.PRECISE_SCISSORS"
+  ],
+  "relics.PRESERVED_FOG": [
+    "cards.FOLLY",
+    "relics.PRESERVED_FOG"
+  ],
+  "relics.PRISMATIC_GEM": [
+    "relics.PRISMATIC_GEM"
+  ],
+  "relics.PUMPKIN_CANDLE": [
+    "relics.PUMPKIN_CANDLE"
+  ],
+  "relics.PUNCH_DAGGER": [
+    "enchantments.MOMENTUM",
+    "relics.PUNCH_DAGGER"
+  ],
+  "relics.RADIANT_PEARL": [
+    "cards.LUMINESCE",
+    "relics.RADIANT_PEARL"
+  ],
+  "relics.RAINBOW_RING": [
+    "powers.STRENGTH_POWER",
+    "powers.DEXTERITY_POWER",
+    "relics.RAINBOW_RING"
+  ],
+  "relics.RAZOR_TOOTH": [
+    "relics.RAZOR_TOOTH"
+  ],
+  "relics.RED_MASK": [
+    "powers.WEAK_POWER",
+    "relics.RED_MASK"
+  ],
+  "relics.RED_SKULL": [
+    "powers.STRENGTH_POWER",
+    "relics.RED_SKULL"
+  ],
+  "relics.REGALITE": [
+    "relics.REGALITE"
+  ],
+  "relics.REGAL_PILLOW": [
+    "relics.REGAL_PILLOW"
+  ],
+  "relics.REPTILE_TRINKET": [
+    "powers.STRENGTH_POWER",
+    "relics.REPTILE_TRINKET"
+  ],
+  "relics.RINGING_TRIANGLE": [
+    "relics.RINGING_TRIANGLE"
+  ],
+  "relics.RING_OF_THE_DRAKE": [
+    "relics.RING_OF_THE_DRAKE"
+  ],
+  "relics.RING_OF_THE_SNAKE": [
+    "relics.RING_OF_THE_SNAKE"
+  ],
+  "relics.RIPPLE_BASIN": [
+    "relics.RIPPLE_BASIN"
+  ],
+  "relics.ROYAL_POISON": [
+    "relics.ROYAL_POISON"
+  ],
+  "relics.ROYAL_STAMP": [
+    "enchantments.ROYALLY_APPROVED",
+    "relics.ROYAL_STAMP"
+  ],
+  "relics.RUINED_HELMET": [
+    "powers.STRENGTH_POWER",
+    "relics.RUINED_HELMET"
+  ],
+  "relics.RUNIC_CAPACITOR": [
+    "relics.RUNIC_CAPACITOR"
+  ],
+  "relics.RUNIC_PYRAMID": [
+    "relics.RUNIC_PYRAMID"
+  ],
+  "relics.SAI": [
+    "relics.SAI"
+  ],
+  "relics.SAND_CASTLE": [
+    "relics.SAND_CASTLE"
+  ],
+  "relics.SCREAMING_FLAGON": [
+    "relics.SCREAMING_FLAGON"
+  ],
+  "relics.SCROLL_BOXES": [
+    "relics.SCROLL_BOXES"
+  ],
+  "relics.SEAL_OF_GOLD": [
+    "relics.SEAL_OF_GOLD"
+  ],
+  "relics.SEA_GLASS": [
+    "relics.SEA_GLASS"
+  ],
+  "relics.SELF_FORMING_CLAY": [
+    "relics.SELF_FORMING_CLAY"
+  ],
+  "relics.SERE_TALON": [
+    "cards.WISH",
+    "relics.SERE_TALON"
+  ],
+  "relics.SHOVEL": [
+    "relics.SHOVEL"
+  ],
+  "relics.SHURIKEN": [
+    "powers.STRENGTH_POWER",
+    "relics.SHURIKEN"
+  ],
+  "relics.SIGNET_RING": [
+    "relics.SIGNET_RING"
+  ],
+  "relics.SILKEN_TRESS": [
+    "enchantments.GLAM",
+    "relics.SILKEN_TRESS"
+  ],
+  "relics.SILVER_CRUCIBLE": [
+    "relics.SILVER_CRUCIBLE"
+  ],
+  "relics.SLING_OF_COURAGE": [
+    "powers.STRENGTH_POWER",
+    "relics.SLING_OF_COURAGE"
+  ],
+  "relics.SMALL_CAPSULE": [
+    "relics.SMALL_CAPSULE"
+  ],
+  "relics.SNECKO_EYE": [
+    "powers.CONFUSED_POWER",
+    "relics.SNECKO_EYE"
+  ],
+  "relics.SNECKO_SKULL": [
+    "powers.POISON_POWER",
+    "relics.SNECKO_SKULL"
+  ],
+  "relics.SOZU": [
+    "relics.SOZU"
+  ],
+  "relics.SPARKLING_ROUGE": [
+    "powers.STRENGTH_POWER",
+    "powers.DEXTERITY_POWER",
+    "relics.SPARKLING_ROUGE"
+  ],
+  "relics.SPIKED_GAUNTLETS": [
+    "relics.SPIKED_GAUNTLETS"
+  ],
+  "relics.STONE_CALENDAR": [
+    "relics.STONE_CALENDAR"
+  ],
+  "relics.STONE_CRACKER": [
+    "relics.STONE_CRACKER"
+  ],
+  "relics.STONE_HUMIDIFIER": [
+    "relics.STONE_HUMIDIFIER"
+  ],
+  "relics.STORYBOOK": [
+    "cards.BRIGHTEST_FLAME",
+    "relics.STORYBOOK"
+  ],
+  "relics.STRAWBERRY": [
+    "relics.STRAWBERRY"
+  ],
+  "relics.STRIKE_DUMMY": [
+    "relics.STRIKE_DUMMY"
+  ],
+  "relics.STURDY_CLAMP": [
+    "relics.STURDY_CLAMP"
+  ],
+  "relics.SWORD_OF_JADE": [
+    "powers.STRENGTH_POWER",
+    "relics.SWORD_OF_JADE"
+  ],
+  "relics.SWORD_OF_STONE": [
+    "relics.SWORD_OF_STONE"
+  ],
+  "relics.SYMBIOTIC_VIRUS": [
+    "orbs.DARK_ORB",
+    "relics.SYMBIOTIC_VIRUS"
+  ],
+  "relics.TANXS_WHISTLE": [
+    "cards.WHISTLE",
+    "relics.TANXS_WHISTLE"
+  ],
+  "relics.TEA_OF_DISCOURTESY": [
+    "cards.DAZED",
+    "relics.TEA_OF_DISCOURTESY"
+  ],
+  "relics.THE_ABACUS": [
+    "relics.THE_ABACUS"
+  ],
+  "relics.THE_BOOT": [
+    "relics.THE_BOOT"
+  ],
+  "relics.THE_COURIER": [
+    "relics.THE_COURIER"
+  ],
+  "relics.THROWING_AXE": [
+    "relics.THROWING_AXE"
+  ],
+  "relics.TINGSHA": [
+    "relics.TINGSHA"
+  ],
+  "relics.TINY_MAILBOX": [
+    "relics.TINY_MAILBOX"
+  ],
+  "relics.TOASTY_MITTENS": [
+    "powers.STRENGTH_POWER",
+    "relics.TOASTY_MITTENS"
+  ],
+  "relics.TOOLBOX": [
+    "relics.TOOLBOX"
+  ],
+  "relics.TOUCH_OF_OROBAS": [
+    "relics.TOUCH_OF_OROBAS"
+  ],
+  "relics.TOUGH_BANDAGES": [
+    "relics.TOUGH_BANDAGES"
+  ],
+  "relics.TOXIC_EGG": [
+    "relics.TOXIC_EGG"
+  ],
+  "relics.TOY_BOX": [
+    "relics.TOY_BOX"
+  ],
+  "relics.TRI_BOOMERANG": [
+    "enchantments.INSTINCT",
+    "relics.TRI_BOOMERANG"
+  ],
+  "relics.TUNGSTEN_ROD": [
+    "relics.TUNGSTEN_ROD"
+  ],
+  "relics.TUNING_FORK": [
+    "relics.TUNING_FORK"
+  ],
+  "relics.TWISTED_FUNNEL": [
+    "powers.POISON_POWER",
+    "relics.TWISTED_FUNNEL"
+  ],
+  "relics.UNCEASING_TOP": [
+    "relics.UNCEASING_TOP"
+  ],
+  "relics.UNDYING_SIGIL": [
+    "powers.DOOM_POWER",
+    "relics.UNDYING_SIGIL"
+  ],
+  "relics.UNSETTLING_LAMP": [
+    "relics.UNSETTLING_LAMP"
+  ],
+  "relics.VAJRA": [
+    "powers.STRENGTH_POWER",
+    "relics.VAJRA"
+  ],
+  "relics.VAKUU_CARD_SELECTOR": [
+    "relics.VAKUU_CARD_SELECTOR"
+  ],
+  "relics.VAMBRACE": [
+    "relics.VAMBRACE"
+  ],
+  "relics.VELVET_CHOKER": [
+    "relics.VELVET_CHOKER"
+  ],
+  "relics.VENERABLE_TEA_SET": [
+    "relics.VENERABLE_TEA_SET"
+  ],
+  "relics.VERY_HOT_COCOA": [
+    "relics.VERY_HOT_COCOA"
+  ],
+  "relics.VEXING_PUZZLEBOX": [
+    "relics.VEXING_PUZZLEBOX"
+  ],
+  "relics.VITRUVIAN_MINION": [
+    "relics.VITRUVIAN_MINION"
+  ],
+  "relics.WAR_HAMMER": [
+    "relics.WAR_HAMMER"
+  ],
+  "relics.WAR_PAINT": [
+    "relics.WAR_PAINT"
+  ],
+  "relics.WHETSTONE": [
+    "relics.WHETSTONE"
+  ],
+  "relics.WHISPERING_EARRING": [
+    "relics.WHISPERING_EARRING"
+  ],
+  "relics.WHITE_BEAST_STATUE": [
+    "relics.WHITE_BEAST_STATUE"
+  ],
+  "relics.WHITE_STAR": [
+    "relics.WHITE_STAR"
+  ],
+  "relics.WINGED_BOOTS": [
+    "relics.WINGED_BOOTS"
+  ],
+  "relics.WING_CHARM": [
+    "enchantments.SWIFT",
+    "relics.WING_CHARM"
+  ],
+  "relics.WONGOS_MYSTERY_TICKET": [
+    "relics.WONGOS_MYSTERY_TICKET"
+  ],
+  "relics.WONGO_CUSTOMER_APPRECIATION_BADGE": [
+    "relics.WONGO_CUSTOMER_APPRECIATION_BADGE"
+  ],
+  "relics.YUMMY_COOKIE": [
+    "relics.YUMMY_COOKIE"
+  ]
+}
