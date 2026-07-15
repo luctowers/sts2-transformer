@@ -44,9 +44,33 @@ DESCRIPTION_FIELDS: Mapping[str, tuple[str, ...]] = {
     "intents": ("description",),
 }
 
-# Tables whose entities can be referenced from other entities' descriptions.
-# Enchantments have titles but no reference marker (see docs/TOKENIZER.md).
-REFERENCEABLE_TABLES = ("cards", "relics", "powers", "potions", "monsters", "orbs")
+# Tables whose entities can be referenced from other entities' descriptions -
+# every titled entity table. Each table's own name doubles as the namespace
+# tag in its <REF_START> blocks (docs/TOKENIZER.md "The scheme"). Most names
+# occur literally in ordinary game text; those that never do (e.g.
+# "enchantments", whose only literal form is the singular "enchantment") are
+# added as tag-only vocab words by build_vocab.
+#
+# Order is a collision priority: when two tables share a title surface form
+# (e.g. both a monster "Axebot" and the "Axebot" encounter named after it), the
+# LATER table wins that form in the lexicon (see build_reference_lexicon). So
+# "encounters" comes first, giving it the lowest priority: its titles are just
+# its constituent monsters' names or combat-group labels, so a bare "Axebot" in
+# prose must resolve to the monster, never the encounter. Encounters still get
+# their own namespace (for the entity's prepend tag) and win the ~40 titles
+# that are genuinely encounter-only ("Cultists", "Group of Slimes", ...).
+REFERENCEABLE_TABLES = (
+    "encounters",
+    "cards",
+    "relics",
+    "powers",
+    "potions",
+    "monsters",
+    "orbs",
+    "enchantments",
+    "afflictions",
+    "events",
+)
 
 
 def load_table(table: str) -> dict[str, str]:

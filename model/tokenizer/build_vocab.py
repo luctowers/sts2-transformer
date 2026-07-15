@@ -105,7 +105,8 @@ def _cross_check_hover_tips(matcher: ReferenceMatcher) -> list[str]:
                 if key == (table, entry_id):
                     continue  # self-reference isn't required to appear literally
                 if ref.table not in loc_tables.REFERENCEABLE_TABLES:
-                    continue  # e.g. enchantments aren't a referenceable table, can't match
+                    continue  # defensive: a hover-tip family that isn't referenceable
+                    # (none today) has no surface form to match, so skip it
                 if key not in {(m.table, m.entry_id) for m in matched}:
                     warnings.append(
                         f"{table}.{entry_id}: declares a hover tip for "
@@ -126,15 +127,14 @@ def compute() -> dict:
 
     # <REF_START> blocks reuse each referenceable table's own name as its
     # namespace tag (docs/TOKENIZER.md "The scheme"), so every one of them
-    # must actually occur as ordinary text somewhere in the game's
-    # descriptions - fail loudly at build time rather than let the runtime
-    # silently emit <UNK> for a reference's namespace word.
-    missing_namespace_words = [t for t in loc_tables.REFERENCEABLE_TABLES if t not in words]
-    if missing_namespace_words:
-        raise ValueError(
-            "reference namespace word(s) missing from the mechanics vocab: "
-            f"{missing_namespace_words}"
-        )
+    # must be a vocab token or the runtime silently emits <UNK> for a
+    # reference's namespace word. Most occur as ordinary game text ("draw a
+    # card", ...) and are already in `words`; the rest (e.g. "enchantments",
+    # whose only literal form is the singular "enchantment") are added here as
+    # tag-only words, trained via reference blocks rather than description
+    # text. Force-adding all of them means a future patch dropping a name from
+    # game text can never break the runtime - it just makes that tag tag-only.
+    words |= set(loc_tables.REFERENCEABLE_TABLES)
 
     warnings = []
     if unrecognized:

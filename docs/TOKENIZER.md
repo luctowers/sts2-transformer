@@ -17,8 +17,9 @@ patches in new content. Two rules make that hold:
    out-of-vocab word because the sim must use the game's description strings
    verbatim (sim entities carry their loc-table entry ID; hand-written
    description text is forbidden).
-2. **Entity titles never enter the vocabulary.** Card/relic/power/potion/
-   monster/orb names are an open class — every patch adds more — so a title
+2. **Entity titles never enter the vocabulary.** Every titled entity's name
+   (cards, relics, powers, potions, monsters, orbs, enchantments, afflictions,
+   events, encounters) is an open class — every patch adds more — so a title
    occurring inside a description is substituted with a *reference ID block*
    (`<REF_START> cards <ID_0> <ID_F> <ID_2>`, ...) at tokenize time. Only the closed
    class of mechanics words in description templates ("deal", "damage",
@@ -33,7 +34,7 @@ below), so no future scope growth can shift token IDs.
 
 | Class | Examples | Notes |
 |---|---|---|
-| Mechanics words | `deal`, `damage`, `block`, `exhaust`, `hand` | From description templates, lowercased. One word = one token, split on whitespace; spaces are implicit and not part of any token. Doubles as the namespace tag inside a reference ID block (see `<REF_START>` below) — the six referenceable tables' own names (`cards`, `relics`, `powers`, `potions`, `monsters`, `orbs`) are ordinary words in this set, since each occurs literally in the game's text on its own (e.g. "draw a card", "ALL Claw cards"). |
+| Mechanics words | `deal`, `damage`, `block`, `exhaust`, `hand` | From description templates, lowercased. One word = one token, split on whitespace; spaces are implicit and not part of any token. Doubles as the namespace tag inside a reference ID block (see `<REF_START>` below) — most referenceable tables' own names (`cards`, `relics`, `powers`, `potions`, `monsters`, `orbs`, `afflictions`) are ordinary words in this set, since each occurs literally in the game's text on its own (e.g. "draw a card", "ALL Claw cards"). The exceptions are `enchantments`, `events`, and `encounters`, whose plural table names never occur literally in the scanned text, so they're force-added as tag-only words (see "The scheme"). |
 | `<REF_START>` | `<REF_START>` | A single, generic token that opens every reference ID block, regardless of which table the referenced entity comes from. Followed by a namespace word (from the mechanics-words class above) and then `ID_WIDTH` ID digits: `<REF_START> cards <ID_0> <ID_F> <ID_2>`. Fixed like the specials below, not derived from `decomp/`. |
 | ID digits | `<ID_0>`–`<ID_F>` | Base-16 identity digits: exactly `ID_WIDTH = 3` of them follow a reference's namespace word, spelling the entity's per-episode ordinal (4096 IDs per namespace). Disjoint from the text digits below — identity is meaning-free and re-randomized every sample, so sharing rows with magnitude digits would inject identity noise into number semantics. |
 | Digits | `0`–`9` | Numbers are emitted digit-by-digit (`18` → `1` `8`), so any magnitude works with a 10-token closed class. The one deliberate exception to one-word-one-token. |
@@ -140,9 +141,20 @@ references) and are ignored.
 Class words are **not** references: `Attack`/`Skill`/`Power`/`Status`/`Curse`
 ("a random Attack") are card *types* and stay ordinary vocab words, as do
 keyword terms with their own semantics (`Exhaust`, `Ethereal`, pile names).
-The rule of thumb: if it has a `.title` entry in an entity table
-(cards/relics/powers/potions/monsters/orbs), it's a reference; if it lives in
-`card_keywords.json` or is un-titled mechanics text, it's vocab.
+The rule of thumb: if it has a `.title` entry in a referenceable entity table
+(any of cards/relics/powers/potions/monsters/orbs/enchantments/afflictions/
+events/encounters), it's a reference; if it lives in `card_keywords.json` or is
+un-titled mechanics text, it's vocab.
+
+When two tables claim the same surface form the lexicon resolves it by table
+order (later wins — see `REFERENCEABLE_TABLES`). `encounters` is ordered first,
+i.e. lowest priority, because its titles are just its constituent monsters'
+names ("Axebot", "Queen") or combat-group labels, and some are shared across
+several encounter IDs: a bare "Axebot" in prose must resolve to the *monster*,
+not the encounter. Encounters still get their own namespace (an encounter is an
+entity with a prepend tag, and its link to its monsters is an entity-encoding
+concern) and still win the titles that are genuinely encounter-only ("Cultists",
+"Group of Slimes", ...).
 
 ## The scheme
 
@@ -167,15 +179,25 @@ learn to see past) — accepted as the cost of scalability.
 
 The namespace word is not a dedicated marker token (`<CARD_REF>`, ...) but
 the referenceable table's own name (`cards`, `orbs`, ...), reused as-is: it's
-already an ordinary, densely-trained mechanics word (`build_vocab.py`
-verifies this at build time — see "Vocab build"), and its meaning as "this
-reference names a card" isn't in tension with its meaning as an ordinary
-noun, unlike the ID digits, so sharing the row costs nothing. This also means
-a genuinely new referenceable table costs zero *dedicated* vocab tokens as
-long as its name already occurs in game text (the common case); table
-additions are rare regardless, since they're a different, much smaller class
-of change than the per-entity growth (new cards, new relics, ...) this
-scheme was built to absorb for free.
+usually already an ordinary, densely-trained mechanics word, and its meaning
+as "this reference names a card" isn't in tension with its meaning as an
+ordinary noun, unlike the ID digits, so sharing the row costs nothing. This
+also means a genuinely new referenceable table usually costs zero *dedicated*
+vocab tokens, as long as its name already occurs in game text (the common
+case); table additions are rare regardless, since they're a different, much
+smaller class of change than the per-entity growth (new cards, new relics,
+...) this scheme was built to absorb for free.
+
+A few table names don't occur in the scanned text: `enchantments` (prose only
+ever says the singular "enchantment"), and `events`/`encounters` (titles-only
+tables whose plural names never appear in a scanned description). Rather than
+special-case their namespace tags, `build_vocab.py` force-adds every
+referenceable table's name to the vocab (see "Vocab build"), so these become
+*tag-only* words — carrying no free-text occurrences, but trained just as
+densely as any namespace tag, since each fires on every reference block of its
+type and every such entity's prepend tag. This also makes the scheme robust to
+a future patch dropping some other table's name from prose: that name simply
+becomes tag-only too, never an `<UNK>`.
 
 Details:
 
@@ -247,17 +269,18 @@ Steps:
 
 1. Read the gameplay tables from `decomp/pck/localization/eng/`: `cards`,
    `card_keywords`, `powers`, `relics`, `potions`, `orbs`, `afflictions`,
-   `enchantments`, `modifiers`, `intents`, `monsters` (titles only, for the
-   reference lexicon). Include all of them from day one even though the first
-   milestone is combat-only — scope growth must not change the vocab.
+   `enchantments`, `modifiers`, `intents`, and — titles only, for the
+   reference lexicon — `monsters`, `events`, and `encounters`. Include all of
+   them from day one even though the first milestone is combat-only — scope
+   growth must not change the vocab.
 2. Take description-like fields (`.description`, `.smartDescription`,
    `.selectionScreenPrompt`, ...); skip flavor text.
 3. Expand every SmartFormat branch, apply the normalization pipeline with
-   titles substituted out, collect the word set. Assert every referenceable
-   table's own name (`cards`, `orbs`, ...) landed in that word set — each one
-   doubles as a namespace tag, so a table whose name never occurs literally
-   in game text would otherwise silently produce `<UNK>` at tokenize time
-   (see "The scheme").
+   titles substituted out, collect the word set. Force-add every referenceable
+   table's own name (`cards`, `orbs`, ...) to that word set — each doubles as a
+   namespace tag, so the runtime would otherwise emit `<UNK>` for it. Most are
+   already present from ordinary text; the rest (currently `enchantments`,
+   `events`, `encounters`) become tag-only words (see "The scheme").
 4. Emit `model/tokenizer/vocab.json`: sorted word list + `<REF_START>`/
    ID-digit/digit/symbol/special tokens, plus `ID_WIDTH`, the game version,
    and a content hash. Checked into git; regeneration after a game update is
@@ -314,7 +337,7 @@ uv run pytest model/tokenizer/tests
 
 `build_vocab` prints `WARNING:` lines for hover-tip cross-check mismatches
 (a text reference with no declared hover tip, or vice versa) — these are for
-manual review, not build failures; the current run prints 86 of them (mostly
+manual review, not build failures; the current run prints 100 of them (mostly
 `monsters.OSTY` combat-log references and `cards.SOVEREIGN_BLADE` hover tips
 declared on cards whose rendered text picks a branch that doesn't literally
 say "Sovereign Blade"). A separate class of warning, "N unrecognized
@@ -323,15 +346,16 @@ and must stay empty.
 
 ## Current vocab (v0.108.0, commit 58694f64)
 
-571 tokens total:
+556 tokens total:
 
 - 2 specials (`<PAD>`, `<UNK>`)
 - 10 digits (`0`–`9`)
 - 8 symbols (`<ENERGY>`, `<STAR>`, `+`, `%`, `.`, `,`, `:`, `X`)
 - 1 reference start marker (`<REF_START>`)
 - 16 ID digits (`<ID_0>`–`<ID_F>`)
-- 534 mechanics words (includes `cards`, `relics`, `powers`, `potions`,
-  `monsters`, `orbs` — reused as reference namespace tags — and `x`, the
+- 519 mechanics words (includes `cards`, `relics`, `powers`, `potions`,
+  `monsters`, `orbs`, `afflictions`, and the tag-only `enchantments`,
+  `events`, `encounters` — reused as reference namespace tags — and `x`, the
   ordinary lowercase multiplier suffix, distinct from the symbol `X`)
 
 `ID_WIDTH = 3`, so each reference spells 3 of the 16 ID-digit rows, not

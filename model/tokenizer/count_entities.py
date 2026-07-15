@@ -36,6 +36,10 @@ MODEL_FAMILIES = {
     "MegaCrit.Sts2.Core.Models.Potions": ("potions", "PotionModel"),
     "MegaCrit.Sts2.Core.Models.Monsters": ("monsters", "MonsterModel"),
     "MegaCrit.Sts2.Core.Models.Orbs": ("orbs", "OrbModel"),
+    "MegaCrit.Sts2.Core.Models.Enchantments": ("enchantments", "EnchantmentModel"),
+    "MegaCrit.Sts2.Core.Models.Afflictions": ("afflictions", "AfflictionModel"),
+    "MegaCrit.Sts2.Core.Models.Events": ("events", "EventModel"),
+    "MegaCrit.Sts2.Core.Models.Encounters": ("encounters", "EncounterModel"),
 }
 
 # Matches the one class declaration per decomp file, e.g.

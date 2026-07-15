@@ -1,4 +1,19 @@
 {
+  "A Lone Globe Head": {
+    "table": "encounters",
+    "entry_id": "GLOBE_HEAD_NORMAL",
+    "upgraded": false
+  },
+  "A Lone Nibbit": {
+    "table": "encounters",
+    "entry_id": "NIBBITS_WEAK",
+    "upgraded": false
+  },
+  "A Pair of Nibbits": {
+    "table": "encounters",
+    "entry_id": "NIBBITS_NORMAL",
+    "upgraded": false
+  },
   "A Thousand Cuts": {
     "table": "powers",
     "entry_id": "A_THOUSAND_CUTS_POWER",
@@ -13,6 +28,11 @@
     "table": "cards",
     "entry_id": "ABRASIVE",
     "upgraded": true
+  },
+  "Abyssal Baths": {
+    "table": "events",
+    "entry_id": "ABYSSAL_BATHS",
+    "upgraded": false
   },
   "Accelerant": {
     "table": "powers",
@@ -73,6 +93,11 @@
     "table": "cards",
     "entry_id": "ADRENALINE",
     "upgraded": true
+  },
+  "Adroit": {
+    "table": "enchantments",
+    "entry_id": "ADROIT",
+    "upgraded": false
   },
   "Aeonglass": {
     "table": "monsters",
@@ -149,9 +174,19 @@
     "entry_id": "ALL_FOR_ONE",
     "upgraded": true
   },
+  "Amalgamator": {
+    "table": "events",
+    "entry_id": "AMALGAMATOR",
+    "upgraded": false
+  },
   "Amethyst Aubergine": {
     "table": "relics",
     "entry_id": "AMETHYST_AUBERGINE",
+    "upgraded": false
+  },
+  "An Automaton Pair": {
+    "table": "encounters",
+    "entry_id": "CHOMPERS_NORMAL",
     "upgraded": false
   },
   "Anchor": {
@@ -238,6 +273,11 @@
     "table": "cards",
     "entry_id": "ARMAMENTS",
     "upgraded": true
+  },
+  "Aroma of Chaos": {
+    "table": "events",
+    "entry_id": "AROMA_OF_CHAOS",
+    "upgraded": false
   },
   "Arsenal": {
     "table": "powers",
@@ -488,6 +528,11 @@
     "table": "cards",
     "entry_id": "BATTLE_TRANCE",
     "upgraded": true
+  },
+  "Battleworn Dummy": {
+    "table": "events",
+    "entry_id": "BATTLEWORN_DUMMY",
+    "upgraded": false
   },
   "Beacon of Hope": {
     "table": "powers",
@@ -899,6 +944,11 @@
     "entry_id": "BOUNCING_FLASK",
     "upgraded": true
   },
+  "Bound": {
+    "table": "afflictions",
+    "entry_id": "BOUND",
+    "upgraded": false
+  },
   "Bound Phylactery": {
     "table": "relics",
     "entry_id": "BOUND_PHYLACTERY",
@@ -924,9 +974,24 @@
     "entry_id": "BOWLBUG_SILK",
     "upgraded": false
   },
+  "Bowlbug Swarm": {
+    "table": "encounters",
+    "entry_id": "BOWLBUGS_NORMAL",
+    "upgraded": false
+  },
+  "Bowlbugs": {
+    "table": "encounters",
+    "entry_id": "BOWLBUGS_WEAK",
+    "upgraded": false
+  },
   "Bowler Hat": {
     "table": "relics",
     "entry_id": "BOWLER_HAT",
+    "upgraded": false
+  },
+  "Brain Leech": {
+    "table": "events",
+    "entry_id": "BRAIN_LEECH",
     "upgraded": false
   },
   "Brand": {
@@ -1013,6 +1078,11 @@
     "table": "cards",
     "entry_id": "BUFFER",
     "upgraded": true
+  },
+  "Bugslayer": {
+    "table": "events",
+    "entry_id": "BUGSLAYER",
+    "upgraded": false
   },
   "Bulk Up": {
     "table": "cards",
@@ -1148,6 +1218,11 @@
     "table": "cards",
     "entry_id": "BYRDONIS_EGG",
     "upgraded": true
+  },
+  "Byrdonis Nest": {
+    "table": "events",
+    "entry_id": "BYRDONIS_NEST",
+    "upgraded": false
   },
   "Byrdpip": {
     "table": "monsters",
@@ -1474,6 +1549,11 @@
     "entry_id": "CLOAK_OF_STARS",
     "upgraded": true
   },
+  "Clone": {
+    "table": "enchantments",
+    "entry_id": "CLONE",
+    "upgraded": false
+  },
   "Clumsy": {
     "table": "cards",
     "entry_id": "CLUMSY",
@@ -1509,9 +1589,19 @@
     "entry_id": "COLLISION_COURSE",
     "upgraded": true
   },
+  "Colorful Philosophers": {
+    "table": "events",
+    "entry_id": "COLORFUL_PHILOSOPHERS",
+    "upgraded": false
+  },
   "Colorless Potion": {
     "table": "potions",
     "entry_id": "COLORLESS_POTION",
+    "upgraded": false
+  },
+  "Colossal Flower": {
+    "table": "events",
+    "entry_id": "COLOSSAL_FLOWER",
     "upgraded": false
   },
   "Colossus": {
@@ -1604,6 +1694,11 @@
     "entry_id": "CONSTRICT_POWER",
     "upgraded": false
   },
+  "Construct Menagerie": {
+    "table": "encounters",
+    "entry_id": "CONSTRUCT_MENAGERIE_NORMAL",
+    "upgraded": false
+  },
   "Consuming Shadow": {
     "table": "powers",
     "entry_id": "CONSUMING_SHADOW_POWER",
@@ -1664,6 +1759,11 @@
     "entry_id": "CORPSE_SLUG",
     "upgraded": false
   },
+  "Corpse Slugs": {
+    "table": "encounters",
+    "entry_id": "CORPSE_SLUGS_WEAK",
+    "upgraded": false
+  },
   "Corrosive Wave": {
     "table": "powers",
     "entry_id": "CORROSIVE_WAVE_POWER",
@@ -1673,6 +1773,11 @@
     "table": "cards",
     "entry_id": "CORROSIVE_WAVE",
     "upgraded": true
+  },
+  "Corrupted": {
+    "table": "enchantments",
+    "entry_id": "CORRUPTED",
+    "upgraded": false
   },
   "Corruption": {
     "table": "powers",
@@ -1799,9 +1904,19 @@
     "entry_id": "CRUSHER",
     "upgraded": false
   },
+  "Crystal Sphere": {
+    "table": "events",
+    "entry_id": "CRYSTAL_SPHERE",
+    "upgraded": false
+  },
   "Cubex Construct": {
     "table": "monsters",
     "entry_id": "CUBEX_CONSTRUCT",
+    "upgraded": false
+  },
+  "Cultists": {
+    "table": "encounters",
+    "entry_id": "CULTISTS_NORMAL",
     "upgraded": false
   },
   "Cunning Potion": {
@@ -2169,6 +2284,16 @@
     "entry_id": "DEMONIC_SHIELD",
     "upgraded": true
   },
+  "Dense Vegetation": {
+    "table": "events",
+    "entry_id": "DENSE_VEGETATION",
+    "upgraded": false
+  },
+  "Deprecated": {
+    "table": "enchantments",
+    "entry_id": "DEPRECATED_ENCHANTMENT",
+    "upgraded": false
+  },
   "Deprecated Card": {
     "table": "cards",
     "entry_id": "DEPRECATED_CARD",
@@ -2178,6 +2303,16 @@
     "table": "cards",
     "entry_id": "DEPRECATED_CARD",
     "upgraded": true
+  },
+  "Deprecated Encounter": {
+    "table": "encounters",
+    "entry_id": "DEPRECATED_ENCOUNTER",
+    "upgraded": false
+  },
+  "Deprecated Event": {
+    "table": "events",
+    "entry_id": "DEPRECATED_EVENT",
+    "upgraded": false
   },
   "Deprecated Monster": {
     "table": "monsters",
@@ -2339,6 +2474,11 @@
     "entry_id": "DODGE_AND_ROLL",
     "upgraded": true
   },
+  "Doll Room": {
+    "table": "events",
+    "entry_id": "DOLL_ROOM",
+    "upgraded": false
+  },
   "Dolly's Mirror": {
     "table": "relics",
     "entry_id": "DOLLYS_MIRROR",
@@ -2357,6 +2497,11 @@
   "Doom": {
     "table": "powers",
     "entry_id": "DOOM_POWER",
+    "upgraded": false
+  },
+  "Doors of Light and Dark": {
+    "table": "events",
+    "entry_id": "DOORS_OF_LIGHT_AND_DARK",
     "upgraded": false
   },
   "Double Damage": {
@@ -2437,6 +2582,11 @@
   "Droplet of Precognition": {
     "table": "potions",
     "entry_id": "DROPLET_OF_PRECOGNITION",
+    "upgraded": false
+  },
+  "Drowning Beacon": {
+    "table": "events",
+    "entry_id": "DROWNING_BEACON",
     "upgraded": false
   },
   "Drum of Battle": {
@@ -2564,6 +2714,11 @@
     "entry_id": "ENDLESS_APPETITE",
     "upgraded": false
   },
+  "Endless Conveyor": {
+    "table": "events",
+    "entry_id": "ENDLESS_CONVEYOR",
+    "upgraded": false
+  },
   "Energy Next Turn": {
     "table": "powers",
     "entry_id": "ENERGY_NEXT_TURN_POWER",
@@ -2607,6 +2762,11 @@
   "Enrage": {
     "table": "powers",
     "entry_id": "ENRAGE_POWER",
+    "upgraded": false
+  },
+  "Entangled": {
+    "table": "afflictions",
+    "entry_id": "ENTANGLED",
     "upgraded": false
   },
   "Enthralled": {
@@ -2727,6 +2887,11 @@
   "Exoskeleton": {
     "table": "monsters",
     "entry_id": "EXOSKELETON",
+    "upgraded": false
+  },
+  "Exoskeletons": {
+    "table": "encounters",
+    "entry_id": "EXOSKELETONS_WEAK",
     "upgraded": false
   },
   "Expect a Fight": {
@@ -2917,6 +3082,11 @@
   "Fiddle": {
     "table": "relics",
     "entry_id": "FIDDLE",
+    "upgraded": false
+  },
+  "Field of Man-Sized Holes": {
+    "table": "events",
+    "entry_id": "FIELD_OF_MAN_SIZED_HOLES",
     "upgraded": false
   },
   "Fiend Fire": {
@@ -3329,6 +3499,11 @@
     "entry_id": "GALVANIC_POWER",
     "upgraded": false
   },
+  "Galvanized": {
+    "table": "afflictions",
+    "entry_id": "GALVANIZED",
+    "upgraded": false
+  },
   "Gambler's Brew": {
     "table": "potions",
     "entry_id": "GAMBLERS_BREW",
@@ -3464,6 +3639,11 @@
     "entry_id": "GLACIER",
     "upgraded": true
   },
+  "Glam": {
+    "table": "enchantments",
+    "entry_id": "GLAM",
+    "upgraded": false
+  },
   "Glass": {
     "table": "orbs",
     "entry_id": "GLASS_ORB",
@@ -3594,6 +3774,11 @@
     "entry_id": "GOOD_INSTINCTS",
     "upgraded": true
   },
+  "Goopy": {
+    "table": "enchantments",
+    "entry_id": "GOOPY",
+    "upgraded": false
+  },
   "Gorget": {
     "table": "relics",
     "entry_id": "GORGET",
@@ -3623,6 +3808,11 @@
     "table": "cards",
     "entry_id": "GRAVE_WARDEN",
     "upgraded": true
+  },
+  "Grave of the Forgotten": {
+    "table": "events",
+    "entry_id": "GRAVE_OF_THE_FORGOTTEN",
+    "upgraded": false
   },
   "Graveblast": {
     "table": "cards",
@@ -3657,6 +3847,11 @@
   "Gremlin Merc": {
     "table": "monsters",
     "entry_id": "GREMLIN_MERC",
+    "upgraded": false
+  },
+  "Group of Slimes": {
+    "table": "encounters",
+    "entry_id": "SLIMES_WEAK",
     "upgraded": false
   },
   "Guardbot": {
@@ -3934,6 +4129,11 @@
     "entry_id": "HEX_POWER",
     "upgraded": false
   },
+  "Hexed": {
+    "table": "afflictions",
+    "entry_id": "HEXED",
+    "upgraded": false
+  },
   "Hibernate": {
     "table": "powers",
     "entry_id": "HIBERNATE_POWER",
@@ -4039,6 +4239,11 @@
     "entry_id": "HUDDLE_UP",
     "upgraded": true
   },
+  "Hungry for Mushrooms": {
+    "table": "events",
+    "entry_id": "HUNGRY_FOR_MUSHROOMS",
+    "upgraded": false
+  },
   "Hunter Killer": {
     "table": "monsters",
     "entry_id": "HUNTER_KILLER",
@@ -4097,6 +4302,11 @@
   "Imbalanced": {
     "table": "powers",
     "entry_id": "IMBALANCED_POWER",
+    "upgraded": false
+  },
+  "Imbued": {
+    "table": "enchantments",
+    "entry_id": "IMBUED",
     "upgraded": false
   },
   "Imitation Learning": {
@@ -4189,6 +4399,11 @@
     "entry_id": "INFESTED_POWER",
     "upgraded": false
   },
+  "Infested Automaton": {
+    "table": "events",
+    "entry_id": "INFESTED_AUTOMATON",
+    "upgraded": false
+  },
   "Infested Prism": {
     "table": "monsters",
     "entry_id": "INFESTED_PRISM",
@@ -4242,6 +4457,21 @@
   "Inklet": {
     "table": "monsters",
     "entry_id": "INKLET",
+    "upgraded": false
+  },
+  "Inklets": {
+    "table": "encounters",
+    "entry_id": "INKLETS_NORMAL",
+    "upgraded": false
+  },
+  "Inky": {
+    "table": "enchantments",
+    "entry_id": "INKY",
+    "upgraded": false
+  },
+  "Instinct": {
+    "table": "enchantments",
+    "entry_id": "INSTINCT",
     "upgraded": false
   },
   "Intangible": {
@@ -4359,9 +4589,19 @@
     "entry_id": "JUGGLING",
     "upgraded": true
   },
+  "Jungle Maze Adventure": {
+    "table": "events",
+    "entry_id": "JUNGLE_MAZE_ADVENTURE",
+    "upgraded": false
+  },
   "Juzu Bracelet": {
     "table": "relics",
     "entry_id": "JUZU_BRACELET",
+    "upgraded": false
+  },
+  "Kaiser Crab": {
+    "table": "encounters",
+    "entry_id": "KAISER_CRAB_BOSS",
     "upgraded": false
   },
   "Kaleidoscope": {
@@ -4418,6 +4658,11 @@
     "table": "cards",
     "entry_id": "KNIFE_TRAP",
     "upgraded": true
+  },
+  "Knight Gang": {
+    "table": "encounters",
+    "entry_id": "KNIGHTS_ELITE",
+    "upgraded": false
   },
   "Knockdown": {
     "table": "powers",
@@ -4654,6 +4899,11 @@
     "entry_id": "LIZARD_TAIL",
     "upgraded": false
   },
+  "Locked": {
+    "table": "events",
+    "entry_id": "ERROR",
+    "upgraded": false
+  },
   "Looming Fruit": {
     "table": "relics",
     "entry_id": "LOOMING_FRUIT",
@@ -4684,6 +4934,11 @@
     "entry_id": "LOST_WISP",
     "upgraded": false
   },
+  "Lost and Forgotten": {
+    "table": "encounters",
+    "entry_id": "THE_LOST_AND_FORGOTTEN_NORMAL",
+    "upgraded": false
+  },
   "Louse Progenitor": {
     "table": "monsters",
     "entry_id": "LOUSE_PROGENITOR",
@@ -4712,6 +4967,11 @@
   "Luminesces": {
     "table": "cards",
     "entry_id": "LUMINESCE",
+    "upgraded": false
+  },
+  "Luminous Choir": {
+    "table": "events",
+    "entry_id": "LUMINOUS_CHOIR",
     "upgraded": false
   },
   "Lunar Blast": {
@@ -4808,6 +5068,26 @@
     "table": "cards",
     "entry_id": "MANIFEST_AUTHORITY",
     "upgraded": true
+  },
+  "Many Corpse Slugs": {
+    "table": "encounters",
+    "entry_id": "CORPSE_SLUGS_NORMAL",
+    "upgraded": false
+  },
+  "Many Exoskeletons": {
+    "table": "encounters",
+    "entry_id": "EXOSKELETONS_NORMAL",
+    "upgraded": false
+  },
+  "Many Scrolls of Biting": {
+    "table": "encounters",
+    "entry_id": "SCROLLS_OF_BITING_NORMAL",
+    "upgraded": false
+  },
+  "Mass of Mytes": {
+    "table": "encounters",
+    "entry_id": "MYTES_NORMAL",
+    "upgraded": false
   },
   "Massive Scroll": {
     "table": "relics",
@@ -5119,6 +5399,11 @@
     "entry_id": "MOCK_DO_NOT_SCALE_IN_MULTIPLAYER_POWER",
     "upgraded": false
   },
+  "Mock Event": {
+    "table": "events",
+    "entry_id": "MOCK_EVENT_MODEL",
+    "upgraded": false
+  },
   "Mock Extra Turn": {
     "table": "powers",
     "entry_id": "MOCK_EXTRA_TURN_POWER",
@@ -5127,6 +5412,11 @@
   "Mock Free Cards": {
     "table": "powers",
     "entry_id": "MOCK_FREE_CARDS_POWER",
+    "upgraded": false
+  },
+  "Mock Free Enchantment": {
+    "table": "enchantments",
+    "entry_id": "MOCK_FREE_ENCHANTMENT",
     "upgraded": false
   },
   "Mock Gain Block on Attack": {
@@ -5147,6 +5437,11 @@
   "Mock Modify Star Cost": {
     "table": "powers",
     "entry_id": "MOCK_MODIFY_STAR_COST_POWER",
+    "upgraded": false
+  },
+  "Mock No Unplayable Affliction": {
+    "table": "afflictions",
+    "entry_id": "MOCK_NO_UNPLAYABLE_AFFLICTION",
     "upgraded": false
   },
   "Mock Phase Observer": {
@@ -5199,6 +5494,11 @@
     "entry_id": "MOCK_SCALE_IN_MULTIPLAYER_POWER",
     "upgraded": false
   },
+  "Mock Self Damage Affliction": {
+    "table": "afflictions",
+    "entry_id": "MOCK_SELF_DAMAGE_AFFLICTION",
+    "upgraded": false
+  },
   "Mock Skill Card": {
     "table": "cards",
     "entry_id": "MOCK_SKILL_CARD",
@@ -5229,6 +5529,11 @@
     "entry_id": "MOCK_UNHITTABLE_POWER",
     "upgraded": false
   },
+  "Mock Useless Affliction": {
+    "table": "afflictions",
+    "entry_id": "MOCK_USELESS_AFFLICTION",
+    "upgraded": false
+  },
   "Modded": {
     "table": "cards",
     "entry_id": "MODDED",
@@ -5253,6 +5558,11 @@
     "table": "cards",
     "entry_id": "MOLTEN_FIST",
     "upgraded": true
+  },
+  "Momentum": {
+    "table": "enchantments",
+    "entry_id": "MOMENTUM",
+    "upgraded": false
   },
   "Momentum Strike": {
     "table": "cards",
@@ -5283,6 +5593,11 @@
     "table": "cards",
     "entry_id": "MONOLOGUE",
     "upgraded": true
+  },
+  "Morphic Grove": {
+    "table": "events",
+    "entry_id": "MORPHIC_GROVE",
+    "upgraded": false
   },
   "Mr. Struggles": {
     "table": "relics",
@@ -5443,6 +5758,11 @@
     "table": "cards",
     "entry_id": "NIGHTMARE",
     "upgraded": true
+  },
+  "Nimble": {
+    "table": "enchantments",
+    "entry_id": "NIMBLE",
+    "upgraded": false
   },
   "Ninja Scroll": {
     "table": "relics",
@@ -5709,6 +6029,21 @@
     "entry_id": "OVERCLOCK",
     "upgraded": true
   },
+  "Overgrowth Crawlers": {
+    "table": "encounters",
+    "entry_id": "OVERGROWTH_CRAWLERS",
+    "upgraded": false
+  },
+  "Overgrowth Flora": {
+    "table": "encounters",
+    "entry_id": "SNAPPING_JAXFRUIT_NORMAL",
+    "upgraded": false
+  },
+  "Overgrowth Wildlife": {
+    "table": "encounters",
+    "entry_id": "OVERGROWTH_WILDLIFE",
+    "upgraded": false
+  },
   "Ovicopter": {
     "table": "monsters",
     "entry_id": "OVICOPTER",
@@ -5934,6 +6269,11 @@
     "entry_id": "PENDULUM",
     "upgraded": false
   },
+  "Perfect Fit": {
+    "table": "enchantments",
+    "entry_id": "PERFECT_FIT",
+    "upgraded": false
+  },
   "Perfected Strike": {
     "table": "cards",
     "entry_id": "PERFECTED_STRIKE",
@@ -5962,6 +6302,11 @@
   "Phantasmal Gardener": {
     "table": "monsters",
     "entry_id": "PHANTASMAL_GARDENER",
+    "upgraded": false
+  },
+  "Phantasmal Gardeners": {
+    "table": "encounters",
+    "entry_id": "PHANTASMAL_GARDENERS_ELITE",
     "upgraded": false
   },
   "Phantom Blades": {
@@ -6169,6 +6514,11 @@
     "entry_id": "POTION_BELT",
     "upgraded": false
   },
+  "Potion Courier": {
+    "table": "events",
+    "entry_id": "POTION_COURIER",
+    "upgraded": false
+  },
   "Potion of Binding": {
     "table": "potions",
     "entry_id": "POTION_OF_BINDING",
@@ -6289,6 +6639,11 @@
     "entry_id": "PRISMATIC_GEM",
     "upgraded": false
   },
+  "Proceed": {
+    "table": "events",
+    "entry_id": "PROCEED",
+    "upgraded": false
+  },
   "Production": {
     "table": "cards",
     "entry_id": "PRODUCTION",
@@ -6369,9 +6724,19 @@
     "entry_id": "PUNCH_CONSTRUCT",
     "upgraded": false
   },
+  "Punch Constructs": {
+    "table": "encounters",
+    "entry_id": "PUNCH_OFF_EVENT_ENCOUNTER",
+    "upgraded": false
+  },
   "Punch Dagger": {
     "table": "relics",
     "entry_id": "PUNCH_DAGGER",
+    "upgraded": false
+  },
+  "Punch Off": {
+    "table": "events",
+    "entry_id": "PUNCH_OFF",
     "upgraded": false
   },
   "Purity": {
@@ -6514,6 +6879,11 @@
     "entry_id": "RAMPART_POWER",
     "upgraded": false
   },
+  "Ranwid the Elder": {
+    "table": "events",
+    "entry_id": "RANWID_THE_ELDER",
+    "upgraded": false
+  },
   "Rattle": {
     "table": "cards",
     "entry_id": "RATTLE",
@@ -6639,6 +7009,11 @@
     "entry_id": "REFLECT",
     "upgraded": true
   },
+  "Reflections snoitcelfeR": {
+    "table": "events",
+    "entry_id": "REFLECTIONS",
+    "upgraded": false
+  },
   "Reflective Fortress": {
     "table": "powers",
     "entry_id": "REFLECTIVE_FORTRESS_POWER",
@@ -6703,6 +7078,11 @@
     "table": "cards",
     "entry_id": "RELAX",
     "upgraded": true
+  },
+  "Relic Trader": {
+    "table": "events",
+    "entry_id": "RELIC_TRADER",
+    "upgraded": false
   },
   "Rend": {
     "table": "cards",
@@ -6795,8 +7175,8 @@
     "upgraded": false
   },
   "Ringing": {
-    "table": "powers",
-    "entry_id": "RINGING_POWER",
+    "table": "afflictions",
+    "entry_id": "RINGING",
     "upgraded": false
   },
   "Ringing Triangle": {
@@ -6849,6 +7229,11 @@
     "entry_id": "ROLLING_BOULDER",
     "upgraded": true
   },
+  "Room Full of Cheese": {
+    "table": "events",
+    "entry_id": "ROOM_FULL_OF_CHEESE",
+    "upgraded": false
+  },
   "Royal Gamble": {
     "table": "cards",
     "entry_id": "ROYAL_GAMBLE",
@@ -6869,6 +7254,11 @@
     "entry_id": "ROYAL_STAMP",
     "upgraded": false
   },
+  "Royally Approved": {
+    "table": "enchantments",
+    "entry_id": "ROYALLY_APPROVED",
+    "upgraded": false
+  },
   "Royalties": {
     "table": "powers",
     "entry_id": "ROYALTIES_POWER",
@@ -6878,6 +7268,11 @@
     "table": "cards",
     "entry_id": "ROYALTIES",
     "upgraded": true
+  },
+  "Ruby Raiders": {
+    "table": "encounters",
+    "entry_id": "RUBY_RAIDERS_NORMAL",
+    "upgraded": false
   },
   "Ruined Helmet": {
     "table": "relics",
@@ -6937,6 +7332,11 @@
   "Sandpit": {
     "table": "powers",
     "entry_id": "SANDPIT_POWER",
+    "upgraded": false
+  },
+  "Sapphire Seed": {
+    "table": "events",
+    "entry_id": "SAPPHIRE_SEED",
     "upgraded": false
   },
   "Scare": {
@@ -7002,6 +7402,11 @@
   "Scroll of Biting": {
     "table": "monsters",
     "entry_id": "SCROLL_OF_BITING",
+    "upgraded": false
+  },
+  "Scrolls of Biting": {
+    "table": "encounters",
+    "entry_id": "SCROLLS_OF_BITING_WEAK",
     "upgraded": false
   },
   "Sculpting Strike": {
@@ -7092,6 +7497,11 @@
   "Self-Forming Clay": {
     "table": "powers",
     "entry_id": "SELF_FORMING_CLAY_POWER",
+    "upgraded": false
+  },
+  "Self-Help Book": {
+    "table": "events",
+    "entry_id": "SELF_HELP_BOOK",
     "upgraded": false
   },
   "Sentry Mode": {
@@ -7209,6 +7619,11 @@
     "entry_id": "SHARED_FATE",
     "upgraded": true
   },
+  "Sharp": {
+    "table": "enchantments",
+    "entry_id": "SHARP",
+    "upgraded": false
+  },
   "Sharp Edge": {
     "table": "powers",
     "entry_id": "SHARP_EDGE_POWER",
@@ -7292,6 +7707,11 @@
   "Shrinker Beetle": {
     "table": "monsters",
     "entry_id": "SHRINKER_BEETLE",
+    "upgraded": false
+  },
+  "Shroom and Slime": {
+    "table": "encounters",
+    "entry_id": "FLYCONID_NORMAL",
     "upgraded": false
   },
   "Shroud": {
@@ -7434,6 +7854,16 @@
     "entry_id": "SLIPPERY_POWER",
     "upgraded": false
   },
+  "Slippery Bridge": {
+    "table": "events",
+    "entry_id": "SLIPPERY_BRIDGE",
+    "upgraded": false
+  },
+  "Slither": {
+    "table": "enchantments",
+    "entry_id": "SLITHER",
+    "upgraded": false
+  },
   "Slithering Strangler": {
     "table": "monsters",
     "entry_id": "SLITHERING_STRANGLER",
@@ -7464,14 +7894,29 @@
     "entry_id": "SLUMBER_POWER",
     "upgraded": false
   },
+  "Slumber Party": {
+    "table": "encounters",
+    "entry_id": "SLUMBERING_BEETLE_NORMAL",
+    "upgraded": false
+  },
   "Slumbering Beetle": {
     "table": "monsters",
     "entry_id": "SLUMBERING_BEETLE",
     "upgraded": false
   },
+  "Slumbering Essence": {
+    "table": "enchantments",
+    "entry_id": "SLUMBERING_ESSENCE",
+    "upgraded": false
+  },
   "Small Capsule": {
     "table": "relics",
     "entry_id": "SMALL_CAPSULE",
+    "upgraded": false
+  },
+  "Smog": {
+    "table": "afflictions",
+    "entry_id": "SMOG",
     "upgraded": false
   },
   "Smoggy": {
@@ -7609,6 +8054,11 @@
     "entry_id": "SOUL_WITHER",
     "upgraded": false
   },
+  "Soul's Power": {
+    "table": "enchantments",
+    "entry_id": "SOULS_POWER",
+    "upgraded": false
+  },
   "Soul+": {
     "table": "cards",
     "entry_id": "SOUL",
@@ -7648,6 +8098,11 @@
     "table": "cards",
     "entry_id": "SOW",
     "upgraded": true
+  },
+  "Sown": {
+    "table": "enchantments",
+    "entry_id": "SOWN",
+    "upgraded": false
   },
   "Sozu": {
     "table": "relics",
@@ -7717,6 +8172,21 @@
   "Spiny Toad": {
     "table": "monsters",
     "entry_id": "SPINY_TOAD",
+    "upgraded": false
+  },
+  "Spiral": {
+    "table": "enchantments",
+    "entry_id": "SPIRAL",
+    "upgraded": false
+  },
+  "Spiraling Whirlpool": {
+    "table": "events",
+    "entry_id": "SPIRALING_WHIRLPOOL",
+    "upgraded": false
+  },
+  "Spirit Grafter": {
+    "table": "events",
+    "entry_id": "SPIRIT_GRAFTER",
     "upgraded": false
   },
   "Spirit of Ash": {
@@ -7879,6 +8349,11 @@
     "entry_id": "STARDUST",
     "upgraded": true
   },
+  "Steady": {
+    "table": "enchantments",
+    "entry_id": "STEADY",
+    "upgraded": false
+  },
   "Steam Eruption": {
     "table": "powers",
     "entry_id": "STEAM_ERUPTION_POWER",
@@ -7934,6 +8409,11 @@
     "entry_id": "STONE_HUMIDIFIER",
     "upgraded": false
   },
+  "Stone of All Time": {
+    "table": "events",
+    "entry_id": "STONE_OF_ALL_TIME",
+    "upgraded": false
+  },
   "Storm": {
     "table": "powers",
     "entry_id": "STORM_POWER",
@@ -7968,6 +8448,11 @@
     "table": "cards",
     "entry_id": "STRANGLE",
     "upgraded": true
+  },
+  "Strangler and Friend": {
+    "table": "encounters",
+    "entry_id": "SLITHERING_STRANGLER_NORMAL",
+    "upgraded": false
   },
   "Stratagem": {
     "table": "powers",
@@ -8074,6 +8559,11 @@
     "entry_id": "SUNDER",
     "upgraded": true
   },
+  "Sunken Treasury": {
+    "table": "events",
+    "entry_id": "SUNKEN_TREASURY",
+    "upgraded": false
+  },
   "Supercritical": {
     "table": "cards",
     "entry_id": "SUPERCRITICAL",
@@ -8124,6 +8614,11 @@
     "entry_id": "SURVIVOR",
     "upgraded": true
   },
+  "Swarm of Slimes": {
+    "table": "encounters",
+    "entry_id": "SLIMES_NORMAL",
+    "upgraded": false
+  },
   "Sweeping Beam": {
     "table": "cards",
     "entry_id": "SWEEPING_BEAM",
@@ -8143,6 +8638,11 @@
     "table": "cards",
     "entry_id": "SWEEPING_GAZE",
     "upgraded": true
+  },
+  "Swift": {
+    "table": "enchantments",
+    "entry_id": "SWIFT",
+    "upgraded": false
   },
   "Swift Potion": {
     "table": "potions",
@@ -8194,6 +8694,11 @@
     "entry_id": "SWORD_OF_STONE",
     "upgraded": false
   },
+  "Symbiote": {
+    "table": "events",
+    "entry_id": "SYMBIOTE",
+    "upgraded": false
+  },
   "Symbiotic Virus": {
     "table": "relics",
     "entry_id": "SYMBIOTIC_VIRUS",
@@ -8229,6 +8734,11 @@
     "entry_id": "TURBO",
     "upgraded": true
   },
+  "Tablet of Truth": {
+    "table": "events",
+    "entry_id": "TABLET_OF_TRUTH",
+    "upgraded": false
+  },
   "Tactician": {
     "table": "cards",
     "entry_id": "TACTICIAN",
@@ -8250,8 +8760,8 @@
     "upgraded": true
   },
   "Tainted": {
-    "table": "powers",
-    "entry_id": "TAINTED_POWER",
+    "table": "afflictions",
+    "entry_id": "TAINTED",
     "upgraded": false
   },
   "Tangled": {
@@ -8283,6 +8793,11 @@
     "table": "cards",
     "entry_id": "TAUNT",
     "upgraded": true
+  },
+  "Tea Master": {
+    "table": "events",
+    "entry_id": "TEA_MASTER",
+    "upgraded": false
   },
   "Tea of Discourtesy": {
     "table": "relics",
@@ -8344,9 +8859,19 @@
     "entry_id": "TESLA_COIL",
     "upgraded": true
   },
+  "Test Subject": {
+    "table": "encounters",
+    "entry_id": "TEST_SUBJECT_BOSS",
+    "upgraded": false
+  },
   "Test Subject #C{Count}": {
     "table": "monsters",
     "entry_id": "TEST_SUBJECT",
+    "upgraded": false
+  },
+  "Tezcatara's Ember": {
+    "table": "enchantments",
+    "entry_id": "TEZCATARAS_EMBER",
     "upgraded": false
   },
   "Tezcatara's Might": {
@@ -8434,6 +8959,11 @@
     "entry_id": "THE_COURIER",
     "upgraded": false
   },
+  "The Decimillipede": {
+    "table": "encounters",
+    "entry_id": "DECIMILLIPEDE_ELITE",
+    "upgraded": false
+  },
   "The Dreamer": {
     "table": "monsters",
     "entry_id": "THE_DREAMER",
@@ -8442,6 +8972,11 @@
   "The Forgotten": {
     "table": "monsters",
     "entry_id": "THE_FORGOTTEN",
+    "upgraded": false
+  },
+  "The Future of Potions?": {
+    "table": "events",
+    "entry_id": "THE_FUTURE_OF_POTIONS",
     "upgraded": false
   },
   "The Gambit": {
@@ -8469,9 +9004,29 @@
     "entry_id": "THE_INSATIABLE",
     "upgraded": false
   },
+  "The Kin": {
+    "table": "encounters",
+    "entry_id": "THE_KIN_BOSS",
+    "upgraded": false
+  },
+  "The Lantern Key": {
+    "table": "events",
+    "entry_id": "THE_LANTERN_KEY",
+    "upgraded": false
+  },
+  "The Legends Were True": {
+    "table": "events",
+    "entry_id": "THE_LEGENDS_WERE_TRUE",
+    "upgraded": false
+  },
   "The Lost": {
     "table": "monsters",
     "entry_id": "THE_LOST",
+    "upgraded": false
+  },
+  "The Lost Wisp": {
+    "table": "events",
+    "entry_id": "LOST_WISP",
     "upgraded": false
   },
   "The Merchant's Rug???": {
@@ -8480,13 +9035,18 @@
     "upgraded": false
   },
   "The Merchant???": {
-    "table": "monsters",
-    "entry_id": "FAKE_MERCHANT_MONSTER",
+    "table": "events",
+    "entry_id": "FAKE_MERCHANT",
     "upgraded": false
   },
   "The Obscura": {
     "table": "monsters",
     "entry_id": "THE_OBSCURA",
+    "upgraded": false
+  },
+  "The Round Tea Party": {
+    "table": "events",
+    "entry_id": "ROUND_TEA_PARTY",
     "upgraded": false
   },
   "The Scythe": {
@@ -8519,6 +9079,16 @@
     "entry_id": "THE_SMITH",
     "upgraded": true
   },
+  "The Sunken Statue": {
+    "table": "events",
+    "entry_id": "SUNKEN_STATUE",
+    "upgraded": false
+  },
+  "The Trial": {
+    "table": "events",
+    "entry_id": "TRIAL",
+    "upgraded": false
+  },
   "Thievery": {
     "table": "powers",
     "entry_id": "THIEVERY_POWER",
@@ -8538,6 +9108,11 @@
     "table": "cards",
     "entry_id": "THINKING_AHEAD",
     "upgraded": true
+  },
+  "This or That?": {
+    "table": "events",
+    "entry_id": "THIS_OR_THAT",
+    "upgraded": false
   },
   "Thorns": {
     "table": "powers",
@@ -8609,6 +9184,11 @@
     "entry_id": "TINGSHA",
     "upgraded": false
   },
+  "Tinker Time": {
+    "table": "events",
+    "entry_id": "TINKER_TIME",
+    "upgraded": false
+  },
   "Tiny Mailbox": {
     "table": "relics",
     "entry_id": "TINY_MAILBOX",
@@ -8617,6 +9197,11 @@
   "Toadpole": {
     "table": "monsters",
     "entry_id": "TOADPOLE",
+    "upgraded": false
+  },
+  "Toadpoles": {
+    "table": "encounters",
+    "entry_id": "TOADPOLES_WEAK",
     "upgraded": false
   },
   "Toasty Mittens": {
@@ -8734,6 +9319,11 @@
     "entry_id": "TRANSFIGURE",
     "upgraded": true
   },
+  "Trash Heap": {
+    "table": "events",
+    "entry_id": "TRASH_HEAP",
+    "upgraded": false
+  },
   "Trash to Treasure": {
     "table": "powers",
     "entry_id": "TRASH_TO_TREASURE_POWER",
@@ -8784,6 +9374,11 @@
     "entry_id": "TUNNELER",
     "upgraded": false
   },
+  "Tunneling Twosome": {
+    "table": "encounters",
+    "entry_id": "TUNNELER_NORMAL",
+    "upgraded": false
+  },
   "Turret Operator": {
     "table": "monsters",
     "entry_id": "TURRET_OPERATOR",
@@ -8814,9 +9409,19 @@
     "entry_id": "TWISTED_FUNNEL",
     "upgraded": false
   },
+  "Two Gremlins in a Trenchcoat": {
+    "table": "encounters",
+    "entry_id": "GREMLIN_MERC_NORMAL",
+    "upgraded": false
+  },
   "Two-Tailed Rat": {
     "table": "monsters",
     "entry_id": "TWO_TAILED_RAT",
+    "upgraded": false
+  },
+  "Two-Tailed Rats": {
+    "table": "encounters",
+    "entry_id": "TWO_TAILED_RATS_NORMAL",
     "upgraded": false
   },
   "Tyranny": {
@@ -8864,6 +9469,11 @@
     "entry_id": "UNDEATH",
     "upgraded": true
   },
+  "Underdocks Wildlife": {
+    "table": "encounters",
+    "entry_id": "SEAPUNK_NORMAL",
+    "upgraded": false
+  },
   "Underworld": {
     "table": "powers",
     "entry_id": "UNDERWORLD_POWER",
@@ -8908,6 +9518,11 @@
     "table": "cards",
     "entry_id": "UNRELENTING",
     "upgraded": true
+  },
+  "Unrest Site": {
+    "table": "events",
+    "entry_id": "UNREST_SITE",
+    "upgraded": false
   },
   "Unsettling Lamp": {
     "table": "relics",
@@ -9049,6 +9664,11 @@
     "entry_id": "VIGOR_POWER",
     "upgraded": false
   },
+  "Vigorous": {
+    "table": "enchantments",
+    "entry_id": "VIGOROUS",
+    "upgraded": false
+  },
   "Vine Bracelet": {
     "table": "relics",
     "entry_id": "VINE_BRACELET",
@@ -9139,6 +9759,11 @@
     "entry_id": "WAR_HAMMER",
     "upgraded": false
   },
+  "War Historian, Repy": {
+    "table": "events",
+    "entry_id": "WAR_HISTORIAN_REPY",
+    "upgraded": false
+  },
   "War Paint": {
     "table": "relics",
     "entry_id": "WAR_PAINT",
@@ -9169,6 +9794,11 @@
     "entry_id": "WATERFALL_GIANT",
     "upgraded": false
   },
+  "Waterlogged Scriptorium": {
+    "table": "events",
+    "entry_id": "WATERLOGGED_SCRIPTORIUM",
+    "upgraded": false
+  },
   "Weak": {
     "table": "powers",
     "entry_id": "WEAK_POWER",
@@ -9177,6 +9807,11 @@
   "Weak Potion": {
     "table": "potions",
     "entry_id": "WEAK_POTION",
+    "upgraded": false
+  },
+  "Welcome to Wongo's": {
+    "table": "events",
+    "entry_id": "WELCOME_TO_WONGOS",
     "upgraded": false
   },
   "Well-Laid Plans": {
@@ -9188,6 +9823,11 @@
     "table": "cards",
     "entry_id": "WELL_LAID_PLANS",
     "upgraded": true
+  },
+  "Wellspring": {
+    "table": "events",
+    "entry_id": "WELLSPRING",
+    "upgraded": false
   },
   "Whetstone": {
     "table": "relics",
@@ -9207,6 +9847,11 @@
   "Whispering Earring": {
     "table": "relics",
     "entry_id": "WHISPERING_EARRING",
+    "upgraded": false
+  },
+  "Whispering Hollow": {
+    "table": "events",
+    "entry_id": "WHISPERING_HOLLOW",
     "upgraded": false
   },
   "Whistle": {
@@ -9299,6 +9944,11 @@
     "entry_id": "WONGOS_MYSTERY_TICKET",
     "upgraded": false
   },
+  "Wood Carvings": {
+    "table": "events",
+    "entry_id": "WOOD_CARVINGS",
+    "upgraded": false
+  },
   "Wound": {
     "table": "cards",
     "entry_id": "WOUND",
@@ -9327,6 +9977,11 @@
   "Wriggler": {
     "table": "monsters",
     "entry_id": "WRIGGLER",
+    "upgraded": false
+  },
+  "Wrigglers": {
+    "table": "encounters",
+    "entry_id": "DENSE_VEGETATION_EVENT_ENCOUNTER",
     "upgraded": false
   },
   "Writhe": {
@@ -9367,6 +10022,11 @@
   "Zapbot": {
     "table": "monsters",
     "entry_id": "ZAPBOT",
+    "upgraded": false
+  },
+  "Zen Weaver": {
+    "table": "events",
+    "entry_id": "ZEN_WEAVER",
     "upgraded": false
   }
 }
